@@ -1,0 +1,63 @@
+﻿GFX  13:01:21.166 ====================================================================================================
+GFX  13:01:21.166 StarCraft II (B59877)
+GFX  13:01:21.166 
+GFX  13:01:21.166 Executable              F:\Games\StarCraft II\Versions\Base59587\SC2_x64.exe
+GFX  13:01:21.166 <Parameters>            -sso=1 -launch -uid s2_engb
+GFX  13:01:21.166 Parent Executable       \Device\HarddiskVolume7\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  13:01:21.166 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Blizzard App\Battle.net.exe
+GFX  13:01:21.166 LocalTime               2017-12-04 13:01:21.167
+GFX  13:01:21.166 <ComputerUser>          Ivan
+GFX  13:01:21.166 <ComputerName>          DESKTOP-DSNC292
+GFX  13:01:21.166 <Exe.Architecture>      x86_64
+GFX  13:01:21.166 <Version>               4.0.2.59877
+GFX  13:01:21.166 <DataBuild>             B59877
+GFX  13:01:21.166 <CodeBranch>            branches/SC2.4.0
+GFX  13:01:21.166 <CodeRevision>          517210
+GFX  13:01:21.166 <Locale.Assets>         enUS
+GFX  13:01:21.166 <Locale.Data>           enUS
+GFX  13:01:21.166 <Locale.Install>        enUS
+GFX  13:01:21.166 <AccountCountry>        UKR
+GFX  13:01:21.166 <AgentVersion>          2.13.3.5913
+GFX  13:01:21.166 ====================================================================================================
+GFX  13:01:21.166 DXGI: Available
+GFX  13:01:21.336 Resource Cache Override Variable: 0MB
+GFX  13:01:21.336 Resource Cache: 2048MB Win64 (16292MB Physical, 10603MB Process Virtual)
+GFX  13:01:21.336 Resource Cache Sound:  204MB 
+GFX  13:01:21.336 Resource Cache Common: 1843MB 
+GFX  13:01:21.336 Resource Cache VRam:   0MB
+GFX  13:01:21.371 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:01:21.371 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  13:01:21.371 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  13:01:21.769 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  13:01:21.769 CreateDevice succeeded
+GFX  13:01:21.769 Using adapter [0]
+GFX  13:01:21.769 Floating point render targets supported.
+GFX  13:01:21.779 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  13:01:21.779 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  13:01:21.779 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  13:01:21.779 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4531, VRAM: 112MB, SVMEM: 2048MB).
+GFX  13:01:21.891 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:01:21.909 Expanded VRAM to 512MB for Intel GPU
+GFX  13:01:21.909 VRAM texture space: 384MB
+GFX  13:01:26.201 PerfNotifiers initialized
+GFX  13:01:26.280 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:01:26.280 Lost D3D9 device
+GFX  13:01:26.331 
+GFX  13:01:26.331 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:13:14.838 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  13:13:14.838 DirectX call  failed with error code -2005530519
+GFX  13:13:14.838 Lost D3D9 device
+GFX  13:13:15.209 
+GFX  13:13:15.209 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  13:38:51.769 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  13:38:51.769 DirectX call  failed with error code -2005530519
+GFX  13:38:51.769 Lost D3D9 device
+GFX  13:38:52.216 
+GFX  13:38:52.216 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  13:41:05.998 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  14:48:17.063 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  14:48:17.063 DirectX call  failed with error code -2005530519
+GFX  14:48:17.063 Lost D3D9 device
+GFX  14:48:17.962 
+GFX  14:48:17.962 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:06:15.635 Lost D3D9 device

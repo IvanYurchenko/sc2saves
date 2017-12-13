@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Stats">
+        <Key name="games">
+            <Value int="1"/>
+        </Key>
+        <Key name="rating">
+            <Value int="1098"/>
+        </Key>
+        <Key name="wins">
+            <Value int="1"/>
+        </Key>
+        <Key name="checksum">
+            <Value string="bf596121c10ce62dee26f3bc647b42df40480692bd6a0f3e834166fba8781d36"/>
+        </Key>
+    </Section>
+    <Signature value="5ABAFDA3B23DE040BECE0F4F9E65A1940F9D6233"/>
+</Bank>

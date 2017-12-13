@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Players">
+        <Key name="Kills">
+            <Value int="196"/>
+        </Key>
+        <Key name="XP">
+            <Value int="3247"/>
+        </Key>
+        <Key name="Victory">
+            <Value int="1"/>
+        </Key>
+        <Key name="EliteTeam">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Signature value="8841D3C3478F829F6DF1D8A117D2648DF447D563"/>
+</Bank>

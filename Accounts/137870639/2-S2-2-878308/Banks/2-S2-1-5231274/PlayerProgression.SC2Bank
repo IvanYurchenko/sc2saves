@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Unlocked">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="9">
+            <Value int="0"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="1"/>
+        </Key>
+        <Key name="8">
+            <Value int="0"/>
+        </Key>
+        <Key name="10">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="1"/>
+        </Key>
+        <Key name="7">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="XP">
+        <Key name="xp">
+            <Value int="3438"/>
+        </Key>
+    </Section>
+    <Section name="Level">
+        <Key name="mrglglgl">
+            <Value int="108"/>
+        </Key>
+        <Key name="level">
+            <Value int="5"/>
+        </Key>
+    </Section>
+    <Section name="SectionProgress">
+        <Key name="4">
+            <Value int="1"/>
+        </Key>
+        <Key name="1">
+            <Value int="1"/>
+        </Key>
+        <Key name="3">
+            <Value int="1"/>
+        </Key>
+        <Key name="2">
+            <Value int="1"/>
+        </Key>
+        <Key name="5">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="TP">
+        <Key name="1">
+            <Value int="0"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="0">
+            <Value int="5"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="53662D895C5F3679FCBE55B97DCEC11E4C8297AF"/>
+</Bank>

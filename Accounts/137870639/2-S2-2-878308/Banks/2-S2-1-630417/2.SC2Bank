@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="J">
+        <Key name="I">
+            <Value int="316"/>
+        </Key>
+    </Section>
+    <Section name="F">
+        <Key name="E">
+            <Value int="267"/>
+        </Key>
+    </Section>
+    <Section name="H">
+        <Key name="G">
+            <Value int="358"/>
+        </Key>
+    </Section>
+    <Signature value="D5294E7F29FA9A907395AD63DCB5E39E682CA47C"/>
+</Bank>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Stats">
+        <Key name="s2">
+            <Value string="0"/>
+        </Key>
+        <Key name="s3">
+            <Value string="0"/>
+        </Key>
+        <Key name="sb1">
+            <Value string="1700251120026138"/>
+        </Key>
+        <Key name="v">
+            <Value int="3"/>
+        </Key>
+        <Key name="c">
+            <Value string="000001WR"/>
+        </Key>
+        <Key name="sb2">
+            <Value string="0"/>
+        </Key>
+        <Key name="s1">
+            <Value string="10009619330889461585906339277847065605674167504547873819415834342748997781539012131544360634739950539725735167661770172099844639603"/>
+        </Key>
+        <Key name="sb3">
+            <Value string="0"/>
+        </Key>
+    </Section>
+    <Signature value="AA6CF70C3314EE087E04E18C87214D68A246C0A2"/>
+</Bank>

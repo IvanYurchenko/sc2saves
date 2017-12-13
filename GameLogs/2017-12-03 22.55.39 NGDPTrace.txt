@@ -1,0 +1,16 @@
+﻿NGDP Name Resolution Failed: //level3.blizzard.com
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: //blzddist1-a.akamaihd.net
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: //level3.blizzard.com
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+
+NGDP Name Resolution Failed: //blzddist1-a.akamaihd.net
+
+NGDP Downloader Error: DOWNLOAD_ERR_NAME_RESOLUTION_FAILED
+

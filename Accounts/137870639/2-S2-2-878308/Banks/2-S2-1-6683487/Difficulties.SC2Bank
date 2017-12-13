@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Difficulty">
+        <Key name="Coins">
+            <Value int="36"/>
+        </Key>
+        <Key name="BILL">
+            <Value int="0"/>
+        </Key>
+        <Key name="Normal">
+            <Value int="0"/>
+        </Key>
+        <Key name="Easy">
+            <Value int="0"/>
+        </Key>
+        <Key name="Angela">
+            <Value int="0"/>
+        </Key>
+        <Key name="Terromania">
+            <Value int="0"/>
+        </Key>
+        <Key name="Larvox">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hybrid">
+            <Value int="0"/>
+        </Key>
+        <Key name="Legendary">
+            <Value int="0"/>
+        </Key>
+        <Key name="Brutal">
+            <Value int="0"/>
+        </Key>
+        <Key name="Moderator">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zack">
+            <Value int="0"/>
+        </Key>
+        <Key name="Sooc">
+            <Value int="0"/>
+        </Key>
+        <Key name="Money land">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hard">
+            <Value int="0"/>
+        </Key>
+        <Key name="Infested City">
+            <Value int="0"/>
+        </Key>
+        <Key name="Ismael">
+            <Value int="0"/>
+        </Key>
+        <Key name="Infestor Mod">
+            <Value int="0"/>
+        </Key>
+        <Key name="Creator">
+            <Value int="0"/>
+        </Key>
+        <Key name="Fergus">
+            <Value int="0"/>
+        </Key>
+        <Key name="Psichy">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="C5EE71080577DAE6B6BEFED303F6C531455CB02C"/>
+</Bank>
