@@ -40,13 +40,13 @@
     </Section>
     <Section name="PlayerStats">
         <Key name="Kills_BroodlingSpawner">
-            <Value int="6"/>
+            <Value int="9"/>
         </Key>
         <Key name="Produced_StingerNest">
             <Value int="0"/>
         </Key>
         <Key name="Ability_UpgradeForagerNest">
-            <Value int="49"/>
+            <Value int="131"/>
         </Key>
         <Key name="Ranked_Version">
             <Value int="3"/>
@@ -61,10 +61,10 @@
             <Value int="5"/>
         </Key>
         <Key name="Produced_QueenFire">
-            <Value int="0"/>
+            <Value int="2"/>
         </Key>
         <Key name="Ability_UpgradeSoldierSpeed">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
         <Key name="Record_FoodSpent">
             <Value int="13250"/>
@@ -73,10 +73,10 @@
             <Value int="117"/>
         </Key>
         <Key name="Kills_Dirt">
-            <Value int="133"/>
+            <Value int="398"/>
         </Key>
         <Key name="Produced_QueenWood">
-            <Value int="0"/>
+            <Value int="2"/>
         </Key>
         <Key name="FreeForAll_DurationPlayed">
             <Value int="0"/>
@@ -85,7 +85,7 @@
             <Value int="0"/>
         </Key>
         <Key name="Kills_Quillgor">
-            <Value int="41"/>
+            <Value int="82"/>
         </Key>
         <Key name="Kills_QueenBlack">
             <Value int="0"/>
@@ -94,40 +94,40 @@
             <Value int="0"/>
         </Key>
         <Key name="Produced_BroodlingSpawner">
-            <Value int="26"/>
+            <Value int="49"/>
         </Key>
         <Key name="Produced_SoldierNest">
-            <Value int="39"/>
+            <Value int="114"/>
         </Key>
         <Key name="Produced_QueenBlack">
-            <Value int="2"/>
+            <Value int="6"/>
         </Key>
         <Key name="Ability_BuildWall">
             <Value int="0"/>
         </Key>
         <Key name="Ability_UpgradeBroodlingSpawner">
-            <Value int="3"/>
+            <Value int="5"/>
         </Key>
         <Key name="Record_UnitsProduced">
             <Value int="1058"/>
         </Key>
         <Key name="Kills_QueenFire">
-            <Value int="0"/>
+            <Value int="1"/>
         </Key>
         <Key name="Kills_MajorNest">
             <Value int="0"/>
         </Key>
         <Key name="Ability_UpgradeUnitArmor">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
         <Key name="Ability_AcidicStrikes">
-            <Value int="2"/>
+            <Value int="10"/>
         </Key>
         <Key name="Ranked_Wins">
             <Value int="0"/>
         </Key>
         <Key name="Kills_AcidSprayer">
-            <Value int="0"/>
+            <Value int="2"/>
         </Key>
         <Key name="Produced_Wall">
             <Value int="0"/>
@@ -136,10 +136,10 @@
             <Value int="0"/>
         </Key>
         <Key name="Ability_UpgradeUnitDamage">
-            <Value int="3"/>
+            <Value int="6"/>
         </Key>
         <Key name="Ability_UpgradeSoldierNest">
-            <Value int="72"/>
+            <Value int="93"/>
         </Key>
         <Key name="Ability_UpgradeSubterraneanTrail">
             <Value int="0"/>
@@ -148,10 +148,10 @@
             <Value int="0"/>
         </Key>
         <Key name="Kills_QueenWood">
-            <Value int="0"/>
+            <Value int="2"/>
         </Key>
         <Key name="3v3_DurationPlayed">
-            <Value int="0"/>
+            <Value int="1342"/>
         </Key>
         <Key name="2v2v2_DurationPlayed">
             <Value int="0"/>
@@ -184,25 +184,25 @@
             <Value int="0"/>
         </Key>
         <Key name="Kills_SoldierNest">
-            <Value int="0"/>
+            <Value int="1"/>
         </Key>
         <Key name="Produced_Forager">
-            <Value int="79"/>
+            <Value int="325"/>
         </Key>
         <Key name="Ability_Dig">
-            <Value int="115"/>
+            <Value int="357"/>
         </Key>
         <Key name="2v2v2_Losses">
             <Value int="0"/>
         </Key>
         <Key name="Kills_Forager">
-            <Value int="8"/>
+            <Value int="88"/>
         </Key>
         <Key name="Produced_ForagerNest">
-            <Value int="54"/>
+            <Value int="159"/>
         </Key>
         <Key name="Ability_VenomSpray">
-            <Value int="0"/>
+            <Value int="8"/>
         </Key>
         <Key name="3v3_Losses">
             <Value int="0"/>
@@ -217,16 +217,16 @@
             <Value int="602"/>
         </Key>
         <Key name="Kills_ForagerNest">
-            <Value int="4"/>
+            <Value int="15"/>
         </Key>
         <Key name="Produced_Soldier">
-            <Value int="867"/>
+            <Value int="1237"/>
         </Key>
         <Key name="Kills_Soldier">
-            <Value int="428"/>
+            <Value int="992"/>
         </Key>
         <Key name="Produced_Misaligned">
-            <Value int="2"/>
+            <Value int="3"/>
         </Key>
         <Key name="Produced_Major">
             <Value int="9"/>
@@ -235,11 +235,11 @@
             <Value int="0"/>
         </Key>
         <Key name="3v3_Wins">
-            <Value int="0"/>
+            <Value int="1"/>
         </Key>
         <Key name="OpenAlliances_Losses">
             <Value int="2"/>
         </Key>
     </Section>
-    <Signature value="7BD303E1F479BE02B6FA34EFA233D975B048B675"/>
+    <Signature value="46A748A8830B3B87F04E957019F3977E2D5174D5"/>
 </Bank>
