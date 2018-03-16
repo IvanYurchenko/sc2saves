@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="lIllI11IIlIl">
+        <Key name="lIIlIllI11lI">
+            <Value string="0b#nFHJJ1HMc1HK8FG7NEGKMGHKKCD78GDJ8BFM8CGMLCDK8BFK8BIINGDLNBDL8GGHJ13KN1FKM"/>
+        </Key>
+        <Key name="playername">
+            <Value text="LazeR"/>
+        </Key>
+    </Section>
+    <Signature value="BF71DDF86F2E4672181234433379B0BF56BA954A"/>
+</Bank>

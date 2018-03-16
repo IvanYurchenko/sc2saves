@@ -1,0 +1,11 @@
+﻿14:04:46.580 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:46.702 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:47.173 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:47.348 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:47.804 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:47.863 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:47.984 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:48.156 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:48.255 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:48.732 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.
+14:04:48.794 LocalizedData\GameStrings.txt was not downloaded before being used. Add a preload request with a literal path or link to download it during the loading screen.

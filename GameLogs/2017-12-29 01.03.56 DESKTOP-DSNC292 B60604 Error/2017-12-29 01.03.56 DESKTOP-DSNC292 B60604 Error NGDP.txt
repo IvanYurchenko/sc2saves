@@ -1,0 +1,143 @@
+﻿DIAG_BUFFER_ERROR
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|555438465]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|555438465]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|574785618]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|574785618]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[7|1054698145]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[7|1054698145]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|538324916]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|538324916]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|569724187]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|569724187]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|575620374]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|575620374]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|528855218]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|528855218]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|574072568]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|574072568]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|577410387]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|577410387]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|524157441]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|524157441]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|560245159]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|560245159]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|544121431]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|544121431]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|589534572]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|589534572]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|567175727]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|567175727]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:56] {4934} ERR: read fail #49 @[1|774567179]: Permission denied
+
+DIAG_BUFFER_INFO
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|555438465]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|555438465]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|574785618]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|574785618]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[7|1054698145]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[7|1054698145]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|538324916]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|538324916]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|569724187]: Permission denied
+[20171229T01:03:53] {2c80} ERR: read fail #4096 @[8|569724187]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|575620374]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|575620374]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|528855218]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|528855218]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|574072568]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|574072568]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|577410387]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|577410387]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|524157441]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|524157441]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|560245159]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|560245159]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|544121431]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|544121431]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|589534572]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|589534572]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|567175727]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|567175727]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:56] {4934} ERR: read fail #49 @[1|774567179]: Permission denied
+
+DIAG_BUFFER_ALL
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|574072568]: Permission denied
+[20171229T01:03:54] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:4E6C526A21324E87BE126B44167CF8EF
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|577410387]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|577410387]: Permission denied
+[20171229T01:03:54] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:B4995B96FB8125EFB72341F9C417397D
+[20171229T01:03:54] {4a9c} debug: select() -> 0
+[20171229T01:03:54] {4a9c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|524157441]: Permission denied
+[20171229T01:03:54] {2c80} ERR: read fail #4096 @[8|524157441]: Permission denied
+[20171229T01:03:54] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:24539D884830CD025B2D9AC2D6825697
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|560245159]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|560245159]: Permission denied
+[20171229T01:03:55] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:D836E1E563901CED2A6D82E4A6834B30
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|544121431]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|544121431]: Permission denied
+[20171229T01:03:55] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:AC6BBCCDB2D255F2EE30DDFD746F4A38
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|572645267]: Permission denied
+[20171229T01:03:55] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:1ED71D52DBB0E398AA0E5EB99205B5E4
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|589534572]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|589534572]: Permission denied
+[20171229T01:03:55] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:794C89827B3E2086E86008407090F82C
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|567175727]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|567175727]: Permission denied
+[20171229T01:03:55] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:72AE9247065CBEC9F1918AD747B0F4EF
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|594981554]: Permission denied
+[20171229T01:03:55] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:2C90258F34292B05674C8E6B7F9132AE
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|545940543]: Permission denied
+[20171229T01:03:55] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:711B610EFD156CF426FA74D359985774
+[20171229T01:03:55] {4a9c} debug: select() -> 0
+[20171229T01:03:55] {4a9c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:55] {2c80} ERR: read fail #4096 @[8|584461172]: Permission denied
+[20171229T01:03:55] {2c80} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:BF490DA2888E4279332600CCA61D13D3
+[20171229T01:03:56] {4934} ERR: read fail #49 @[1|774567179]: Permission denied
+[20171229T01:03:56] {4934} noise: Game sent error report: e_fileCorrupt (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:77D9A7BFBF1611E811779CA37836631C
+[20171229T01:03:56] {4a9c} debug: select() -> 0
+[20171229T01:03:56] {4a9c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms

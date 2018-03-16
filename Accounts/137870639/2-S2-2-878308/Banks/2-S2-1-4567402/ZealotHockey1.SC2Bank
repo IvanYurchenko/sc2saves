@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="SavedGame">
+        <Key name="HasGameSaved">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="k">
+        <Key name="o">
+            <Value string="3XoLLLXb"/>
+        </Key>
+        <Key name="s">
+            <Value string="hLIIkmJDQG63lwckV4sG3IXXzdULZvg3lhSqV9EVw8IjZTeaKVTwBIxqOvtVhIIsnmOX5yd9lwxqG4rO6G8LnLbIiOghZMcklVpOhXD81mbo2ym7ihM1yGpO0jXIzTJa5v6MYwNkGGtV3DIaFdeyy4gwBofjVOrajIbVZ"/>
+        </Key>
+    </Section>
+    <Section name="stats">
+        <Key name="elostart3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="elo2">
+            <Value fixed="1000"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="uihide">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Hotkeys">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Lighting">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Stats">
+        <Key name="GoalieELO">
+            <Value fixed="1499.9755"/>
+        </Key>
+    </Section>
+    <Signature value="2AF7DDDCCCDF672F03AA3C15A44AE15B49929B00"/>
+</Bank>

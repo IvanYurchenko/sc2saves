@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Save">
+        <Key name="Waves">
+            <Value int="10"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="1"/>
+        </Key>
+        <Key name="Maps">
+            <Value string="baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
+        </Key>
+        <Key name="BuilderHero">
+            <Value string="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
+        </Key>
+    </Section>
+    <Signature value="0DAFEED8C73AF61BBC932FEC0B57AFBFBE9A2E08"/>
+</Bank>

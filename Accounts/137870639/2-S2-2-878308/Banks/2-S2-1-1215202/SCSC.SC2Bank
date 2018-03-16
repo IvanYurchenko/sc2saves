@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Rating 1v1">
+        <Key name="MVP">
+            <Value int="0"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="0"/>
+        </Key>
+        <Key name="PSR">
+            <Value int="1500"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="0"/>
+        </Key>
+        <Key name="Left">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Other">
+        <Key name="GameOptions">
+            <Value int="15"/>
+        </Key>
+        <Key name="NoobCheck">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Rating 3v3">
+        <Key name="MVP">
+            <Value int="0"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="0"/>
+        </Key>
+        <Key name="PSR">
+            <Value int="1500"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="0"/>
+        </Key>
+        <Key name="Left">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Rating 2v2">
+        <Key name="MVP">
+            <Value int="0"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="0"/>
+        </Key>
+        <Key name="PSR">
+            <Value int="1500"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="0"/>
+        </Key>
+        <Key name="Left">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="E634A26DF973E6F8D7DFAE88D0CF6E63E33A2166"/>
+</Bank>

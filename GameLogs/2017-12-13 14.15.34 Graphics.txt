@@ -1,0 +1,101 @@
+﻿GFX  14:15:34.383 ====================================================================================================
+GFX  14:15:34.383 StarCraft II (B60321)
+GFX  14:15:34.383 
+GFX  14:15:34.383 Executable              F:\Games\StarCraft II\Versions\Base60321\SC2_x64.exe
+GFX  14:15:34.383 <Parameters>            -sso=1 -launch -uid s2_engb
+GFX  14:15:34.383 Parent Executable       \Device\HarddiskVolume8\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  14:15:34.383 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  14:15:34.383 LocalTime               2017-12-13 14:15:34.384
+GFX  14:15:34.383 <ComputerUser>          Ivan
+GFX  14:15:34.383 <ComputerName>          DESKTOP-DSNC292
+GFX  14:15:34.383 <Exe.Architecture>      x86_64
+GFX  14:15:34.383 <Version>               4.1.1.60321
+GFX  14:15:34.383 <DataBuild>             B60321
+GFX  14:15:34.383 <CodeBranch>            branches/SC2.4.01
+GFX  14:15:34.383 <CodeRevision>          520023
+GFX  14:15:34.383 <Locale.Assets>         enUS
+GFX  14:15:34.383 <Locale.Data>           enUS
+GFX  14:15:34.383 <Locale.Install>        enUS
+GFX  14:15:34.383 <AccountCountry>        UKR
+GFX  14:15:34.383 <AgentVersion>          2.13.4.5955
+GFX  14:15:34.383 ====================================================================================================
+GFX  14:15:34.382 DXGI: Available
+GFX  14:15:34.534 Resource Cache Override Variable: 0MB
+GFX  14:15:34.534 Resource Cache: 2048MB Win64 (16292MB Physical, 7907MB Process Virtual)
+GFX  14:15:34.534 Resource Cache Sound:  204MB 
+GFX  14:15:34.534 Resource Cache Common: 1843MB 
+GFX  14:15:34.534 Resource Cache VRam:   0MB
+GFX  14:15:34.534 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  14:15:34.535 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  14:15:34.568 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  14:15:34.568 CreateDevice succeeded
+GFX  14:15:34.568 Using adapter [0]
+GFX  14:15:34.568 Floating point render targets supported.
+GFX  14:15:34.572 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  14:15:34.572 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  14:15:34.572 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  14:15:34.572 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  14:15:34.573 Hardware Depth Sampling: Available
+GFX  14:15:34.580 Expanded VRAM to 512MB for Intel GPU
+GFX  14:15:34.580 VRAM texture space: 384MB
+GFX  14:15:38.568 PerfNotifiers initialized
+GFX  14:15:38.597 Lost D3D9 device
+GFX  14:15:38.609 
+GFX  14:15:38.609 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:04.452 Selected display mode 1280x720x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:04.453 Lost D3D9 device
+GFX  14:16:05.932 
+GFX  14:16:05.932 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:05.952 Selected display mode 1280x720x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:05.953 Lost D3D9 device
+GFX  14:16:06.168 
+GFX  14:16:06.168 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:06.168 Lost D3D9 device
+GFX  14:16:06.401 
+GFX  14:16:06.401 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  14:16:17.557 Selected display mode 1280x768x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:17.557 Lost D3D9 device
+GFX  14:16:18.024 
+GFX  14:16:18.024 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:18.051 Selected display mode 1280x768x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:18.051 Lost D3D9 device
+GFX  14:16:18.278 
+GFX  14:16:18.278 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:18.278 Lost D3D9 device
+GFX  14:16:18.470 
+GFX  14:16:18.470 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  14:16:22.978 Selected display mode 1280x1024x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:22.978 Lost D3D9 device
+GFX  14:16:23.426 
+GFX  14:16:23.426 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:23.451 Selected display mode 1280x1024x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:23.452 Lost D3D9 device
+GFX  14:16:23.655 
+GFX  14:16:23.655 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:23.655 Lost D3D9 device
+GFX  14:16:23.888 
+GFX  14:16:23.888 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  14:16:30.909 Selected display mode 2880x1800x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:30.909 Lost D3D9 device
+GFX  14:16:32.390 
+GFX  14:16:32.390 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:32.437 Selected display mode 2880x1800x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:16:32.437 Lost D3D9 device
+GFX  14:16:32.721 
+GFX  14:16:32.721 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:32.721 Lost D3D9 device
+GFX  14:16:33.021 
+GFX  14:16:33.021 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  14:16:44.470 Lost D3D9 device
+GFX  14:16:44.644 
+GFX  14:16:44.644 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:44.645 Lost D3D9 device
+GFX  14:16:44.856 
+GFX  14:16:44.856 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:16:44.945 Lost D3D9 device
+GFX  14:16:45.124 
+GFX  14:16:45.124 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  14:21:41.362 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  16:33:02.163 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  16:34:16.707 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  17:40:29.124 Lost D3D9 device

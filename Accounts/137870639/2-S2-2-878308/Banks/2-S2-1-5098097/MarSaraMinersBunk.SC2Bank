@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Sig">
+        <Key name="Sig">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="Stats">
+        <Key name="PlayingTimeZergs">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="ZergBuilder">
+            <Value int="0"/>
+        </Key>
+        <Key name="RocksDestroyed">
+            <Value int="0"/>
+        </Key>
+        <Key name="PlayingTimeMiner2">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="TotalMetall">
+            <Value int="0"/>
+        </Key>
+        <Key name="TotalMinerals">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberLosesMiners">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberLoses">
+            <Value int="0"/>
+        </Key>
+        <Key name="MinerHeroDeath">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zerg2HeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberWinsZerg1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zerg1HeroDeath">
+            <Value int="0"/>
+        </Key>
+        <Key name="MinerBuilder">
+            <Value int="0"/>
+        </Key>
+        <Key name="Miner3HeroDeath">
+            <Value int="0"/>
+        </Key>
+        <Key name="Miner2HeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="ZergHeroDeath">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGamesMiners">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zerg1HeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberWinsZerg2">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGamesZerg1">
+            <Value int="0"/>
+        </Key>
+        <Key name="PlayingTimeMiner1">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="PlayingTimeMiners">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Miner3HeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberWinsMiners">
+            <Value int="0"/>
+        </Key>
+        <Key name="PlayingTimeGeneral">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="MinerHeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberWinsZerg3">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGamesZerg2">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGamesMiner3">
+            <Value int="0"/>
+        </Key>
+        <Key name="PlayingTimeZerg3">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="PlayingTimeMiner3">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="NumberWinsMiner2">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberWinsMiner1">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="ResMiners">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGamesMiner2">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGamesMiner1">
+            <Value int="0"/>
+        </Key>
+        <Key name="AlyHeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberWinsZergz">
+            <Value int="0"/>
+        </Key>
+        <Key name="OvermindDamage">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="PlayingTimeZerg1">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Miner2HeroDeath">
+            <Value int="0"/>
+        </Key>
+        <Key name="PlayingTimeZerg2">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Miner1HeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zerg3HeroDeath">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zerg3HeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGamesZerg3">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGamesZergz">
+            <Value int="0"/>
+        </Key>
+        <Key name="Miner1HeroDeath">
+            <Value int="0"/>
+        </Key>
+        <Key name="ZergHeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberGames">
+            <Value int="1"/>
+        </Key>
+        <Key name="OvermindDamageInt">
+            <Value int="0"/>
+        </Key>
+        <Key name="Zerg2HeroDeath">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberLosesZergs">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberWinsMiner3">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Exp">
+        <Key name="ExpZerg3">
+            <Value int="0"/>
+        </Key>
+        <Key name="ExpMiners">
+            <Value int="0"/>
+        </Key>
+        <Key name="ExpZerg2">
+            <Value int="0"/>
+        </Key>
+        <Key name="ExpZerg1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ExpGeneral">
+            <Value int="0"/>
+        </Key>
+        <Key name="ExpMiner3">
+            <Value int="0"/>
+        </Key>
+        <Key name="ExpMiner2">
+            <Value int="0"/>
+        </Key>
+        <Key name="ExpMiner1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ExpZergs">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Achive">
+        <Key name="AMinerHeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="AExpZerg3">
+            <Value int="0"/>
+        </Key>
+        <Key name="AOvermindDamage">
+            <Value int="0"/>
+        </Key>
+        <Key name="ARocksDestroyed">
+            <Value int="0"/>
+        </Key>
+        <Key name="AZergHeroKiller">
+            <Value int="0"/>
+        </Key>
+        <Key name="AWinsZergz">
+            <Value int="0"/>
+        </Key>
+        <Key name="AWinsGeneral">
+            <Value int="0"/>
+        </Key>
+        <Key name="AExpMiner2">
+            <Value int="0"/>
+        </Key>
+        <Key name="AExpGeneral">
+            <Value int="0"/>
+        </Key>
+        <Key name="AExpMiner3">
+            <Value int="0"/>
+        </Key>
+        <Key name="AZergBuilder">
+            <Value int="0"/>
+        </Key>
+        <Key name="AWinsMiners">
+            <Value int="0"/>
+        </Key>
+        <Key name="AExpZerg1">
+            <Value int="0"/>
+        </Key>
+        <Key name="AExpMiner1">
+            <Value int="0"/>
+        </Key>
+        <Key name="AMinerBuilder">
+            <Value int="0"/>
+        </Key>
+        <Key name="AExpZerg2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="5F84D374A71B60A7E1C796E83075A4E9F572F830"/>
+</Bank>

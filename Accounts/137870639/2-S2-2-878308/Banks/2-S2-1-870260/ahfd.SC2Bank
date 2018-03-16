@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="smrz">
+        <Key name="wky">
+            <Value string=""/>
+        </Key>
+        <Key name="rew">
+            <Value string="r7Qr7ar7.r7Yr7b"/>
+        </Key>
+        <Key name="id">
+            <Value string="2-S2-2-878308TS"/>
+        </Key>
+        <Key name="uiconfig">
+            <Value int="106"/>
+        </Key>
+        <Key name="ra">
+            <Value string=""/>
+        </Key>
+        <Key name="mrz">
+            <Value string="a2mn7a7a7.,o,l7`7X7X7W7h757gT?TJ7H7~7[7s7@7c7878+r+Z+!+D+p+:+M+C+F+]+m+)+l+}+6+=+O+o+w+f"/>
+        </Key>
+        <Key name="nnn">
+            <Value text="LazeR"/>
+        </Key>
+        <Key name="pmi">
+            <Value string=""/>
+        </Key>
+        <Key name="rs">
+            <Value string="Zrrrrrrrrrrr"/>
+        </Key>
+        <Key name="hhh">
+            <Value string="Pi| ;zxpSSVW2ur).U9Zflw;."/>
+        </Key>
+    </Section>
+    <Signature value="91B2DDC559353E82FA19CF4A89D8764B0D881D56"/>
+</Bank>

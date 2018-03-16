@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="player">
+        <Key name="kills">
+            <Value int="92"/>
+        </Key>
+        <Key name="I">
+            <Value fixed="93.1"/>
+        </Key>
+    </Section>
+</Bank>

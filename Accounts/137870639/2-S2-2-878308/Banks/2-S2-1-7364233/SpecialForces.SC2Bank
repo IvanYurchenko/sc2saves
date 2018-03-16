@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Player">
+        <Key name="KillsTotal">
+            <Value int="459"/>
+        </Key>
+        <Key name="Points">
+            <Value int="-440"/>
+        </Key>
+        <Key name="GamesTotal">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="0ED1F9204234F85F0E60C6448C032AD03AFF599C"/>
+</Bank>

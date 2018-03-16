@@ -1,0 +1,62 @@
+﻿GFX  20:24:36.298 ====================================================================================================
+GFX  20:24:36.298 StarCraft II (B62848)
+GFX  20:24:36.298 
+GFX  20:24:36.298 Executable              F:\Games\StarCraft II\Versions\Base62848\SC2_x64.exe
+GFX  20:24:36.298 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  20:24:36.298 Parent Executable       \Device\HarddiskVolume7\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  20:24:36.298 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  20:24:36.298 LocalTime               2018-03-07 20:24:36.299
+GFX  20:24:36.298 <ComputerUser>          Ivan
+GFX  20:24:36.298 <ComputerName>          DESKTOP-DSNC292
+GFX  20:24:36.298 <Exe.Architecture>      x86_64
+GFX  20:24:36.298 <Version>               4.2.1.62848
+GFX  20:24:36.298 <DataBuild>             B62848
+GFX  20:24:36.298 <CodeBranch>            branches/SC2.4.2.a
+GFX  20:24:36.298 <CodeRevision>          534281
+GFX  20:24:36.298 <Locale.Assets>         enUS
+GFX  20:24:36.298 <Locale.Data>           enUS
+GFX  20:24:36.298 <Locale.Install>        enUS
+GFX  20:24:36.298 <AccountCountry>        UKR
+GFX  20:24:36.298 <AgentVersion>          2.13.10.6082
+GFX  20:24:36.298 ====================================================================================================
+GFX  20:24:36.298 DXGI: Available
+GFX  20:24:36.472 Resource Cache Override Variable: 0MB
+GFX  20:24:36.472 Resource Cache: 2048MB Win64 (16292MB Physical, 14742MB Process Virtual)
+GFX  20:24:36.472 Resource Cache Sound:  204MB 
+GFX  20:24:36.472 Resource Cache Common: 1843MB 
+GFX  20:24:36.472 Resource Cache VRam:   0MB
+GFX  20:24:36.492 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  20:24:36.492 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  20:24:36.492 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  20:24:38.136 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  20:24:38.136 CreateDevice succeeded
+GFX  20:24:38.136 Using adapter [0]
+GFX  20:24:38.136 Floating point render targets supported.
+GFX  20:24:38.142 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  20:24:38.142 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  20:24:38.142 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  20:24:38.142 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  20:24:38.185 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  20:24:38.185 Hardware Depth Sampling: Available
+GFX  20:24:38.191 Expanded VRAM to 512MB for Intel GPU
+GFX  20:24:38.191 VRAM texture space: 384MB
+GFX  20:24:41.673 PerfNotifiers initialized
+GFX  20:24:41.727 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  20:24:41.727 Lost D3D9 device
+GFX  20:24:41.765 
+GFX  20:24:41.765 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:14:04.114 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  22:14:04.114 DirectX call  failed with error code -2005530519
+GFX  22:14:04.114 Lost D3D9 device
+GFX  22:14:05.933 
+GFX  22:14:05.933 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  22:15:48.904 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  22:16:16.812 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  22:59:54.821 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  00:03:48.595 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-supply-terran_nobg.dds
+GFX  00:03:48.629 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-mineral-nobg.dds
+GFX  00:19:26.034 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-supply-protoss_nobg.dds
+GFX  00:22:40.837 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-supply-terran_nobg.dds
+GFX  00:22:40.862 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-mineral-nobg.dds
+GFX  00:23:00.996 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  00:38:14.157 Lost D3D9 device

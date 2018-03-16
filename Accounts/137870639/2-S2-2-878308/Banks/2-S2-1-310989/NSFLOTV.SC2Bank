@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="beti">
+        <Key name="btsu">
+            <Value fixed="2729.7333"/>
+        </Key>
+        <Key name="tottim">
+            <Value int="5527"/>
+        </Key>
+    </Section>
+    <Section name="archimall">
+        <Key name="archim99">
+            <Value int="1"/>
+        </Key>
+        <Key name="archim18">
+            <Value int="1"/>
+        </Key>
+        <Key name="archim8">
+            <Value int="1"/>
+        </Key>
+        <Key name="tot">
+            <Value int="1"/>
+        </Key>
+        <Key name="archim13">
+            <Value int="1"/>
+        </Key>
+        <Key name="plra">
+            <Value int="1230"/>
+        </Key>
+        <Key name="vic3">
+            <Value int="1"/>
+        </Key>
+        <Key name="archim3">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="A224429C0EF27E9C5C77CD50CDDDF0927D564BF0"/>
+</Bank>

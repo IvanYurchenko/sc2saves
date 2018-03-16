@@ -1,0 +1,85 @@
+﻿GFX  14:50:36.681 ====================================================================================================
+GFX  14:50:36.681 StarCraft II (B62848)
+GFX  14:50:36.681 
+GFX  14:50:36.681 Executable              F:\Games\StarCraft II\Versions\Base62848\SC2_x64.exe
+GFX  14:50:36.681 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  14:50:36.681 Parent Executable       \Device\HarddiskVolume7\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  14:50:36.681 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  14:50:36.681 LocalTime               2018-03-08 14:50:36.682
+GFX  14:50:36.681 <ComputerUser>          Ivan
+GFX  14:50:36.681 <ComputerName>          DESKTOP-DSNC292
+GFX  14:50:36.681 <Exe.Architecture>      x86_64
+GFX  14:50:36.681 <Version>               4.2.1.62848
+GFX  14:50:36.681 <DataBuild>             B62848
+GFX  14:50:36.681 <CodeBranch>            branches/SC2.4.2.a
+GFX  14:50:36.681 <CodeRevision>          534281
+GFX  14:50:36.681 <Locale.Assets>         enUS
+GFX  14:50:36.681 <Locale.Data>           enUS
+GFX  14:50:36.681 <Locale.Install>        enUS
+GFX  14:50:36.681 <AccountCountry>        UKR
+GFX  14:50:36.681 <AgentVersion>          2.13.10.6082
+GFX  14:50:36.681 ====================================================================================================
+GFX  14:50:36.680 DXGI: Available
+GFX  14:50:36.828 Resource Cache Override Variable: 0MB
+GFX  14:50:36.828 Resource Cache: 2048MB Win64 (16292MB Physical, 14329MB Process Virtual)
+GFX  14:50:36.828 Resource Cache Sound:  204MB 
+GFX  14:50:36.828 Resource Cache Common: 1843MB 
+GFX  14:50:36.828 Resource Cache VRam:   0MB
+GFX  14:50:36.845 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:50:36.846 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  14:50:36.846 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  14:50:38.350 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  14:50:38.350 CreateDevice succeeded
+GFX  14:50:38.350 Using adapter [0]
+GFX  14:50:38.350 Floating point render targets supported.
+GFX  14:50:38.360 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  14:50:38.360 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  14:50:38.360 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  14:50:38.360 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  14:50:38.399 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:50:38.399 Hardware Depth Sampling: Available
+GFX  14:50:38.405 Expanded VRAM to 512MB for Intel GPU
+GFX  14:50:38.405 VRAM texture space: 384MB
+GFX  14:50:39.605 PerfNotifiers initialized
+GFX  14:50:39.630 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:50:39.630 Lost D3D9 device
+GFX  14:50:39.674 
+GFX  14:50:39.674 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  15:22:08.536 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  15:22:08.536 DirectX call  failed with error code -2005530519
+GFX  15:22:08.536 Lost D3D9 device
+GFX  15:22:10.595 
+GFX  15:22:10.595 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  15:23:36.642 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  15:23:36.642 DirectX call  failed with error code -2005530519
+GFX  15:23:36.642 Lost D3D9 device
+GFX  15:23:38.383 
+GFX  15:23:38.383 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:19:53.314 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  16:19:53.314 DirectX call  failed with error code -2005530519
+GFX  16:19:53.314 Lost D3D9 device
+GFX  16:19:55.084 
+GFX  16:19:55.084 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:24:50.001 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  16:24:50.001 DirectX call  failed with error code -2005530519
+GFX  16:24:50.001 Lost D3D9 device
+GFX  16:24:51.819 
+GFX  16:24:51.819 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:26:39.022 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  16:26:49.696 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  16:37:11.017 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  16:37:11.017 DirectX call  failed with error code -2005530519
+GFX  16:37:11.017 Lost D3D9 device
+GFX  16:37:13.088 
+GFX  16:37:13.088 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:45:01.951 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  16:45:01.951 DirectX call  failed with error code -2005530519
+GFX  16:45:01.951 Lost D3D9 device
+GFX  16:45:03.867 
+GFX  16:45:03.867 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  17:21:54.363 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  17:21:54.363 DirectX call  failed with error code -2005530519
+GFX  17:21:54.363 Lost D3D9 device
+GFX  17:21:56.263 
+GFX  17:21:56.263 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  17:22:59.905 Lost D3D9 device

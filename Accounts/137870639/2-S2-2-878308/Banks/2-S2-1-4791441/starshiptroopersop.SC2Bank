@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="stats">
+        <Key name="Survivor">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="Exterminator">
+            <Value fixed="1"/>
+        </Key>
+    </Section>
+</Bank>

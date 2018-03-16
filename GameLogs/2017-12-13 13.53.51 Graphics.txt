@@ -1,0 +1,126 @@
+﻿GFX  13:53:51.587 ====================================================================================================
+GFX  13:53:51.587 StarCraft II (B60321)
+GFX  13:53:51.587 
+GFX  13:53:51.587 Executable              F:\Games\StarCraft II\Versions\Base60321\SC2_x64.exe
+GFX  13:53:51.587 <Parameters>            -sso=1 -launch -uid s2_engb
+GFX  13:53:51.587 Parent Executable       \Device\HarddiskVolume8\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  13:53:51.587 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  13:53:51.587 LocalTime               2017-12-13 13:53:51.588
+GFX  13:53:51.587 <ComputerUser>          Ivan
+GFX  13:53:51.587 <ComputerName>          DESKTOP-DSNC292
+GFX  13:53:51.587 <Exe.Architecture>      x86_64
+GFX  13:53:51.587 <Version>               4.1.1.60321
+GFX  13:53:51.587 <DataBuild>             B60321
+GFX  13:53:51.587 <CodeBranch>            branches/SC2.4.01
+GFX  13:53:51.587 <CodeRevision>          520023
+GFX  13:53:51.587 <Locale.Assets>         enUS
+GFX  13:53:51.587 <Locale.Data>           enUS
+GFX  13:53:51.587 <Locale.Install>        enUS
+GFX  13:53:51.587 <AccountCountry>        UKR
+GFX  13:53:51.587 <AgentVersion>          2.13.4.5955
+GFX  13:53:51.587 ====================================================================================================
+GFX  13:53:51.586 DXGI: Available
+GFX  13:53:51.739 Resource Cache Override Variable: 0MB
+GFX  13:53:51.739 Resource Cache: 2048MB Win64 (16292MB Physical, 7985MB Process Virtual)
+GFX  13:53:51.739 Resource Cache Sound:  204MB 
+GFX  13:53:51.739 Resource Cache Common: 1843MB 
+GFX  13:53:51.739 Resource Cache VRam:   0MB
+GFX  13:53:51.784 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:53:51.785 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  13:53:51.785 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  13:53:53.114 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  13:53:53.114 CreateDevice succeeded
+GFX  13:53:53.114 Using adapter [0]
+GFX  13:53:53.114 Floating point render targets supported.
+GFX  13:53:53.118 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  13:53:53.118 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  13:53:53.118 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  13:53:53.118 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  13:53:53.155 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:53:53.156 Hardware Depth Sampling: Available
+GFX  13:53:53.160 Expanded VRAM to 512MB for Intel GPU
+GFX  13:53:53.160 VRAM texture space: 384MB
+GFX  13:53:54.840 PerfNotifiers initialized
+GFX  13:53:54.851 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:53:54.851 Lost D3D9 device
+GFX  13:53:54.890 
+GFX  13:53:54.890 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:54:08.653 Lost D3D9 device
+GFX  13:54:10.099 
+GFX  13:54:10.099 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:54:10.101 Lost D3D9 device
+GFX  13:54:10.457 
+GFX  13:54:10.457 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:54:10.459 Lost D3D9 device
+GFX  13:54:10.716 
+GFX  13:54:10.716 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:54:24.846 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:54:24.846 Lost D3D9 device
+GFX  13:54:26.317 
+GFX  13:54:26.317 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:54:26.336 Selected display mode 1280x720x0 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:54:26.337 Lost D3D9 device
+GFX  13:54:26.637 
+GFX  13:54:26.637 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:54:26.637 Lost D3D9 device
+GFX  13:54:26.920 
+GFX  13:54:26.920 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:54:32.507 Selected display mode 1280x720x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:54:32.507 Lost D3D9 device
+GFX  13:54:32.623 
+GFX  13:54:32.623 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:54:32.623 Lost D3D9 device
+GFX  13:54:32.837 
+GFX  13:54:32.837 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:54:43.185 Lost D3D9 device
+GFX  13:54:44.512 
+GFX  13:54:44.512 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:54:44.514 Lost D3D9 device
+GFX  13:54:44.842 
+GFX  13:54:44.842 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:54:44.867 Lost D3D9 device
+GFX  13:54:45.109 
+GFX  13:54:45.109 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:55:21.357 Lost D3D9 device
+GFX  13:55:21.489 
+GFX  13:55:21.489 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:55:21.489 Lost D3D9 device
+GFX  13:55:21.656 
+GFX  13:55:21.656 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:55:21.656 Lost D3D9 device
+GFX  13:55:21.823 
+GFX  13:55:21.823 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:58:14.499 DirectX call  failed with error code -2005530519
+GFX  13:58:14.499 Lost D3D9 device
+GFX  13:58:14.566 
+GFX  13:58:14.566 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:58:19.489 Lost D3D9 device
+GFX  13:58:19.537 
+GFX  13:58:19.537 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:58:19.537 Lost D3D9 device
+GFX  13:58:19.695 
+GFX  13:58:19.695 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:58:19.696 Lost D3D9 device
+GFX  13:58:19.851 
+GFX  13:58:19.851 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:58:51.512 Selected display mode 1280x720x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:58:51.512 Lost D3D9 device
+GFX  13:58:52.946 
+GFX  13:58:52.946 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:58:52.963 Selected display mode 1280x720x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  13:58:52.963 Lost D3D9 device
+GFX  13:58:53.164 
+GFX  13:58:53.164 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:58:53.164 Lost D3D9 device
+GFX  13:58:53.382 
+GFX  13:58:53.382 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  13:58:56.077 Lost D3D9 device
+GFX  13:58:57.471 
+GFX  13:58:57.471 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:58:57.478 Lost D3D9 device
+GFX  13:58:57.691 
+GFX  13:58:57.691 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:58:57.691 Lost D3D9 device
+GFX  13:58:57.851 
+GFX  13:58:57.851 D3D9 Device Reset from ::GfxResetDevice returned e_errorKindGfx(0)
+GFX  14:01:49.605 Lost D3D9 device

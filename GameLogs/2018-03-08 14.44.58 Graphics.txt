@@ -1,0 +1,52 @@
+﻿GFX  14:44:58.529 ====================================================================================================
+GFX  14:44:58.529 StarCraft II (B62347)
+GFX  14:44:58.529 
+GFX  14:44:58.529 Executable              F:\Games\StarCraft II\Versions\Base62347\SC2_x64.exe
+GFX  14:44:58.529 <Parameters>            -LocaleIdData enUS -LocaleIdAssets enUS
+GFX  14:44:58.529 Parent Executable       \Device\HarddiskVolume7\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  14:44:58.529 Grandparent Executable  \Device\HarddiskVolume7\Games\StarCraft II\Versions\Base62848\SC2_x64.exe
+GFX  14:44:58.529 LocalTime               2018-03-08 14:44:58.530
+GFX  14:44:58.529 <ComputerUser>          Ivan
+GFX  14:44:58.529 <ComputerName>          DESKTOP-DSNC292
+GFX  14:44:58.529 <Exe.Architecture>      x86_64
+GFX  14:44:58.529 <Version>               4.2.0.62347
+GFX  14:44:58.529 <DataBuild>             B62347
+GFX  14:44:58.529 RunRequest              4
+GFX  14:44:58.529 RunRequestRootKey       C0C0E9D37FCDBC437CE386C6BE2D1F93
+GFX  14:44:58.529 RunRequestBuildKey      C7E40CEE557A54C7BFBC38A02D40E61A
+GFX  14:44:58.529 RunRequestCdnKey        F592D46A3CB1322DB293E475C373CBA2
+GFX  14:44:58.529 <CodeBranch>            branches/SC2.4.2
+GFX  14:44:58.529 <CodeRevision>          531866
+GFX  14:44:58.529 <Locale.Assets>         enUS
+GFX  14:44:58.529 <Locale.Data>           enUS
+GFX  14:44:58.529 <Locale.Install>        enUS
+GFX  14:44:58.529 <AccountCountry>        UKR
+GFX  14:44:58.529 <AgentVersion>          not_started
+GFX  14:44:58.529 ====================================================================================================
+GFX  14:44:58.528 DXGI: Available
+GFX  14:44:58.688 Resource Cache Override Variable: 0MB
+GFX  14:44:58.688 Resource Cache: 2048MB Win64 (16292MB Physical, 14454MB Process Virtual)
+GFX  14:44:58.688 Resource Cache Sound:  204MB 
+GFX  14:44:58.688 Resource Cache Common: 1843MB 
+GFX  14:44:58.688 Resource Cache VRam:   0MB
+GFX  14:44:58.710 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:44:58.710 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  14:44:58.710 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  14:45:00.168 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  14:45:00.168 CreateDevice succeeded
+GFX  14:45:00.168 Using adapter [0]
+GFX  14:45:00.168 Floating point render targets supported.
+GFX  14:45:00.175 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  14:45:00.175 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  14:45:00.175 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  14:45:00.175 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  14:45:00.227 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:45:00.229 Hardware Depth Sampling: Available
+GFX  14:45:00.233 Expanded VRAM to 512MB for Intel GPU
+GFX  14:45:00.234 VRAM texture space: 384MB
+GFX  14:45:01.678 PerfNotifiers initialized
+GFX  14:45:01.689 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:45:01.689 Lost D3D9 device
+GFX  14:45:01.731 
+GFX  14:45:01.731 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:49:57.709 Lost D3D9 device

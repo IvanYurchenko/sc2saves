@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="data">
+        <Key name="keynum">
+            <Value int="23"/>
+        </Key>
+        <Key name="games">
+            <Value int="3"/>
+        </Key>
+        <Key name="wins">
+            <Value int="2"/>
+        </Key>
+    </Section>
+</Bank>

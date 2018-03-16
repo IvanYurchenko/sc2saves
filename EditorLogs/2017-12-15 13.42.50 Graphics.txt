@@ -1,0 +1,41 @@
+﻿GFX  13:42:50.669 ====================================================================================================
+GFX  13:42:50.669 SC2Editor (B60321)
+GFX  13:42:50.669 
+GFX  13:42:50.669 Executable              F:\Games\StarCraft II\Support64\SC2Editor_x64.exe
+GFX  13:42:50.669 <Parameters>            -uid s2_engb
+GFX  13:42:50.669 Parent Executable       \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  13:42:50.669 Grandparent Executable  No grandparent process found
+GFX  13:42:50.669 LocalTime               2017-12-15 13:42:50.669
+GFX  13:42:50.669 <ComputerUser>          Ivan
+GFX  13:42:50.669 <ComputerName>          DESKTOP-DSNC292
+GFX  13:42:50.669 <Exe.Architecture>      x86_64
+GFX  13:42:50.669 <Version>               4.1.1.60321
+GFX  13:42:50.669 <DataBuild>             B60321
+GFX  13:42:50.669 <CodeBranch>            branches/SC2.4.01
+GFX  13:42:50.669 <CodeRevision>          520023
+GFX  13:42:50.669 <Locale.Assets>         enUS
+GFX  13:42:50.669 <Locale.Data>           enUS
+GFX  13:42:50.669 <Locale.Install>        enUS
+GFX  13:42:50.669 <AccountCountry>        
+GFX  13:42:50.669 <AgentVersion>          2.13.4.5955
+GFX  13:42:50.669 ====================================================================================================
+GFX  13:42:50.667 DXGI: Available
+GFX  13:42:50.683 Resource Cache Override Variable: 0MB
+GFX  13:42:50.683 Resource Cache: 2048MB Win64 (16292MB Physical, 10558MB Process Virtual)
+GFX  13:42:50.683 Resource Cache Sound:  204MB 
+GFX  13:42:50.683 Resource Cache Common: 1843MB 
+GFX  13:42:50.683 Resource Cache VRam:   0MB
+GFX  13:42:50.683 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  13:42:50.683 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  13:42:50.697 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  13:42:50.697 CreateDevice succeeded
+GFX  13:42:50.697 Using adapter [0]
+GFX  13:42:50.697 Floating point render targets supported.
+GFX  13:42:50.699 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  13:42:50.699 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  13:42:50.699 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  13:42:50.699 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  13:42:50.700 Hardware Depth Sampling: Available
+GFX  13:42:50.704 Expanded VRAM to 512MB for Intel GPU
+GFX  13:42:50.704 VRAM texture space: 384MB
+GFX  14:11:12.992 Lost D3D9 device

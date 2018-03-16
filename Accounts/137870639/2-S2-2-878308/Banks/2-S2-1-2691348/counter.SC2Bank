@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="counter">
+        <Key name="cSpineSpore">
+            <Value int="164"/>
+        </Key>
+        <Key name="csum">
+            <Value int="1503"/>
+        </Key>
+        <Key name="cHybridDominator">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>
