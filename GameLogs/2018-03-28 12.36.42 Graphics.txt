@@ -1,0 +1,53 @@
+﻿GFX  12:36:42.882 ====================================================================================================
+GFX  12:36:42.882 StarCraft II (B63454)
+GFX  12:36:42.882 
+GFX  12:36:42.882 Executable              F:\Games\StarCraft II\Versions\Base63454\SC2_x64.exe
+GFX  12:36:42.882 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  12:36:42.882 Parent Executable       \Device\HarddiskVolume7\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  12:36:42.882 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  12:36:42.882 LocalTime               2018-03-28 12:36:42.883
+GFX  12:36:42.882 <ComputerUser>          Ivan
+GFX  12:36:42.882 <ComputerName>          DESKTOP-DSNC292
+GFX  12:36:42.882 <Exe.Architecture>      x86_64
+GFX  12:36:42.882 <Version>               4.2.2.63454
+GFX  12:36:42.882 <DataBuild>             B63454
+GFX  12:36:42.882 <CodeBranch>            branches/SC2.4.2.a
+GFX  12:36:42.882 <CodeRevision>          537511
+GFX  12:36:42.882 <Locale.Assets>         enUS
+GFX  12:36:42.882 <Locale.Data>           enUS
+GFX  12:36:42.882 <Locale.Install>        enUS
+GFX  12:36:42.882 <AccountCountry>        UKR
+GFX  12:36:42.882 <AgentVersion>          2.13.10.6082
+GFX  12:36:42.882 ====================================================================================================
+GFX  12:36:42.882 DXGI: Available
+GFX  12:36:43.042 Resource Cache Override Variable: 0MB
+GFX  12:36:43.042 Resource Cache: 2048MB Win64 (16292MB Physical, 16577MB Process Virtual)
+GFX  12:36:43.042 Resource Cache Sound:  204MB 
+GFX  12:36:43.042 Resource Cache Common: 1843MB 
+GFX  12:36:43.042 Resource Cache VRam:   0MB
+GFX  12:36:43.062 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:36:43.062 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  12:36:43.062 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  12:36:44.631 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  12:36:44.631 CreateDevice succeeded
+GFX  12:36:44.631 Using adapter [0]
+GFX  12:36:44.631 Floating point render targets supported.
+GFX  12:36:44.638 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  12:36:44.638 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  12:36:44.638 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  12:36:44.638 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  12:36:44.657 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:36:44.657 Hardware Depth Sampling: Available
+GFX  12:36:44.661 Expanded VRAM to 512MB for Intel GPU
+GFX  12:36:44.661 VRAM texture space: 384MB
+GFX  12:36:47.216 PerfNotifiers initialized
+GFX  12:36:47.270 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:36:47.270 Lost D3D9 device
+GFX  12:36:47.307 
+GFX  12:36:47.307 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  13:24:01.334 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  13:24:01.334 DirectX call  failed with error code -2005530519
+GFX  13:24:01.334 Lost D3D9 device
+GFX  13:24:03.364 
+GFX  13:24:03.364 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  13:24:10.490 Lost D3D9 device

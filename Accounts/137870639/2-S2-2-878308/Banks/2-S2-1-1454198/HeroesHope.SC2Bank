@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Section1">
+        <Key name="TutorialHero">
+            <Value int="1"/>
+        </Key>
+        <Key name="HeroLoss">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="9999FEDBA0B4B3C27DADB29C2D7B1EC6DA94682E"/>
+</Bank>

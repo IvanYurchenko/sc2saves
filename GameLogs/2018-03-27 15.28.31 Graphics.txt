@@ -1,0 +1,96 @@
+﻿GFX  15:28:31.489 ====================================================================================================
+GFX  15:28:31.489 StarCraft II (B62848)
+GFX  15:28:31.489 
+GFX  15:28:31.489 Executable              F:\Games\StarCraft II\Versions\Base62848\SC2_x64.exe
+GFX  15:28:31.489 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  15:28:31.489 Parent Executable       \Device\HarddiskVolume9\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  15:28:31.489 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  15:28:31.489 LocalTime               2018-03-27 15:28:31.490
+GFX  15:28:31.489 <ComputerUser>          Ivan
+GFX  15:28:31.489 <ComputerName>          DESKTOP-DSNC292
+GFX  15:28:31.489 <Exe.Architecture>      x86_64
+GFX  15:28:31.489 <Version>               4.2.1.62848
+GFX  15:28:31.489 <DataBuild>             B62848
+GFX  15:28:31.489 <CodeBranch>            branches/SC2.4.2.a
+GFX  15:28:31.489 <CodeRevision>          534281
+GFX  15:28:31.489 <Locale.Assets>         enUS
+GFX  15:28:31.489 <Locale.Data>           enUS
+GFX  15:28:31.489 <Locale.Install>        enUS
+GFX  15:28:31.489 <AccountCountry>        UKR
+GFX  15:28:31.489 <AgentVersion>          2.13.10.6082
+GFX  15:28:31.489 ====================================================================================================
+GFX  15:28:31.488 DXGI: Available
+GFX  15:28:31.647 Resource Cache Override Variable: 0MB
+GFX  15:28:31.647 Resource Cache: 2048MB Win64 (16292MB Physical, 10766MB Process Virtual)
+GFX  15:28:31.647 Resource Cache Sound:  204MB 
+GFX  15:28:31.648 Resource Cache Common: 1843MB 
+GFX  15:28:31.648 Resource Cache VRam:   0MB
+GFX  15:28:31.667 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  15:28:31.667 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  15:28:31.667 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  15:28:33.240 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  15:28:33.240 CreateDevice succeeded
+GFX  15:28:33.241 Using adapter [0]
+GFX  15:28:33.241 Floating point render targets supported.
+GFX  15:28:33.251 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  15:28:33.251 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  15:28:33.251 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  15:28:33.251 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  15:28:33.323 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  15:28:33.325 Hardware Depth Sampling: Available
+GFX  15:28:33.331 Expanded VRAM to 512MB for Intel GPU
+GFX  15:28:33.331 VRAM texture space: 384MB
+GFX  15:28:37.540 PerfNotifiers initialized
+GFX  15:28:37.610 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  15:28:37.610 Lost D3D9 device
+GFX  15:28:37.652 
+GFX  15:28:37.652 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  15:34:42.831 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  15:35:02.161 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  15:53:17.421 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530520
+GFX  15:53:19.718 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  15:53:19.718 DirectX call  failed with error code -2005530519
+GFX  15:53:19.719 Lost D3D9 device
+GFX  15:53:21.508 
+GFX  15:53:21.508 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:22:42.146 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  16:22:42.146 DirectX call  failed with error code -2005530519
+GFX  16:22:42.146 Lost D3D9 device
+GFX  16:22:43.801 
+GFX  16:22:43.801 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:51:00.562 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  16:59:51.321 DirectX call D3DXGetImageInfoFromFileInMemory failed with error code -2005529767 for texture c:\programdata\blizzard entertainment\battle.net\cache\54\25\54256dc17653a70213a4538f8d682a7069f433320247519d061d5c93e52a53be.s2mv
+GFX  16:59:51.321 WARNING: texture c:\programdata\blizzard entertainment\battle.net\cache\54\25\54256dc17653a70213a4538f8d682a7069f433320247519d061d5c93e52a53be.s2mv failed to create
+GFX  17:04:07.020 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  17:50:11.671 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stank_emissive.dds
+GFX  17:50:27.764 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\billboards_diffuse.dds
+GFX  17:50:27.768 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\spaceplatformsignriksville_diffuse.dds
+GFX  17:50:27.827 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\internationalsigns_emissive.dds
+GFX  17:50:27.837 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\internationalsigns_diffuse.dds
+GFX  17:50:28.309 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\spaceplatformposteripistol_diffuse.dds
+GFX  17:50:28.310 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\spaceplatformpostera_diffuse.dds
+GFX  17:50:29.268 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\korhal_flag3.dds
+GFX  18:19:22.516 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\wireframe-mod-l2d_zerg-stank.dds
+GFX  18:25:15.700 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\billboards_diffuse.dds
+GFX  18:25:15.701 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\spaceplatformpostera_diffuse.dds
+GFX  18:25:15.701 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\korhal_flag3.dds
+GFX  18:25:15.701 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\spaceplatformsignriksville_diffuse.dds
+GFX  18:25:15.701 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\spaceplatformposteripistol_diffuse.dds
+GFX  18:25:15.715 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\internationalsigns_emissive.dds
+GFX  18:25:15.715 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\internationalsigns_diffuse.dds
+GFX  18:25:29.587 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marineraynor_diffuse.dds
+GFX  18:25:31.858 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\medicstetmann_diffuse.dds
+GFX  18:25:32.181 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswannbody_diffuse.dds
+GFX  18:25:32.196 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswann_diffuse.dds
+GFX  18:44:48.584 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marineraynor_diffuse.dds
+GFX  18:47:01.282 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\tassadar_diffuse.dds
+GFX  18:47:01.283 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\tassadar_emissive.dds
+GFX  19:09:56.641 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\medicstetmann_diffuse.dds
+GFX  19:12:17.424 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswann_diffuse.dds
+GFX  19:12:17.427 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswannbody_diffuse.dds
+GFX  19:15:54.933 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  19:15:54.934 DirectX call  failed with error code -2005530519
+GFX  19:15:54.934 Lost D3D9 device
+GFX  19:15:57.733 
+GFX  19:15:57.733 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  19:16:02.867 Lost D3D9 device

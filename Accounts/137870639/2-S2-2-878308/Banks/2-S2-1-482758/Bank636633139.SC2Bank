@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="1">
+        <Key name="1">
+            <Value int="5"/>
+        </Key>
+    </Section>
+    <Section name="Games">
+        <Key name="1">
+            <Value int="2"/>
+        </Key>
+        <Key name="2">
+            <Value int="22"/>
+        </Key>
+    </Section>
+    <Section name="Best">
+        <Key name="1">
+            <Value int="-13691"/>
+        </Key>
+        <Key name="36">
+            <Value int="-13693"/>
+        </Key>
+        <Key name="5">
+            <Value int="-13698"/>
+        </Key>
+    </Section>
+    <Section name="Rank">
+        <Key name="14">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="16">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="1">
+            <Value text="A+"/>
+        </Key>
+        <Key name="19">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="20">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="2">
+            <Value fixed="265.59"/>
+        </Key>
+        <Key name="21">
+            <Value fixed="2.5898"/>
+        </Key>
+        <Key name="11">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="15">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="22">
+            <Value fixed="16.13"/>
+        </Key>
+        <Key name="12">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="13">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="17">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="18">
+            <Value fixed="1"/>
+        </Key>
+    </Section>
+</Bank>

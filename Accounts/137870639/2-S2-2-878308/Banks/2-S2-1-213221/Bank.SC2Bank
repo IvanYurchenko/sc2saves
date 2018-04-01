@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Stats">
+        <Key name="ZergLoss">
+            <Value int="2"/>
+        </Key>
+        <Key name="PvPLoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZvPLoss">
+            <Value int="0"/>
+        </Key>
+        <Key name="ZvTLoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="PvZWin">
+            <Value int="0"/>
+        </Key>
+        <Key name="PvZLoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="PvTLoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZvZLoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZergWin">
+            <Value int="1"/>
+        </Key>
+        <Key name="Win">
+            <Value int="3"/>
+        </Key>
+        <Key name="TvTLoss">
+            <Value int="0"/>
+        </Key>
+        <Key name="TerranWin">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZvPWin">
+            <Value int="0"/>
+        </Key>
+        <Key name="ZvTWin">
+            <Value int="1"/>
+        </Key>
+        <Key name="TvTWin">
+            <Value int="0"/>
+        </Key>
+        <Key name="PvPWin">
+            <Value int="0"/>
+        </Key>
+        <Key name="TvPWin">
+            <Value int="1"/>
+        </Key>
+        <Key name="TerranLoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="TvPLoss">
+            <Value int="1"/>
+        </Key>
+        <Key name="Loss">
+            <Value int="6"/>
+        </Key>
+        <Key name="TvZLoss">
+            <Value int="0"/>
+        </Key>
+        <Key name="ZvZWin">
+            <Value int="0"/>
+        </Key>
+        <Key name="PvTWin">
+            <Value int="0"/>
+        </Key>
+        <Key name="TvZWin">
+            <Value int="1"/>
+        </Key>
+        <Key name="ProtossLoss">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Ladder">
+        <Key name="Rating">
+            <Value int="1450"/>
+        </Key>
+    </Section>
+</Bank>

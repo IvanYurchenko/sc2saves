@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="player">
+        <Key name="deaths">
+            <Value int="1"/>
+        </Key>
+        <Key name="subClassKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="rating">
+            <Value int="995"/>
+        </Key>
+        <Key name="corruptionKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="ultraliskKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="craftedStructures">
+            <Value int="0"/>
+        </Key>
+        <Key name="placementCheck">
+            <Value int="2"/>
+        </Key>
+        <Key name="experimentKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="hvalue">
+            <Value int="3"/>
+        </Key>
+        <Key name="baseClassKills">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="2567EC4015F077C844D9010E3253DF3388142319"/>
+</Bank>

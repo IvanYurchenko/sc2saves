@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Sec">
+        <Key name="VERS">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="HEAL">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="EXPP">
+            <Value fixed="3150"/>
+        </Key>
+        <Key name="NIGHTELITE">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="NIVEXP">
+            <Value fixed="8568"/>
+        </Key>
+        <Key name="KILLED">
+            <Value fixed="100548"/>
+        </Key>
+        <Key name="NIGHTMNHD">
+            <Value fixed="21"/>
+        </Key>
+        <Key name="NIVO">
+            <Value fixed="7"/>
+        </Key>
+    </Section>
+    <Signature value="40FF5624104A1E0899225EB7EC182B892C1ED641"/>
+</Bank>

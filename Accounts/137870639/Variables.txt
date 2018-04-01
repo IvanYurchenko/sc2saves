@@ -1,4 +1,4 @@
 gluetheme=-1
-LastCampaignId[1]=0
+LastCampaignId[1]=5
 soundresponses=false
-soundvoicesvolume=0.661000
+soundvoicesvolume=0.828726

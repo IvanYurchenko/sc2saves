@@ -2,13 +2,13 @@
 <Bank version="1">
     <Section name="data">
         <Key name="keynum">
-            <Value int="23"/>
+            <Value int="46"/>
         </Key>
         <Key name="games">
-            <Value int="3"/>
+            <Value int="6"/>
         </Key>
         <Key name="wins">
-            <Value int="2"/>
+            <Value int="4"/>
         </Key>
     </Section>
 </Bank>

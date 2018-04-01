@@ -1,0 +1,67 @@
+﻿Load campaign bank
+Location set to TarsonisCity
+Load mission sections
+Apply Tech
+Disable  Banshee
+Disable  Banshee
+Disable  Banshee
+Disable  Banshee
+Disable  Battlecruiser
+Disable  Battlecruiser
+Disable  Battlecruiser
+Disable  Battlecruiser
+Disable  Bunker
+Disable  CommandCenter
+Disable  Goliath
+Disable  Goliath
+Disable  Goliath
+Disable  Goliath
+Disable  Hellbat
+Disable  Hellbat
+Disable  Hellbat
+Disable  Hellbat
+Disable  Marauder
+Disable  Marauder
+Disable  Marauder
+Disable  Marauder
+Disable  Hellion
+Disable  Liberator
+Disable  Liberator
+Disable  Liberator
+Disable  Liberator
+Disable  Marine
+Disable  Marine
+Disable  Marine
+Disable  Marine
+Disable  MissileTurret
+Disable  Raven
+Disable  Raven
+Disable  Raven
+Disable  Raven
+Disable  Reaper
+Disable  Reaper
+Disable  Reaper
+Disable  Reaper
+Disable  SCV
+Disable  SiegeTank
+Disable  SiegeTank
+Disable  SiegeTank
+Disable  SiegeTank
+Enable Hellbat
+Enable Hellbat
+Enable Marauder
+Enable Marauder
+Enable Hellion
+Enable Marine
+Enable Marine
+Enable Reaper
+Enable Reaper
+Enable SiegeTank
+Enable SiegeTank
+Enable CommandCenter
+Enable Bunker
+Enable SCV
+Enable MissileTurret
+UI options
+End game options
+Location set to TarsonisCity

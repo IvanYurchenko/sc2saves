@@ -1,0 +1,107 @@
+﻿DIAG_BUFFER_INFO
+[20180328T13:50:54] {17e4} INF: adding network address 67.26.109.254:80 for server //level3.blizzard.com
+[20180328T13:50:54] {17e4} INF: adding network address 8.248.111.254:80 for server //level3.blizzard.com
+[20180328T13:55:56] {17e4} INF: adding network address 8.247.209.254:80 for server //level3.blizzard.com
+[20180328T14:00:56] {17e4} INF: adding network address 67.26.105.254:80 for server //level3.blizzard.com
+[20180328T14:00:56] {17e4} INF: adding network address 8.248.105.254:80 for server //level3.blizzard.com
+[20180328T14:05:57] {17e4} INF: adding network address 67.24.25.254:80 for server //level3.blizzard.com
+[20180328T14:10:58] {17e4} INF: adding network address 8.253.208.120:80 for server //level3.blizzard.com
+[20180328T14:10:58] {17e4} INF: adding network address 67.26.73.254:80 for server //level3.blizzard.com
+[20180328T14:15:58] {17e4} INF: adding network address 67.26.115.254:80 for server //level3.blizzard.com
+[20180328T14:15:58] {17e4} INF: adding network address 67.26.75.254:80 for server //level3.blizzard.com
+[20180328T14:20:59] {17e4} INF: adding network address 8.247.210.126:80 for server //level3.blizzard.com
+[20180328T14:41:00] {17e4} INF: adding network address 87.245.196.105:80 for server //blzddist1-a.akamaihd.net
+[20180328T14:46:00] {17e4} INF: adding network address 87.245.196.90:80 for server //blzddist1-a.akamaihd.net
+[20180328T14:51:01] {17e4} INF: adding network address 87.245.196.88:80 for server //blzddist1-a.akamaihd.net
+[20180328T14:56:02] {17e4} INF: adding network address 87.245.196.75:80 for server //blzddist1-a.akamaihd.net
+[20180328T15:01:02] {17e4} INF: adding network address 67.26.113.254:80 for server //level3.blizzard.com
+[20180328T15:01:02] {17e4} INF: adding network address 8.248.107.254:80 for server //level3.blizzard.com
+[20180328T15:11:02] {17e4} INF: adding network address 8.248.7.254:80 for server //level3.blizzard.com
+[20180328T15:46:02] {17e4} INF: adding network address 87.245.196.72:80 for server //blzddist1-a.akamaihd.net
+[20180328T15:51:03] {17e4} INF: adding network address 8.253.145.121:80 for server //level3.blizzard.com
+[20180328T15:51:03] {17e4} INF: adding network address 8.253.145.105:80 for server //level3.blizzard.com
+[20180328T15:51:03] {17e4} INF: adding network address 87.245.196.80:80 for server //blzddist1-a.akamaihd.net
+[20180328T15:56:03] {17e4} INF: adding network address 87.245.196.74:80 for server //blzddist1-a.akamaihd.net
+[20180328T16:06:03] {17e4} INF: adding network address 67.26.137.254:80 for server //level3.blizzard.com
+[20180328T16:11:03] {17e4} INF: adding network address 87.245.196.113:80 for server //blzddist1-a.akamaihd.net
+[20180328T16:11:03] {17e4} INF: adding network address 87.245.196.104:80 for server //blzddist1-a.akamaihd.net
+[20180328T16:16:03] {17e4} INF: adding network address 8.253.145.120:80 for server //level3.blizzard.com
+[20180328T16:21:03] {17e4} INF: adding network address 87.245.196.106:80 for server //blzddist1-a.akamaihd.net
+[20180328T16:26:03] {17e4} INF: adding network address 67.26.139.254:80 for server //level3.blizzard.com
+[20180328T17:01:04] {17e4} INF: adding network address 87.245.196.99:80 for server //blzddist1-a.akamaihd.net
+[20180328T18:06:05] {17e4} INF: adding network address 91.223.19.232:80 for server //blzddist1-a.akamaihd.net
+[20180328T18:06:05] {17e4} INF: adding network address 91.223.19.243:80 for server //blzddist1-a.akamaihd.net
+[20180328T18:11:06] {17e4} INF: adding network address 91.223.19.241:80 for server //blzddist1-a.akamaihd.net
+[20180328T18:11:06] {17e4} INF: adding network address 91.223.19.234:80 for server //blzddist1-a.akamaihd.net
+[20180328T18:11:06] {17e4} INF: adding network address 91.223.19.235:80 for server //blzddist1-a.akamaihd.net
+[20180328T18:11:06] {17e4} INF: adding network address 91.223.19.233:80 for server //blzddist1-a.akamaihd.net
+[20180328T18:11:06] {17e4} INF: adding network address 91.223.19.242:80 for server //blzddist1-a.akamaihd.net
+[20180328T18:26:10] {17e4} INF: adding network address 8.27.10.125:80 for server //level3.blizzard.com
+
+DIAG_BUFFER_ALL
+[20180328T18:41:57] {17e4} debug: select() -> 0
+[20180328T18:41:57] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.995ms
+[20180328T18:41:58] {17e4} debug: select() -> 0
+[20180328T18:41:58] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.988ms
+[20180328T18:41:59] {17e4} debug: select() -> 0
+[20180328T18:41:59] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=508.430ms
+[20180328T18:41:59] {17e4} debug: select() -> 0
+[20180328T18:41:59] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=491.378ms
+[20180328T18:42:00] {17e4} debug: select() -> 0
+[20180328T18:42:00] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.994ms
+[20180328T18:42:01] {17e4} debug: select() -> 0
+[20180328T18:42:01] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.995ms
+[20180328T18:42:02] {17e4} debug: select() -> 0
+[20180328T18:42:02] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.995ms
+[20180328T18:42:03] {17e4} debug: select() -> 0
+[20180328T18:42:03] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.994ms
+[20180328T18:42:04] {17e4} debug: select() -> 0
+[20180328T18:42:04] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=132.495us
+[20180328T18:42:04] {17e4} debug: select() -> 0
+[20180328T18:42:04] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=505.910ms
+[20180328T18:42:04] {17e4} debug: select() -> 0
+[20180328T18:42:04] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=493.815ms
+[20180328T18:42:05] {17e4} debug: select() -> 0
+[20180328T18:42:05] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.995ms
+[20180328T18:42:06] {17e4} debug: select() -> 0
+[20180328T18:42:06] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.984ms
+[20180328T18:42:07] {17e4} debug: select() -> 0
+[20180328T18:42:07] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.995ms
+[20180328T18:42:08] {17e4} debug: select() -> 0
+[20180328T18:42:08] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.995ms
+[20180328T18:42:09] {17e4} debug: select() -> 0
+[20180328T18:42:09] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=504.012ms
+[20180328T18:42:09] {17e4} debug: select() -> 0
+[20180328T18:42:09] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=495.584ms
+[20180328T18:42:10] {17e4} debug: select() -> 0
+[20180328T18:42:10] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20180328T18:42:11] {17e4} debug: select() -> 0
+[20180328T18:42:11] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20180328T18:42:12] {17e4} debug: select() -> 0
+[20180328T18:42:12] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20180328T18:42:13] {17e4} debug: select() -> 0
+[20180328T18:42:13] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20180328T18:42:14] {17e4} debug: select() -> 0
+[20180328T18:42:14] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=933ns
+[20180328T18:42:14] {17e4} debug: select() -> 0
+[20180328T18:42:14] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=503.187ms
+[20180328T18:42:14] {17e4} debug: select() -> 0
+[20180328T18:42:14] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=496.326ms
+[20180328T18:42:15] {17e4} debug: select() -> 0
+[20180328T18:42:15] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20180328T18:42:16] {17e4} debug: select() -> 0
+[20180328T18:42:16] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20180328T18:42:17] {17e4} debug: select() -> 0
+[20180328T18:42:17] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20180328T18:42:18] {17e4} debug: select() -> 0
+[20180328T18:42:18] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20180328T18:42:19] {17e4} debug: select() -> 0
+[20180328T18:42:19] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=502.653ms
+[20180328T18:42:19] {17e4} debug: select() -> 0
+[20180328T18:42:19] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=497.023ms
+[20180328T18:42:20] {17e4} debug: select() -> 0
+[20180328T18:42:20] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20180328T18:42:21] {17e4} debug: select() -> 0
+[20180328T18:42:21] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20180328T18:42:22] {17e4} debug: select() -> 0
+[20180328T18:42:22] {17e4} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms

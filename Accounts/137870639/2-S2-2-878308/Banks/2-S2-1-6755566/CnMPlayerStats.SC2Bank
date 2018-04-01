@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Player">
+        <Key name="MouseGamesWon">
+            <Value int="1"/>
+        </Key>
+        <Key name="ToyCatGamesPlayed">
+            <Value int="1"/>
+        </Key>
+    </Section>
+</Bank>

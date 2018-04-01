@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="mySection">
+        <Key name="Bossaward6">
+            <Value int="2"/>
+        </Key>
+        <Key name="Achievement7">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Achievement6">
+            <Value int="0"/>
+        </Key>
+        <Key name="Achievement4">
+            <Value int="1"/>
+        </Key>
+        <Key name="Achievement9">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Achievement5">
+            <Value int="0"/>
+        </Key>
+        <Key name="Achievement2">
+            <Value int="1"/>
+        </Key>
+        <Key name="MaxWave6">
+            <Value int="20"/>
+        </Key>
+        <Key name="MaxPoints6">
+            <Value int="147294"/>
+        </Key>
+        <Key name="Achievement1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Experience6">
+            <Value int="147294"/>
+        </Key>
+        <Key name="Achievement3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Achievement8">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+</Bank>

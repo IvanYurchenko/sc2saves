@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Statistics">
+        <Key name="Kills">
+            <Value int="231"/>
+        </Key>
+        <Key name="Long">
+            <Value int="0"/>
+        </Key>
+        <Key name="RowWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="MCKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="TotalGames">
+            <Value int="1"/>
+        </Key>
+        <Key name="HeroKilled">
+            <Value int="0"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="0"/>
+        </Key>
+        <Key name="CCKills">
+            <Value int="0"/>
+        </Key>
+        <Key name="Short">
+            <Value int="0"/>
+        </Key>
+        <Key name="MRowWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="Bounty">
+            <Value int="1710"/>
+        </Key>
+        <Key name="RankS">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Rank">
+            <Value int="-250"/>
+        </Key>
+    </Section>
+    <Section name="Achievements">
+        <Key name="Recent2">
+            <Value int="13"/>
+        </Key>
+        <Key name="Recent3">
+            <Value int="13"/>
+        </Key>
+        <Key name="Achievement">
+            <Value string="01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70"/>
+        </Key>
+        <Key name="Recent1">
+            <Value int="13"/>
+        </Key>
+    </Section>
+    <Signature value="8EE67B069809F1AAEF6782AD9C0301F648860A9E"/>
+</Bank>

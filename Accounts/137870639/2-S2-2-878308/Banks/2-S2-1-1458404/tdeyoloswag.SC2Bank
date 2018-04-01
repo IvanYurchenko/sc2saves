@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="game">
+        <Key name="played">
+            <Value int="5"/>
+        </Key>
+    </Section>
+    <Section name="voidmax">
+        <Key name="norstdmax">
+            <Value int="20"/>
+        </Key>
+    </Section>
+    <Section name="voidave">
+        <Key name="norstdave">
+            <Value int="14"/>
+        </Key>
+    </Section>
+    <Signature value="C2E66433DB7D65B1FF122006D8B545C78B4D7D90"/>
+</Bank>

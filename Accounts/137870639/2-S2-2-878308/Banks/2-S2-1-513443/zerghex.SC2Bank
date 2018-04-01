@@ -2,7 +2,7 @@
 <Bank version="1">
     <Section name="signatures">
         <Key name="signature1">
-            <Value string="XYFOQJIFYXFIQJYXKV"/>
+            <Value string="AMHZMAXDQSDXMAQSHL"/>
         </Key>
     </Section>
     <Section name="stats_player">
@@ -16,7 +16,7 @@
             <Value int="9"/>
         </Key>
         <Key name="games_terran">
-            <Value int="14"/>
+            <Value int="15"/>
         </Key>
     </Section>
 </Bank>
