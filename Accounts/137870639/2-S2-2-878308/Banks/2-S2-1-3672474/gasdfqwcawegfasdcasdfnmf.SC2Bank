@@ -2,17 +2,17 @@
 <Bank version="1">
     <Section name="Save">
         <Key name="Waves">
-            <Value int="10"/>
+            <Value int="50"/>
         </Key>
         <Key name="Wins">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
         <Key name="Maps">
-            <Value string="baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
+            <Value string="baaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
         </Key>
         <Key name="BuilderHero">
-            <Value string="aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
+            <Value string="baababaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"/>
         </Key>
     </Section>
-    <Signature value="0DAFEED8C73AF61BBC932FEC0B57AFBFBE9A2E08"/>
+    <Signature value="8B4CB514AF9820425FF41BAA7B644430AB3F1927"/>
 </Bank>
