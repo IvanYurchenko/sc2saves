@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bank version="1">
     <Section name="Player">
+        <Key name="KittenCatGamesPlayed">
+            <Value int="7"/>
+        </Key>
+        <Key name="BirdGamesWon">
+            <Value int="9"/>
+        </Key>
         <Key name="MouseGamesWon">
-            <Value int="1"/>
+            <Value int="2"/>
+        </Key>
+        <Key name="KittenCatGamesWon">
+            <Value int="7"/>
+        </Key>
+        <Key name="BirdGamesPlayed">
+            <Value int="8"/>
         </Key>
         <Key name="ToyCatGamesPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="MouseGamesPlayed">
             <Value int="1"/>
         </Key>
     </Section>

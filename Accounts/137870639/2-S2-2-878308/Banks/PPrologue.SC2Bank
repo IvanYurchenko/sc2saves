@@ -18,10 +18,10 @@
     </Section>
     <Section name="PPrologue|MissionBestTime">
         <Key name="VoidPrologue03-4">
-            <Value int="1654"/>
+            <Value int="1381"/>
         </Key>
         <Key name="VoidPrologue01-4">
-            <Value int="1796"/>
+            <Value int="1624"/>
         </Key>
         <Key name="VoidPrologue02-4">
             <Value int="2084"/>
@@ -43,9 +43,7 @@
             <Progress.0.Int int="0"/>
         </Key>
         <Key name="MissionObjective.Prologue02Bonus01">
-            <Complete.0.Int int="1"/>
-            <Available.0.Int int="0"/>
-            <Progress.0.Int int="3"/>
+            <Progress.0.Int int="2"/>
         </Key>
     </Section>
     <Section name="PPrologue|MissionObjectives">
@@ -60,9 +58,7 @@
             <Progress.0.Int int="3"/>
         </Key>
         <Key name="MissionObjective.Prologue02Bonus01">
-            <Complete.0.Int int="1"/>
-            <Available.0.Int int="0"/>
-            <Progress.0.Int int="3"/>
+            <Progress.0.Int int="2"/>
         </Key>
     </Section>
     <Section name="VoidPrologue02|MissionSectionExist">

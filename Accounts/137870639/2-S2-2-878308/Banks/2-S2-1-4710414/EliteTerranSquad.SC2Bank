@@ -1,8 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bank version="1">
-    <Section name="Stats">
-        <Key name="FastPart1">
-            <Value fixed="1"/>
+    <Section name="Inventory">
+        <Key name="14">
+            <Value int="0"/>
+        </Key>
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="9">
+            <Value int="0"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="26"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="8">
+            <Value int="0"/>
+        </Key>
+        <Key name="10">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+        <Key name="11">
+            <Value int="0"/>
+        </Key>
+        <Key name="7">
+            <Value int="0"/>
+        </Key>
+        <Key name="13">
+            <Value int="0"/>
+        </Key>
+        <Key name="12">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
         </Key>
     </Section>
+    <Section name="Stats">
+        <Key name="Win">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="FastPart1">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="HardSoloWin">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Hard Win">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="SoloWin">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="Achievement">
+        <Key name="Cocoon">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Secret Unit">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Clear All">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="Crate Killed">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="Miners">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Section name="Staff">
+        <Key name="Mod">
+            <Value fixed="0"/>
+        </Key>
+    </Section>
+    <Signature value="C54E3E75F807D173B458613A1CD9DE5C3D7453B3"/>
 </Bank>

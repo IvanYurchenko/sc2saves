@@ -8,7 +8,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="AutoCastRepairAbility">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="SaveZealotSuggested">
             <Value flag="1"/>
@@ -17,7 +17,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="BuffDialogSuppressedMsgCount">
-            <Value int="0"/>
+            <Value int="7"/>
         </Key>
         <Key name="SaveProbePopUp">
             <Value flag="1"/>
@@ -85,11 +85,11 @@
             <Value int="1"/>
         </Key>
         <Key name="ProbeAbility1">
-            <Value int="2"/>
+            <Value int="1"/>
         </Key>
         <Key name="NameofZealotSkin">
             <Value string="Zealot"/>
         </Key>
     </Section>
-    <Signature value="E3748F35E1FF884C3AE3B899637D8D89E0A9D5FD"/>
+    <Signature value="26F23AA105D212CA5C26BC0267A8B949731636E6"/>
 </Bank>

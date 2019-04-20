@@ -52,15 +52,15 @@
     </Section>
     <Section name="ValidationCode">
         <Key name="ValidationCode">
-            <Value string="771c5bf614c55fe353f33f1184741361"/>
+            <Value string="866ba0498f66357a2408df65032dd3ae"/>
         </Key>
     </Section>
     <Section name="FTWStats">
         <Key name="Games2Teams">
-            <Value int="5"/>
+            <Value int="9"/>
         </Key>
         <Key name="Wins2Teams">
-            <Value int="2"/>
+            <Value int="4"/>
         </Key>
     </Section>
     <Section name="Races">
@@ -68,13 +68,13 @@
             <Value int="3"/>
         </Key>
         <Key name="Hell">
-            <Value int="2"/>
+            <Value int="6"/>
         </Key>
     </Section>
     <Section name="Rating">
         <Key name="Rating">
-            <Value int="1102"/>
+            <Value int="1145"/>
         </Key>
     </Section>
-    <Signature value="594C527BCDFBE9C2C4BB3E320DF05137F722B2AC"/>
+    <Signature value="75CE31D1F8F24F92D7A9856903F7A7974EB0FD99"/>
 </Bank>

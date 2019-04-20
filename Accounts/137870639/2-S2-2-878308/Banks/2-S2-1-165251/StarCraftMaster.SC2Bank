@@ -5,13 +5,13 @@
             <Value fixed="54.125"/>
         </Key>
         <Key name="16">
-            <Value fixed="30.3125"/>
+            <Value fixed="22.9375"/>
         </Key>
         <Key name="14">
             <Value fixed="26.875"/>
         </Key>
         <Key name="4">
-            <Value fixed="15.6875"/>
+            <Value fixed="15.0625"/>
         </Key>
         <Key name="CheatTip">
             <Value fixed="-2"/>
@@ -26,7 +26,7 @@
             <Value fixed="0"/>
         </Key>
         <Key name="9">
-            <Value fixed="68.9375"/>
+            <Value fixed="51.3125"/>
         </Key>
         <Key name="19">
             <Value fixed="21.5625"/>
@@ -38,25 +38,25 @@
             <Value fixed="24.625"/>
         </Key>
         <Key name="3">
-            <Value fixed="35.375"/>
+            <Value fixed="34.875"/>
         </Key>
         <Key name="27">
-            <Value fixed="95.8125"/>
+            <Value fixed="79.4375"/>
         </Key>
         <Key name="26">
-            <Value fixed="16.875"/>
+            <Value fixed="10.625"/>
         </Key>
         <Key name="20">
-            <Value fixed="14.6875"/>
+            <Value fixed="14.25"/>
         </Key>
         <Key name="8">
-            <Value fixed="30.25"/>
+            <Value fixed="29.625"/>
         </Key>
         <Key name="10">
-            <Value fixed="39.0625"/>
+            <Value fixed="37.3125"/>
         </Key>
         <Key name="2">
-            <Value fixed="75.4375"/>
+            <Value fixed="58.8125"/>
         </Key>
         <Key name="23">
             <Value fixed="10.3125"/>
@@ -68,25 +68,25 @@
             <Value fixed="8.6875"/>
         </Key>
         <Key name="15">
-            <Value fixed="29.5625"/>
+            <Value fixed="23.5625"/>
         </Key>
         <Key name="7">
-            <Value fixed="64.8125"/>
+            <Value fixed="35.8125"/>
         </Key>
         <Key name="CinematicShown">
             <Value flag="1"/>
         </Key>
         <Key name="24">
-            <Value fixed="30.4375"/>
+            <Value fixed="26.6875"/>
         </Key>
         <Key name="22">
-            <Value fixed="17.6875"/>
+            <Value fixed="14.3125"/>
         </Key>
         <Key name="17">
-            <Value fixed="12.4375"/>
+            <Value fixed="11.9375"/>
         </Key>
         <Key name="13">
-            <Value fixed="45.3125"/>
+            <Value fixed="43.0625"/>
         </Key>
         <Key name="12">
             <Value fixed="42.375"/>
@@ -95,7 +95,7 @@
             <Value fixed="36.6875"/>
         </Key>
         <Key name="5">
-            <Value fixed="22.4375"/>
+            <Value fixed="22.0625"/>
         </Key>
     </Section>
 </Bank>

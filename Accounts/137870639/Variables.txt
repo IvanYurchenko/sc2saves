@@ -1,4 +1,7 @@
-gluetheme=-1
-LastCampaignId[1]=36864
+controlgroupmode=0
+gluetheme=1
+LastCampaignId[1]=5
+music=true
+showunitpoints=true
 soundresponses=false
-soundvoicesvolume=0.829000
+soundvoicesvolume=1.000000

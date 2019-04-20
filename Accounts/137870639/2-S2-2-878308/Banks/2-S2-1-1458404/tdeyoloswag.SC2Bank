@@ -2,18 +2,30 @@
 <Bank version="1">
     <Section name="game">
         <Key name="played">
-            <Value int="5"/>
+            <Value int="13"/>
         </Key>
     </Section>
     <Section name="voidmax">
         <Key name="norstdmax">
             <Value int="20"/>
         </Key>
-    </Section>
-    <Section name="voidave">
-        <Key name="norstdave">
-            <Value int="14"/>
+        <Key name="harstdmax">
+            <Value int="20"/>
+        </Key>
+        <Key name="brustdmax">
+            <Value int="2"/>
         </Key>
     </Section>
-    <Signature value="C2E66433DB7D65B1FF122006D8B545C78B4D7D90"/>
+    <Section name="voidave">
+        <Key name="harstdave">
+            <Value int="13"/>
+        </Key>
+        <Key name="norstdave">
+            <Value int="12"/>
+        </Key>
+        <Key name="brustdave">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="499B64FF1E9DF590143B768AD999EED40839EA0C"/>
 </Bank>
