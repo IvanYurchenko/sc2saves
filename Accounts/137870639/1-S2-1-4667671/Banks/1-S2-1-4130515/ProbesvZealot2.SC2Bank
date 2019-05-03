@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="AchievmentsHuman">
+        <Key name="58">
+            <Value flag="1"/>
+        </Key>
+        <Key name="49">
+            <Value flag="1"/>
+        </Key>
+        <Key name="77">
+            <Value flag="1"/>
+        </Key>
+        <Key name="57">
+            <Value flag="1"/>
+        </Key>
+        <Key name="76">
+            <Value flag="1"/>
+        </Key>
+        <Key name="73">
+            <Value flag="1"/>
+        </Key>
+        <Key name="54">
+            <Value flag="1"/>
+        </Key>
+        <Key name="70">
+            <Value flag="1"/>
+        </Key>
+        <Key name="74">
+            <Value flag="1"/>
+        </Key>
+        <Key name="79">
+            <Value flag="1"/>
+        </Key>
+        <Key name="50">
+            <Value flag="1"/>
+        </Key>
+        <Key name="52">
+            <Value flag="1"/>
+        </Key>
+        <Key name="51">
+            <Value flag="1"/>
+        </Key>
+        <Key name="55">
+            <Value flag="1"/>
+        </Key>
+        <Key name="56">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PlayerInfo">
+        <Key name="PlayerHandle">
+            <Value string="1-S2-1-4667671"/>
+        </Key>
+        <Key name="PlayerName">
+            <Value text="LazeR"/>
+        </Key>
+    </Section>
+    <Section name="VampireStats">
+        <Key name="Hours">
+            <Value int="11"/>
+        </Key>
+        <Key name="XP">
+            <Value int="100"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="1"/>
+        </Key>
+        <Key name="Points">
+            <Value int="1000"/>
+        </Key>
+        <Key name="Games">
+            <Value int="1"/>
+        </Key>
+        <Key name="WinningStreak">
+            <Value int="0"/>
+        </Key>
+        <Key name="Rank">
+            <Value string="D"/>
+        </Key>
+    </Section>
+    <Section name="PreviousGameStats">
+        <Key name="IsHuman">
+            <Value flag="0"/>
+        </Key>
+        <Key name="WinPreviousGame">
+            <Value flag="0"/>
+        </Key>
+        <Key name="PointsLostHuman">
+            <Value int="0"/>
+        </Key>
+        <Key name="PointsWinHuman">
+            <Value int="0"/>
+        </Key>
+        <Key name="PointsLostTotal">
+            <Value int="100"/>
+        </Key>
+        <Key name="PointsWinTotal">
+            <Value int="100"/>
+        </Key>
+        <Key name="XPGotTotal">
+            <Value int="100"/>
+        </Key>
+        <Key name="PointsWinVampire">
+            <Value int="100"/>
+        </Key>
+        <Key name="XPGotVampire">
+            <Value int="100"/>
+        </Key>
+        <Key name="XPGotHuman">
+            <Value int="0"/>
+        </Key>
+        <Key name="PointsLostVampire">
+            <Value int="100"/>
+        </Key>
+    </Section>
+    <Section name="TotalStats">
+        <Key name="Hours">
+            <Value int="73"/>
+        </Key>
+        <Key name="XP">
+            <Value int="635"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="3"/>
+        </Key>
+        <Key name="Points">
+            <Value int="1025"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="1"/>
+        </Key>
+        <Key name="XPGotTotal">
+            <Value int="135"/>
+        </Key>
+        <Key name="Games">
+            <Value int="4"/>
+        </Key>
+        <Key name="WinningStreak">
+            <Value int="0"/>
+        </Key>
+        <Key name="Rank">
+            <Value string="D"/>
+        </Key>
+    </Section>
+    <Section name="Rewards">
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="AchievmentsVampire">
+        <Key name="72">
+            <Value flag="1"/>
+        </Key>
+        <Key name="71">
+            <Value flag="1"/>
+        </Key>
+        <Key name="69">
+            <Value flag="1"/>
+        </Key>
+        <Key name="68">
+            <Value flag="1"/>
+        </Key>
+        <Key name="66">
+            <Value flag="1"/>
+        </Key>
+        <Key name="70">
+            <Value flag="1"/>
+        </Key>
+        <Key name="64">
+            <Value flag="1"/>
+        </Key>
+        <Key name="65">
+            <Value flag="1"/>
+        </Key>
+        <Key name="67">
+            <Value flag="1"/>
+        </Key>
+        <Key name="63">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="HumanStats">
+        <Key name="Hours">
+            <Value int="61"/>
+        </Key>
+        <Key name="XP">
+            <Value int="580"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="2"/>
+        </Key>
+        <Key name="Points">
+            <Value int="1050"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="1"/>
+        </Key>
+        <Key name="WinningStreak">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games">
+            <Value int="3"/>
+        </Key>
+        <Key name="Rank">
+            <Value string="D"/>
+        </Key>
+    </Section>
+    <Signature value="E35F9B70AEF57A5A613E8A9BB168EB74F7934577"/>
+</Bank>

@@ -1,0 +1,120 @@
+﻿DIAG_BUFFER_ERROR
+[20190326T00:27:18] {720} ERR: failed to bind Container index at 'E:\Games\StarCraft II\SC2Data/data': 11 (CCE_UNDER_RECONSTRUCTION)
+[20190326T00:27:18] {720} ERR: failed to create data storage for base path 'E:\Games\StarCraft II\SC2Data/data': E_BUSY
+[20190326T00:27:18] {720} ERR: failed to create storage handler: E_BUSY
+[20190326T00:27:19] {720} ERR: network dispatcher: action posted after shutdown
+[20190326T00:27:19] {720} WRN: failed to register download server 'https://blzddist1-a.akamaihd.net/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:19] {720} WRN: failed to register download server 'https://eu.cdn.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:19] {720} WRN: failed to register download server 'https://level3.ssl.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:19] {720} ERR: failed to bind Container index at 'E:\Games\StarCraft II\SC2Data/data': 11 (CCE_UNDER_RECONSTRUCTION)
+[20190326T00:27:19] {720} ERR: failed to create data storage for base path 'E:\Games\StarCraft II\SC2Data/data': E_BUSY
+[20190326T00:27:19] {720} ERR: failed to create storage handler: E_BUSY
+[20190326T00:27:20] {720} ERR: network dispatcher: action posted after shutdown
+[20190326T00:27:20] {720} WRN: failed to register download server 'https://blzddist1-a.akamaihd.net/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:20] {720} WRN: failed to register download server 'https://eu.cdn.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:20] {720} WRN: failed to register download server 'https://level3.ssl.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:20] {720} ERR: failed to bind Container index at 'E:\Games\StarCraft II\SC2Data/data': 11 (CCE_UNDER_RECONSTRUCTION)
+[20190326T00:27:20] {720} ERR: failed to create data storage for base path 'E:\Games\StarCraft II\SC2Data/data': E_BUSY
+[20190326T00:27:20] {720} ERR: failed to create storage handler: E_BUSY
+[20190326T00:27:21] {720} ERR: network dispatcher: action posted after shutdown
+[20190326T00:27:21] {720} WRN: failed to register download server 'https://blzddist1-a.akamaihd.net/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:21] {720} WRN: failed to register download server 'https://eu.cdn.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:21] {720} WRN: failed to register download server 'https://level3.ssl.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:22] {720} ERR: failed to bind Container index at 'E:\Games\StarCraft II\SC2Data/data': 11 (CCE_UNDER_RECONSTRUCTION)
+[20190326T00:27:22] {720} ERR: failed to create data storage for base path 'E:\Games\StarCraft II\SC2Data/data': E_BUSY
+[20190326T00:27:22] {720} ERR: failed to create storage handler: E_BUSY
+[20190326T00:27:23] {720} ERR: network dispatcher: action posted after shutdown
+[20190326T00:27:23] {720} WRN: failed to register download server 'https://blzddist1-a.akamaihd.net/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:23] {720} WRN: failed to register download server 'https://eu.cdn.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:23] {720} WRN: failed to register download server 'https://level3.ssl.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:23] {720} ERR: failed to bind Container index at 'E:\Games\StarCraft II\SC2Data/data': 11 (CCE_UNDER_RECONSTRUCTION)
+[20190326T00:27:23] {720} ERR: failed to create data storage for base path 'E:\Games\StarCraft II\SC2Data/data': E_BUSY
+[20190326T00:27:23] {720} ERR: failed to create storage handler: E_BUSY
+[20190326T00:27:23] {720} ERR: network dispatcher: action posted after shutdown
+
+DIAG_BUFFER_INFO
+[20190326T00:27:23] {720} WRN: failed to register download server 'https://eu.cdn.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:23] {720} WRN: failed to register download server 'https://level3.ssl.blizzard.com/?fallback%3d1%26maxhosts%3d4': DOWNLOAD_ERR_PROTOCOL_NOT_SUPPORTED
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.1:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.4:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.7:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.2:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.5:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.6:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.3:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.8:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 8.248.117.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 8.248.131.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 8.247.185.126:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 67.26.113.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 67.27.158.126:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.1:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.4:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.7:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.2:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.5:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.6:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.3:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.8:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 8.248.117.254:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 8.248.131.254:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 8.247.185.126:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 67.26.113.254:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 67.27.158.126:80 for server //level3.blizzard.com
+[20190326T00:27:23] {720} ERR: failed to bind Container index at 'E:\Games\StarCraft II\SC2Data/data': 11 (CCE_UNDER_RECONSTRUCTION)
+[20190326T00:27:23] {720} ERR: failed to create data storage for base path 'E:\Games\StarCraft II\SC2Data/data': E_BUSY
+[20190326T00:27:23] {720} ERR: failed to create storage handler: E_BUSY
+[20190326T00:27:23] {720} INF: Initialization has been cancelled by busy-timeout
+[20190326T00:27:23] {313c} INF: HTTP: shutdown requested
+[20190326T00:27:23] {313c} INF: HTTP: shutting down
+[20190326T00:27:23] {313c} INF: HTTP: shutdown complete
+[20190326T00:27:23] {720} INF: HTTP: shutdown requested
+[20190326T00:27:23] {720} ERR: network dispatcher: action posted after shutdown
+
+DIAG_BUFFER_ALL
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.6:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.3:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.8:80 for server //eu.cdn.blizzard.com
+[20190326T00:27:23] {313c} debug: select(): #rd=1 #wr=0 #ex=0 tv=993.459ms
+[20190326T00:27:23] {313c} debug: select() -> 1
+[20190326T00:27:23] {313c} debug: select(): #rd=1 #wr=0 #ex=0 tv=993.396ms
+[20190326T00:27:23] {313c} debug: select() -> 1
+[20190326T00:27:23] {313c} INF: adding network address 8.248.117.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 8.248.131.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 8.247.185.126:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 67.26.113.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 67.27.158.126:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} debug: select(): #rd=1 #wr=0 #ex=0 tv=993.225ms
+[20190326T00:27:23] {313c} debug: select() -> 1
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.1:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.4:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.7:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.2:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.5:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.6:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.3:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} INF: adding network address 137.221.64.8:80 for server //eu.cdn.blizzard.com/?maxhosts%3d4
+[20190326T00:27:23] {313c} debug: select(): #rd=1 #wr=0 #ex=0 tv=992.967ms
+[20190326T00:27:23] {313c} debug: select() -> 1
+[20190326T00:27:23] {313c} INF: adding network address 8.248.117.254:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 8.248.131.254:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 8.247.185.126:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 67.26.113.254:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} INF: adding network address 67.27.158.126:80 for server //level3.blizzard.com
+[20190326T00:27:23] {313c} debug: select(): #rd=1 #wr=0 #ex=0 tv=992.736ms
+[20190326T00:27:23] {720} ERR: failed to bind Container index at 'E:\Games\StarCraft II\SC2Data/data': 11 (CCE_UNDER_RECONSTRUCTION)
+[20190326T00:27:23] {720} ERR: failed to create data storage for base path 'E:\Games\StarCraft II\SC2Data/data': E_BUSY
+[20190326T00:27:23] {720} ERR: failed to create storage handler: E_BUSY
+[20190326T00:27:23] {720} INF: Initialization has been cancelled by busy-timeout
+[20190326T00:27:23] {720} debug: shutdown request
+[20190326T00:27:23] {313c} debug: select() -> 1
+[20190326T00:27:23] {313c} noise: shutdown: canceling 0 active downloads
+[20190326T00:27:23] {313c} noise: shutdown: canceling 0 pending downloads
+[20190326T00:27:23] {313c} noise: shutdown: fetcher shutdown
+[20190326T00:27:23] {313c} INF: HTTP: shutdown requested
+[20190326T00:27:23] {313c} INF: HTTP: shutting down
+[20190326T00:27:23] {313c} INF: HTTP: shutdown complete
+[20190326T00:27:23] {313c} debug: select(): #rd=1 #wr=0 #ex=0 tv=799.371ms
+[20190326T00:27:23] {313c} debug: select() -> 1
+[20190326T00:27:23] {720} INF: HTTP: shutdown requested
+[20190326T00:27:23] {720} ERR: network dispatcher: action posted after shutdown

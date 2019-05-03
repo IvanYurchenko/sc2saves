@@ -1,6 +1,7 @@
 ﻿Load campaign bank
 Location set to Borea
 Load mission sections
+Save Army Tech Bank = 
 Apply Tech
 Disable  Banshee
 Disable  Banshee

@@ -1,0 +1,62 @@
+﻿GFX  16:48:47.883 ====================================================================================================
+GFX  16:48:47.883 StarCraft II (B73620)
+GFX  16:48:47.883 
+GFX  16:48:47.883 Executable              M:\Games\StarCraft II\Versions\Base73620\SC2_x64.exe
+GFX  16:48:47.883 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  16:48:47.883 Parent Executable       \Device\HarddiskVolume7\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  16:48:47.883 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  16:48:47.883 LocalTime               2019-05-01 16:48:47.883
+GFX  16:48:47.883 <ComputerUser>          Ivan
+GFX  16:48:47.883 <ComputerName>          DESKTOP-DSNC292
+GFX  16:48:47.883 <Exe.Architecture>      x86_64
+GFX  16:48:47.883 <Version>               4.8.6.73620
+GFX  16:48:47.883 <DataBuild>             B73620
+GFX  16:48:47.883 <CodeBranch>            branches/SC2.4.8.d
+GFX  16:48:47.883 <CodeRevision>          587005
+GFX  16:48:47.883 <Locale.Assets>         enUS
+GFX  16:48:47.883 <Locale.Data>           enUS
+GFX  16:48:47.883 <Locale.Install>        enUS
+GFX  16:48:47.883 <AccountCountry>        UKR
+GFX  16:48:47.883 <AgentVersion>          2.17.1.6685
+GFX  16:48:47.883 ====================================================================================================
+GFX  16:48:47.882 DXGI: Available
+GFX  16:48:48.024 Resource Cache Override Variable: 0MB
+GFX  16:48:48.024 Resource Cache: 2048MB Win64 (16292MB Physical, 14712MB Process Virtual)
+GFX  16:48:48.024 Resource Cache Sound:  204MB 
+GFX  16:48:48.024 Resource Cache Common: 1843MB 
+GFX  16:48:48.024 Resource Cache VRam:   0MB
+GFX  16:48:48.059 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:48:48.059 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  16:48:48.059 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  16:48:49.435 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  16:48:49.435 CreateDevice succeeded
+GFX  16:48:49.436 Using adapter [0]
+GFX  16:48:49.436 Floating point render targets supported.
+GFX  16:48:49.445 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  16:48:49.445 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  16:48:49.445 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  16:48:49.445 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  16:48:49.486 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:48:49.487 Hardware Depth Sampling: Available
+GFX  16:48:49.490 Expanded VRAM to 512MB for Intel GPU
+GFX  16:48:49.490 VRAM texture space: 384MB
+GFX  16:48:52.308 PerfNotifiers initialized
+GFX  16:48:52.378 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:48:52.378 Lost D3D9 device
+GFX  16:48:54.181 
+GFX  16:48:54.181 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  16:49:04.584 WARNING: Corrupt texture assets\textures\ui_battlenet_glues_pageassets_standardelements_artbuttons_border_highlight.dds
+GFX  16:49:04.630 WARNING: Corrupt texture assets\textures\ui_hint_pausemovie.dds
+GFX  16:49:04.631 WARNING: Corrupt texture assets\textures\ui_streaming_moviestreamingicon.dds
+GFX  16:49:04.631 WARNING: Corrupt texture assets\textures\ui_streaming_movie_progressbarborder.dds
+GFX  16:49:04.632 WARNING: Corrupt texture assets\textures\ui_streaming_movie_progressbarbuffer.dds
+GFX  16:49:04.633 WARNING: Corrupt texture assets\textures\ui_streaming_movie_progressbar.dds
+GFX  16:49:04.642 WARNING: Corrupt texture assets\textures\ui_battlenet_glues_topnav_buttondivider.dds
+GFX  16:49:04.717 WARNING: Corrupt texture assets\textures\ui_battlenet_glue_scrollbar_socialgrabberup.dds
+GFX  16:49:04.717 WARNING: Corrupt texture assets\textures\ui_battlenet_glue_scrollbar_socialgrabberover.dds
+GFX  16:49:04.805 WARNING: Corrupt texture assets\textures\protoss-border-button-game.dds
+GFX  16:49:04.877 WARNING: Corrupt texture assets\textures\ui_battlenet_glues_pageassets_graphiclistitem_border_highlight.dds
+GFX  16:49:04.913 WARNING: Corrupt texture assets\textures\sc2_ui_coop_cappedicon_small_underlay.dds
+GFX  16:49:04.915 WARNING: Corrupt texture assets\textures\sc2_ui_coop_cappedicon_small_overlay.dds
+GFX  16:49:04.917 WARNING: Corrupt texture assets\textures\sc2_ui_global_genericeffect_radialgradient_256x256.dds
+GFX  16:49:04.984 WARNING: Corrupt texture assets\textures\sc2_ui_global_genericeffect_anglegradient_256x256.dds

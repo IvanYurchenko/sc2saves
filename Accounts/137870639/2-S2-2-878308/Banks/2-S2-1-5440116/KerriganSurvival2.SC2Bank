@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="LeaderboardNames">
+        <Key name="38">
+            <Value text="MiniNinja"/>
+        </Key>
+        <Key name="33">
+            <Value text="Tiffany"/>
+        </Key>
+        <Key name="31">
+            <Value text="talg"/>
+        </Key>
+        <Key name="29">
+            <Value text="Cannach"/>
+        </Key>
+        <Key name="16">
+            <Value text="Alohaa"/>
+        </Key>
+        <Key name="14">
+            <Value text="notFalleN"/>
+        </Key>
+        <Key name="4">
+            <Value text="tralala"/>
+        </Key>
+        <Key name="49">
+            <Value text="PureHydroz"/>
+        </Key>
+        <Key name="46">
+            <Value text="MBA"/>
+        </Key>
+        <Key name="41">
+            <Value text="Gamer"/>
+        </Key>
+        <Key name="28">
+            <Value text="Cannach"/>
+        </Key>
+        <Key name="25">
+            <Value text="notFalleN"/>
+        </Key>
+        <Key name="40">
+            <Value text="Alohaa"/>
+        </Key>
+        <Key name="30">
+            <Value text="Tungdil"/>
+        </Key>
+        <Key name="9">
+            <Value text="Cannach"/>
+        </Key>
+        <Key name="19">
+            <Value text="llllllllllll"/>
+        </Key>
+        <Key name="6">
+            <Value text="Cannach"/>
+        </Key>
+        <Key name="1">
+            <Value text="Alohaa"/>
+        </Key>
+        <Key name="47">
+            <Value text="talg"/>
+        </Key>
+        <Key name="39">
+            <Value text="Стимик"/>
+        </Key>
+        <Key name="3">
+            <Value text="tralala"/>
+        </Key>
+        <Key name="27">
+            <Value text="noob"/>
+        </Key>
+        <Key name="26">
+            <Value text="Cannach"/>
+        </Key>
+        <Key name="35">
+            <Value text="AcerHMG"/>
+        </Key>
+        <Key name="20">
+            <Value text="DokerR"/>
+        </Key>
+        <Key name="8">
+            <Value text="HotkeyS"/>
+        </Key>
+        <Key name="0">
+            <Value text="Cannach"/>
+        </Key>
+        <Key name="10">
+            <Value text="Cannach"/>
+        </Key>
+        <Key name="2">
+            <Value text="Alohaa"/>
+        </Key>
+        <Key name="45">
+            <Value text="BlueStar"/>
+        </Key>
+        <Key name="43">
+            <Value text="avraL"/>
+        </Key>
+        <Key name="23">
+            <Value text="notFalleN"/>
+        </Key>
+        <Key name="44">
+            <Value text="Murloc"/>
+        </Key>
+        <Key name="21">
+            <Value text="DreamLord"/>
+        </Key>
+        <Key name="11">
+            <Value text="VooznOAP"/>
+        </Key>
+        <Key name="37">
+            <Value text="VooznOAP"/>
+        </Key>
+        <Key name="48">
+            <Value text="Paws"/>
+        </Key>
+        <Key name="32">
+            <Value text="Jedusor"/>
+        </Key>
+        <Key name="15">
+            <Value text="Murloc"/>
+        </Key>
+        <Key name="7">
+            <Value text="Weyker"/>
+        </Key>
+        <Key name="42">
+            <Value text="baasramon"/>
+        </Key>
+        <Key name="36">
+            <Value text="JahIthBer"/>
+        </Key>
+        <Key name="34">
+            <Value text="Uria"/>
+        </Key>
+        <Key name="24">
+            <Value text="talg"/>
+        </Key>
+        <Key name="22">
+            <Value text="Joker"/>
+        </Key>
+        <Key name="17">
+            <Value text="Paws"/>
+        </Key>
+        <Key name="13">
+            <Value text="Paws"/>
+        </Key>
+        <Key name="12">
+            <Value text="Cannach"/>
+        </Key>
+        <Key name="18">
+            <Value text="VooznOAP"/>
+        </Key>
+        <Key name="5">
+            <Value text="Legion"/>
+        </Key>
+    </Section>
+    <Section name="LeaderboardVersion">
+        <Key name="0">
+            <Value string="11 #^,[}_t\11 #!}=[=s\11 #$.:}+z\11 $$}[=wx\11 %.::_y`\11 #./[__s\11 $#?;{~`\11 $^,:~~`\11 $@@.~~`\11 $$]:{zu\11 %?;[-zv\11 $%@:_wv\11 %.;._-t\11 $$/,]-y\11 %,.=]~v\11 $^.[{w~\11 %,.{=-x\11 $^!=`=s\11 $@;.`~y\11 %.:{+ww\11 @^][{xv\11 %?]]+x~\11 %/;+~yz\11 %,:][yy\11 #!].~yt\11 %,,,`-v\11 %.,}+`w\11 $$@]}-s\11 %?;[-zv\11 $@]=}`v\11 #@!.{zv\11 #,/+{zt\11 $?.[+wv\11 %/@.--y\11 %..{{-w\11 $@,}-_y\11 %?;[-zv\11 %.,]`-z\11 %.};~zu\11 %.;:~z~\11 %/;{-ws\11 $,;}=`u\11 %?}:~`v\11 #!@]_+v\11 %/]:_=x\11 %?]:=z~\11 %.,;~-~\11 #!}[[-~\11 $$?[-+w\11 %/@+}=t\x]!@CCpUlZ\)^"/>
+        </Key>
+    </Section>
+    <Section name="LeaderboardRating">
+        <Key name="0">
+            <Value string="5(BHE]c\aDB||i@l\6PBXsqP\9}A||MQ@\8(Aw3E8\4p9G# |\\5H95|\O=\8r957^*\7T923Gw\5L92;BV\9x91A^s\7{9bDZO\8f9Y2uK\4O9+3gh\7I9y(ZC\6{9r||gO\1:8Lt0U\6A8!drW\7k8jXs*\7g8d(6(\8||8T-9G\c_8RW=3\6h8x)`!\8||8r$Ow\2B7MI }\8_7!mB@\6/7(gjc\907Am||5\6[77z8(\8z7neku\9?7j||[M\5n7dNZX\5/7a~j/\2K7W)aY\8i7Vv:L\547T?e!\7O7Sc~+\9p7.H,_\a!7:XGN\br7,[~2\6P7;cT]\6_7]u4B\bL7]*wJ\3O7{]Zd\6h7+o/f\5A7=YHX\4|\7_D||g\4v7~vZo\847-eJl\7[7wPps\GzsJL`Z\X_"/>
+        </Key>
+    </Section>
+    <Section name="LeaderboardGamesPlayed">
+        <Key name="0">
+            <Value string="6Bkj 5]\3RkWz !\3ilRlT@\5_kd_gf\6ElF~||m\80k|\S-z\5m$JT/\6^lBi|\r\5`l+1YB\4g}|\t||\6lkh(1:\4]x0G9\6_k!)mK\6MkaOAm\3?x:h)\4-lTLd%\aOk{si.\5UkWLV8\7!knv]V\3zUx0k\3})e:i\8wm.=A2\a[k9p!x\7ylG`cC\3z[/D^\a[k#-My\81}S@_\5/J?*t\6fzG@p\5]H8Zz\5lVQV}\8wkZyXr\33M{SS\5Ek9Y6l\6J{l/I\7Y6p[z\7wMH[v\4||kTU)i\5TC]O3\2=pnK^!\3llVUC$\3CGh{%\8#kk:+9\8tnxic.\5K3NUz\5$G}9G\7`k0Efu\7Tk?m)t\3*A}ce\5Qkz1i||\15j||(pw\&quot;w"/>
+        </Key>
+    </Section>
+    <Section name="LeaderboardIds">
+        <Key name="0">
+            <Value string="-sCvDyR.P\-tBtH{R+S\-tBtH{R+V\-oFzFyN:P/\-oFzFyN:P?\2M8`F-I]S\-sCvDyR.T\2MDwLyM]P\-n6vG=M+S\-sCvDyR.W\-sCvDyR.O\-qBxF=L;S\-sCvDyR.P?\-t8vK-M=V\-t7xF~Q=S\-nD~I+Q=P,\-tBtH{R+P:\-t8vK-M=P?\-qBxF=L;R\-tF`K{P+S\-s7yJ_J+P.\-o7~I-L=X\-sEuI[P,P\-t7xF~Q=P.\-u7xI-P]T\-t7xF~Q=P\-sCvDyR.P:\-oAsC_Q]O\-sCvDyR.X\-sCvDyR.S\-sC`D_O]P,\-u7xI-P]P\-t9zD=K]S\-u9vI~K,P:\-oFxI{Q}T\-uCvC+I,T\-t9uI+J=O\-qBxF=L;V\-t8xJ~N+O\-nDtC~Q:P.\-tBtH{R+O\-p9wG`Q=U\-qF`F+I{P\-t6uJ_P:P:\-nD~I+Q=P:\-nAwH_O+P.\-o6yI[M;O\-u7xI-P]P;\-t8vK-M=O\-n9uI`P;P,\HOfgSgWVgp\Im"/>
+        </Key>
+    </Section>
+    <Section name="DEFAULT_SECTION">
+        <Key name="0">
+            <Value string="2;dbp+lECQgM@?1GKs(=%`TRfvb42GWC{+$7?igu;qJHVlR*%6M2xv} +YWk`g97LbH,;)C%nlz?vOMaqW|\ BR7-`\0DPdq-!1DR1E_@2ESfr+#2GTft[#4HThu[%5HViu]^5JWiw}^7KWkx\0DPdq-!1DR0D_@2ESfr+#2GTft[#4HThu[%5HViu]^5JWiw}^7KWkx\0-?\?B..AECosh#CPPosq04^Uq__0\31v46@\8II({#]\?B..AECosh#CPPosq04^Uq__0\y4?IjGlqCp KSPw\8II({#]\0D\0D\7nW$GKJq\h@/#FIFqxn#L\GMGCtbZqd+H+M_-R$h;9J ;n^NEGtn7-zN~btVvVhRb@:|\%9(]@v7#Y.hL~.7~fZ((QzI,jfJ,vPr=Wa!k+m#O5hQ\Fh"/>
+        </Key>
+        <Key name="Version">
+            <Value int="3786"/>
+        </Key>
+    </Section>
+    <Section name="LeaderboardLosses">
+        <Key name="0">
+            <Value string="3DC7Ku\3D6LwZ\7A?9W|\\6;BJVE\39:OR-\4${VO?\3XEZ-\7qZ9)s\4YwlOR\3-6)RK\2UC%Yu\5/99)~\5G~;LH\5:s1q8\4/7%R:\5hS/;$\59]JqI\3eFrwT\5Py%Eh\5!6^3^\5(8,KI\3[027#\6Bzqs%\3Q*nxL\6eA8O7\5`~tqa\6$8=?3\4UehJ\7RAgU*\3h5Yx/\4H6LwC\4t`S?_\5o56^Z\2x[TZx\5.C3+[\1o4QfP\327M66\5e}y+S\2}b#d\9[41x6b\5N.^bF\6K4c8 \3{-:6j\3v%8u;\4!tHfG\1=6=pK\6.NATf\4]/pA`\1IkYs\4Z?|\I}\etD{3-L\&amp;q"/>
+        </Key>
+    </Section>
+    <Section name="ELOVersion">
+        <Key name="0">
+            <Value string="1sDyP;R.c)\1sDyP;R.c)\1sDyP;R.c)\1sDzJ+T@W0\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\1sDzJ+T!W%\M36!/s01Mf\h{"/>
+        </Key>
+    </Section>
+    <Signature value="28C38A241BEAE0FDA4B9B48FFFA726B9DF626F31"/>
+</Bank>

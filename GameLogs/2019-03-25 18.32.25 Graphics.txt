@@ -1,0 +1,57 @@
+﻿GFX  18:32:25.297 ====================================================================================================
+GFX  18:32:25.297 StarCraft II (B72282)
+GFX  18:32:25.297 
+GFX  18:32:25.297 Executable              E:\Games\StarCraft II\Versions\Base72282\SC2_x64.exe
+GFX  18:32:25.297 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  18:32:25.297 Parent Executable       \Device\HarddiskVolume6\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  18:32:25.297 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  18:32:25.297 LocalTime               2019-03-25 18:32:25.298
+GFX  18:32:25.297 <ComputerUser>          Ivan
+GFX  18:32:25.297 <ComputerName>          DESKTOP-DSNC292
+GFX  18:32:25.297 <Exe.Architecture>      x86_64
+GFX  18:32:25.297 <Version>               4.8.3.72282
+GFX  18:32:25.297 <DataBuild>             B72282
+GFX  18:32:25.297 <CodeBranch>            branches/SC2.4.8.b
+GFX  18:32:25.297 <CodeRevision>          581482
+GFX  18:32:25.297 <Locale.Assets>         enUS
+GFX  18:32:25.297 <Locale.Data>           enUS
+GFX  18:32:25.297 <Locale.Install>        enUS
+GFX  18:32:25.297 <AccountCountry>        UKR
+GFX  18:32:25.297 <AgentVersion>          2.16.3.6610
+GFX  18:32:25.297 ====================================================================================================
+GFX  18:32:25.296 DXGI: Available
+GFX  18:32:25.438 Resource Cache Override Variable: 0MB
+GFX  18:32:25.438 Resource Cache: 2048MB Win64 (16292MB Physical, 14964MB Process Virtual)
+GFX  18:32:25.438 Resource Cache Sound:  204MB 
+GFX  18:32:25.438 Resource Cache Common: 1843MB 
+GFX  18:32:25.438 Resource Cache VRam:   0MB
+GFX  18:32:25.482 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  18:32:25.482 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  18:32:25.482 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  18:32:27.149 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  18:32:27.149 CreateDevice succeeded
+GFX  18:32:27.149 Using adapter [0]
+GFX  18:32:27.149 Floating point render targets supported.
+GFX  18:32:27.156 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  18:32:27.156 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  18:32:27.156 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  18:32:27.156 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  18:32:27.192 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  18:32:27.192 Hardware Depth Sampling: Available
+GFX  18:32:27.198 Expanded VRAM to 512MB for Intel GPU
+GFX  18:32:27.198 VRAM texture space: 384MB
+GFX  18:32:29.307 PerfNotifiers initialized
+GFX  18:32:29.332 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  18:32:29.332 Lost D3D9 device
+GFX  18:32:31.621 
+GFX  18:32:31.621 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  19:34:57.801 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_battlenet_glue_listboxframe.dds
+GFX  19:34:57.876 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  19:35:02.185 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\lensflare_generic_03_paleyellow.dds
+GFX  19:40:59.555 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\lensflare_generic_01_grey.dds
+GFX  19:57:39.249 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_battlenet_glue_listboxframe.dds
+GFX  21:06:00.844 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  21:06:00.844 DirectX call  failed with error code -2005530519
+GFX  21:06:00.844 Lost D3D9 device
+GFX  21:06:05.744 
+GFX  21:06:05.744 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)

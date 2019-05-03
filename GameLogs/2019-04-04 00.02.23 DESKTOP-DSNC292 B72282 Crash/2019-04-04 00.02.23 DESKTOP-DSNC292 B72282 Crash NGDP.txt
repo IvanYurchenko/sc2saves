@@ -1,0 +1,97 @@
+﻿DIAG_BUFFER_INFO
+[20190403T23:28:35] {3514} INF: adding network address 67.27.235.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:28:35] {3514} INF: adding network address 67.27.235.126:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:28:35] {3514} INF: adding network address 67.26.139.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:28:35] {3514} INF: adding network address 8.247.185.126:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:28:35] {3514} INF: adding network address 8.248.105.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:28:35] {3514} INF: adding network address 67.27.235.254:80 for server //level3.blizzard.com
+[20190403T23:28:35] {3514} INF: adding network address 67.27.235.126:80 for server //level3.blizzard.com
+[20190403T23:28:35] {3514} INF: adding network address 67.26.139.254:80 for server //level3.blizzard.com
+[20190403T23:28:35] {3514} INF: adding network address 8.247.185.126:80 for server //level3.blizzard.com
+[20190403T23:28:35] {3514} INF: adding network address 8.248.105.254:80 for server //level3.blizzard.com
+[20190403T23:38:36] {3514} INF: adding network address 8.253.145.105:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:38:36] {3514} INF: adding network address 67.26.137.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:38:36] {3514} INF: adding network address 8.253.145.105:80 for server //level3.blizzard.com
+[20190403T23:38:36] {3514} INF: adding network address 67.26.137.254:80 for server //level3.blizzard.com
+[20190403T23:43:37] {3514} INF: adding network address 8.247.209.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:43:37] {3514} INF: adding network address 8.247.209.254:80 for server //level3.blizzard.com
+[20190403T23:48:37] {3514} INF: adding network address 8.247.211.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:48:37] {3514} INF: adding network address 8.253.145.120:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:48:37] {3514} INF: adding network address 67.27.234.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:48:37] {3514} INF: adding network address 8.247.211.254:80 for server //level3.blizzard.com
+[20190403T23:48:37] {3514} INF: adding network address 8.253.145.120:80 for server //level3.blizzard.com
+[20190403T23:48:37] {3514} INF: adding network address 67.27.234.254:80 for server //level3.blizzard.com
+[20190403T23:53:37] {3514} INF: adding network address 8.248.129.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:53:37] {3514} INF: adding network address 8.247.210.254:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:53:37] {3514} INF: adding network address 8.248.129.254:80 for server //level3.blizzard.com
+[20190403T23:53:37] {3514} INF: adding network address 8.247.210.254:80 for server //level3.blizzard.com
+[20190403T23:58:37] {3514} INF: adding network address 67.27.234.126:80 for server //level3.blizzard.com/?maxhosts%3d4
+[20190403T23:58:37] {3514} INF: adding network address 67.27.234.126:80 for server //level3.blizzard.com
+
+DIAG_BUFFER_ALL
+[20190404T00:02:03] {3514} debug: select() -> 0
+[20190404T00:02:03] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:04] {3514} debug: select() -> 0
+[20190404T00:02:04] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:05] {3514} debug: select() -> 0
+[20190404T00:02:05] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=29.000us
+[20190404T00:02:05] {3514} debug: select() -> 0
+[20190404T00:02:05] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=9.001ms
+[20190404T00:02:05] {3514} debug: select() -> 0
+[20190404T00:02:05] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=989.984ms
+[20190404T00:02:06] {3514} debug: select() -> 0
+[20190404T00:02:06] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:07] {3514} debug: select() -> 0
+[20190404T00:02:07] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190404T00:02:08] {3514} debug: select() -> 0
+[20190404T00:02:08] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=200ns
+[20190404T00:02:08] {3514} debug: select() -> 0
+[20190404T00:02:08] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:09] {3514} debug: select() -> 0
+[20190404T00:02:09] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=43.100us
+[20190404T00:02:09] {3514} debug: select() -> 0
+[20190404T00:02:09] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190404T00:02:10] {3514} debug: select() -> 0
+[20190404T00:02:10] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=8.007ms
+[20190404T00:02:10] {3514} debug: select() -> 0
+[20190404T00:02:10] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=990.995ms
+[20190404T00:02:11] {3514} debug: select() -> 0
+[20190404T00:02:11] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:12] {3514} debug: select() -> 0
+[20190404T00:02:12] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:13] {3514} debug: select() -> 0
+[20190404T00:02:13] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=15.000us
+[20190404T00:02:13] {3514} debug: select() -> 0
+[20190404T00:02:13] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.995ms
+[20190404T00:02:14] {3514} debug: select() -> 0
+[20190404T00:02:14] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=27.900us
+[20190404T00:02:14] {3514} debug: select() -> 0
+[20190404T00:02:14] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:15] {3514} debug: select() -> 0
+[20190404T00:02:15] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=6.986ms
+[20190404T00:02:15] {3514} debug: select() -> 0
+[20190404T00:02:15] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=992.975ms
+[20190404T00:02:16] {3514} debug: select() -> 0
+[20190404T00:02:16] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:17] {3514} debug: select() -> 0
+[20190404T00:02:17] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:18] {3514} debug: select() -> 0
+[20190404T00:02:18] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:19] {3514} debug: select() -> 0
+[20190404T00:02:19] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=18.200us
+[20190404T00:02:19] {3514} debug: select() -> 0
+[20190404T00:02:19] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190404T00:02:20] {3514} debug: select() -> 0
+[20190404T00:02:20] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=5.037ms
+[20190404T00:02:20] {3514} debug: select() -> 0
+[20190404T00:02:20] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=993.956ms
+[20190404T00:02:21] {3514} debug: select() -> 0
+[20190404T00:02:21] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:22] {3514} debug: select() -> 0
+[20190404T00:02:22] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=7.800us
+[20190404T00:02:22] {3514} debug: select() -> 0
+[20190404T00:02:22] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190404T00:02:23] {3514} debug: select() -> 0
+[20190404T00:02:23] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=14.300us
+[20190404T00:02:23] {3514} debug: select() -> 0
+[20190404T00:02:23] {3514} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms

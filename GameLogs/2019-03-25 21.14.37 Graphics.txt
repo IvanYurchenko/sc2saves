@@ -1,0 +1,80 @@
+﻿GFX  21:14:37.663 ====================================================================================================
+GFX  21:14:37.663 StarCraft II (B72282)
+GFX  21:14:37.663 
+GFX  21:14:37.663 Executable              E:\Games\StarCraft II\Versions\Base72282\SC2_x64.exe
+GFX  21:14:37.663 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  21:14:37.663 Parent Executable       \Device\HarddiskVolume6\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  21:14:37.663 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  21:14:37.663 LocalTime               2019-03-25 21:14:37.663
+GFX  21:14:37.663 <ComputerUser>          Ivan
+GFX  21:14:37.663 <ComputerName>          DESKTOP-DSNC292
+GFX  21:14:37.663 <Exe.Architecture>      x86_64
+GFX  21:14:37.663 <Version>               4.8.3.72282
+GFX  21:14:37.663 <DataBuild>             B72282
+GFX  21:14:37.663 <CodeBranch>            branches/SC2.4.8.b
+GFX  21:14:37.663 <CodeRevision>          581482
+GFX  21:14:37.663 <Locale.Assets>         enUS
+GFX  21:14:37.663 <Locale.Data>           enUS
+GFX  21:14:37.663 <Locale.Install>        enUS
+GFX  21:14:37.663 <AccountCountry>        UKR
+GFX  21:14:37.663 <AgentVersion>          2.16.3.6610
+GFX  21:14:37.663 ====================================================================================================
+GFX  21:14:37.662 DXGI: Available
+GFX  21:14:37.804 Resource Cache Override Variable: 0MB
+GFX  21:14:37.804 Resource Cache: 2048MB Win64 (16292MB Physical, 13804MB Process Virtual)
+GFX  21:14:37.804 Resource Cache Sound:  204MB 
+GFX  21:14:37.804 Resource Cache Common: 1843MB 
+GFX  21:14:37.804 Resource Cache VRam:   0MB
+GFX  21:14:37.840 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  21:14:37.841 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  21:14:37.841 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  21:14:39.526 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  21:14:39.526 CreateDevice succeeded
+GFX  21:14:39.526 Using adapter [0]
+GFX  21:14:39.526 Floating point render targets supported.
+GFX  21:14:39.540 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  21:14:39.540 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  21:14:39.540 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  21:14:39.540 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  21:14:39.595 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  21:14:39.595 Hardware Depth Sampling: Available
+GFX  21:14:39.603 Expanded VRAM to 512MB for Intel GPU
+GFX  21:14:39.603 VRAM texture space: 384MB
+GFX  21:14:41.913 PerfNotifiers initialized
+GFX  21:14:41.936 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  21:14:41.936 Lost D3D9 device
+GFX  21:14:43.993 
+GFX  21:14:43.993 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  21:19:27.819 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  21:19:27.819 DirectX call  failed with error code -2005530519
+GFX  21:19:27.819 Lost D3D9 device
+GFX  21:19:32.351 
+GFX  21:19:32.351 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  21:21:02.338 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  21:21:02.338 DirectX call  failed with error code -2005530519
+GFX  21:21:02.338 Lost D3D9 device
+GFX  21:21:06.850 
+GFX  21:21:06.850 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  21:24:50.215 WARNING: Corrupt texture assets\textures\decal_terran_0081_01.dds
+GFX  21:24:50.215 WARNING: Corrupt texture assets\textures\decal_spray_0048_01.dds
+GFX  21:24:50.238 WARNING: Corrupt texture assets\textures\decal_zerg_0017_01.dds
+GFX  21:24:50.238 WARNING: Corrupt texture assets\textures\decal_spray_0001_01.dds
+GFX  21:24:50.253 WARNING: Corrupt texture assets\textures\decal_protoss_0009_01.dds
+GFX  21:24:50.263 WARNING: Corrupt texture assets\textures\decal_protoss_0052_01.dds
+GFX  21:24:50.263 WARNING: Corrupt texture assets\textures\decal_spray_0017_01.dds
+GFX  21:24:50.269 WARNING: Corrupt texture assets\textures\decal_protoss_0017_01.dds
+GFX  21:24:50.385 WARNING: Corrupt texture assets\textures\ui_minimap_icon_destructibledebris.dds
+GFX  21:24:50.385 WARNING: Corrupt texture assets\textures\ui_minimap_icon_xelnagawatchtower.dds
+GFX  21:24:51.759 WARNING: Corrupt texture assets\textures\cursor-protoss.dds
+GFX  21:24:51.896 WARNING: Corrupt texture assets\textures\background_terran_0081_01.dds
+GFX  21:24:52.040 WARNING: Corrupt texture assets\textures\cursor-select-allied.dds
+GFX  21:24:53.357 WARNING: Corrupt texture assets\textures\cursor-select-none.dds
+GFX  21:24:53.712 WARNING: Corrupt texture assets\textures\waypointline.dds
+GFX  21:24:53.880 WARNING: Corrupt texture assets\textures\btn-border-queue-trainingslot02_normalpressed.dds
+GFX  21:24:53.882 WARNING: Corrupt texture assets\textures\btn-border-queue-trainingslot05_normalpressed.dds
+GFX  21:24:53.883 WARNING: Corrupt texture assets\textures\btn-border-queue-trainingslot03_normalpressed.dds
+GFX  21:24:53.885 WARNING: Corrupt texture assets\textures\btn-border-queue-trainingslot04_normalpressed.dds
+GFX  21:24:54.094 WARNING: Corrupt texture assets\textures\pingnydusliberty.dds
+GFX  21:24:58.392 WARNING: Corrupt texture assets\textures\cursor-edgescroll-right-protoss.dds
+GFX  21:24:59.375 WARNING: Corrupt texture assets\textures\cursor-edgescroll-left-protoss.dds
+GFX  21:25:01.508 WARNING: Corrupt texture assets\textures\ui_chatbaricons_generic_all.dds

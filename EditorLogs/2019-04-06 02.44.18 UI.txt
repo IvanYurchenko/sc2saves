@@ -1,0 +1,15 @@
+﻿02:44:18.428 File [StandardDialog.SC2Layout] Line [189] Column [9]. Unknown type attribute [Browser] for: [Browser].
+02:44:18.556 File [DescIndex.SC2Layout] Line [110] Column [5]. Failed to load included Desc File [UI/Layout/Glue/LobbySlot.SC2Layout].
+02:44:18.556 File [DescIndex.SC2Layout] Line [111] Column [5]. Failed to load included Desc File [UI/Layout/Glue/LobbySlotSetup.SC2Layout].
+02:44:18.756 File [DescIndex.SC2Layout] Line [275] Column [5]. Failed to load included Desc File [UI/Layout/Glue/ScreenMulti.SC2Layout].
+02:44:18.756 File [DescIndex.SC2Layout] Line [276] Column [5]. Failed to load included Desc File [UI/Layout/Glue/ScreenNetwork.SC2Layout].
+02:44:18.760 File [DescIndex.SC2Layout] Line [281] Column [5]. Failed to load included Desc File [UI/Layout/Glue/ScreenLobby.SC2Layout].
+02:44:18.760 File [DescIndex.SC2Layout] Line [282] Column [5]. Failed to load included Desc File [UI/Layout/Glue/ScreenNetworkLobby.SC2Layout].
+02:44:18.925 File [layout_sys_menubar.SC2Layout] Line [3] Column [5]. Failed to locate specified Desc [MenuBar/MenuBarButtonTemplate].
+02:44:18.925 File [layout_sys_menubar.SC2Layout] Line [3] Column [5]. Could not find template [MenuBar/MenuBarButtonTemplate] for Frame Desc [AchievementButton].
+02:44:18.925 File [layout_sys_menubar.SC2Layout] Line [10] Column [5]. Failed to locate specified Desc [MenuBar/MenuBarButtonTemplate].
+02:44:18.925 File [layout_sys_menubar.SC2Layout] Line [10] Column [5]. Could not find template [MenuBar/MenuBarButtonTemplate] for Frame Desc [MenuButton].
+02:44:18.925 File [layout_sys_menubar.SC2Layout] Line [15] Column [5]. Failed to locate specified Desc [MenuBar/MenuBarButtonTemplate].
+02:44:18.925 File [layout_sys_menubar.SC2Layout] Line [15] Column [5]. Could not find template [MenuBar/MenuBarButtonTemplate] for Frame Desc [MessagesButton].
+02:44:18.925 File [layout_sys_menubar.SC2Layout] Line [20] Column [5]. Failed to locate specified Desc [MenuBar/MenuBarButtonTemplate].
+02:44:18.925 File [layout_sys_menubar.SC2Layout] Line [20] Column [5]. Could not find template [MenuBar/MenuBarButtonTemplate] for Frame Desc [HelpButton].

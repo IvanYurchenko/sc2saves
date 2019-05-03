@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PlayerData">
+        <Key name="aDieg188">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg22">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg21">
+            <Value int="0"/>
+        </Key>
+        <Key name="reborn">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg235">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg223">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg1">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg234">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg211">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg89">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg52">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg229">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg225">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg163">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg143">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg137">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg55">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg6">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg195">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg181">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg165">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg129">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg96">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg118">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg56">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg189">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg119">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg11">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg193">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg169">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg85">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg57">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg5">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg172">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg152">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg109">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg83">
+            <Value int="27172"/>
+        </Key>
+        <Key name="aDieg4">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg250">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg249">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg154">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg99">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg76">
+            <Value int="0"/>
+        </Key>
+        <Key name="normalWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg210">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg205">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg203">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg186">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg123">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg58">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg20">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg132">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg120">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg3">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg208">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg142">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg100">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg43">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg15">
+            <Value int="0"/>
+        </Key>
+        <Key name="totalLevel">
+            <Value int="30"/>
+        </Key>
+        <Key name="aDieg171">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg98">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg74">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg37">
+            <Value int="0"/>
+        </Key>
+        <Key name="insaneWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg167">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg157">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg115">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg88">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg46">
+            <Value int="60617"/>
+        </Key>
+        <Key name="aDieg233">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg150">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg110">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg36">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg19">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg206">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg141">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg50">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg227">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg218">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg170">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg69">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg10">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg75">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg63">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg33">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg31">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg247">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg144">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg62">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg66">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg185">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg135">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg14">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg212">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg64">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg59">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg8">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg164">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg147">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg72">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg29">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg12">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg180">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg108">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg86">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg176">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg146">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg40">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg17">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg231">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg202">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg196">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg162">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg148">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg122">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg84">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg60">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg45">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg200">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg138">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg116">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg105">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg81">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg78">
+            <Value int="0"/>
+        </Key>
+        <Key name="critterKills">
+            <Value int="11"/>
+        </Key>
+        <Key name="aDieg219">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg175">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg145">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg28">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg228">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg155">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg149">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg130">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg24">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg245">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg201">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg158">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg49">
+            <Value int="98485"/>
+        </Key>
+        <Key name="aDieg248">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg184">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg174">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg47">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg237">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg112">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg97">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg67">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg27">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg240">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg204">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg192">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg136">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg77">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg44">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg221">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg153">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg117">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg73">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg61">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg35">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg182">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg92">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg39">
+            <Value int="0"/>
+        </Key>
+        <Key name="bagKills">
+            <Value int="9"/>
+        </Key>
+        <Key name="aDieg242">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg213">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg160">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg131">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg197">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg190">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg95">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg183">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg134">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg102">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg48">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg38">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg128">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg70">
+            <Value int="70812"/>
+        </Key>
+        <Key name="aDieg16">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg236">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg168">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg26">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg238">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg226">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg222">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg198">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg13">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg246">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg194">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg124">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg114">
+            <Value int="71187"/>
+        </Key>
+        <Key name="aDieg2">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg177">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg151">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg32">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg25">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg215">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg161">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg125">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg71">
+            <Value int="0"/>
+        </Key>
+        <Key name="easyWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg224">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg187">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg140">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg94">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg80">
+            <Value int="2510"/>
+        </Key>
+        <Key name="aDieg79">
+            <Value int="18438"/>
+        </Key>
+        <Key name="aDieg65">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg18">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg217">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg179">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg113">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg23">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg232">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg220">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg101">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg90">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg107">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg103">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg93">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg82">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg54">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg34">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg239">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg173">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg156">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg133">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg106">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg104">
+            <Value int="6799"/>
+        </Key>
+        <Key name="aDieg166">
+            <Value int="0"/>
+        </Key>
+        <Key name="kills">
+            <Value int="1267"/>
+        </Key>
+        <Key name="aDieg244">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg91">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg9">
+            <Value int="0"/>
+        </Key>
+        <Key name="extremeWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="wins">
+            <Value int="1"/>
+        </Key>
+        <Key name="aDieg178">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg159">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg30">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg216">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg199">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg230">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg121">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg111">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg214">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg139">
+            <Value int="0"/>
+        </Key>
+        <Key name="hardWins">
+            <Value int="1"/>
+        </Key>
+        <Key name="rankPts">
+            <Value int="170"/>
+        </Key>
+        <Key name="aDieg191">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg127">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg53">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg42">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg41">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg243">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg209">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg87">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg207">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg68">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg51">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg126">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg7">
+            <Value int="0"/>
+        </Key>
+        <Key name="aDieg241">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="09B20A28B15A3F73DFE4BCBD789981BDDE53422D"/>
+</Bank>

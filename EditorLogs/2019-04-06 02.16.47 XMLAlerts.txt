@@ -1,0 +1,5 @@
+﻿GameData\LightData.xml(35,13) : Core: invalid object type identification
+ Source: C:/Users/Ivan/Downloads/catch-and-run-2017-master/catch-and-run-2017.SC2Map
+ Entry: Shakuras
+ Scope: CLight.SLightInfo
+ Field: ToDInfoArray[0].Param[0]

@@ -1,0 +1,154 @@
+﻿DIAG_BUFFER_ERROR
+[20190305T22:03:10] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:10] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:14] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:14] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:14] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:14] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:18] {3950} ERR: read fail #4096 @[20|954760653]: Invalid argument
+[20190305T22:03:18] {3950} ERR: read fail #4096 @[20|954760653]: Invalid argument
+[20190305T22:03:18] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:18] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:22] {3950} ERR: read fail #4096 @[20|935943372]: Invalid argument
+[20190305T22:03:22] {3950} ERR: read fail #4096 @[20|935943372]: Invalid argument
+[20190305T22:03:22] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:22] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:26] {3950} ERR: read fail #4096 @[20|954760653]: Invalid argument
+[20190305T22:03:26] {3950} ERR: read fail #4096 @[20|954760653]: Invalid argument
+[20190305T22:03:26] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:26] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:30] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:30] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:30] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:30] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:35] {3950} ERR: read fail #4096 @[20|935943372]: Invalid argument
+[20190305T22:03:35] {3950} ERR: read fail #4096 @[20|935943372]: Invalid argument
+[20190305T22:03:35] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:35] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:36] {3950} ERR: read fail #4096 @[14|280950466]: Invalid argument
+[20190305T22:03:36] {3950} ERR: read fail #4096 @[14|280950466]: Invalid argument
+[20190305T22:03:39] {3950} ERR: read fail #4096 @[20|935009739]: Invalid argument
+[20190305T22:03:39] {3950} ERR: read fail #4096 @[20|935009739]: Invalid argument
+[20190305T22:03:39] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:39] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:43] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:43] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:43] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:43] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|936121523]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|936121523]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|947844666]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|947844666]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:58] {3608} ERR: read fail #129 @[1|337328768]: Invalid argument
+
+DIAG_BUFFER_INFO
+[20190305T22:03:10] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:10] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:14] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:14] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:14] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:14] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:18] {3950} ERR: read fail #4096 @[20|954760653]: Invalid argument
+[20190305T22:03:18] {3950} ERR: read fail #4096 @[20|954760653]: Invalid argument
+[20190305T22:03:18] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:18] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:22] {3950} ERR: read fail #4096 @[20|935943372]: Invalid argument
+[20190305T22:03:22] {3950} ERR: read fail #4096 @[20|935943372]: Invalid argument
+[20190305T22:03:22] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:22] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:26] {3950} ERR: read fail #4096 @[20|954760653]: Invalid argument
+[20190305T22:03:26] {3950} ERR: read fail #4096 @[20|954760653]: Invalid argument
+[20190305T22:03:26] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:26] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:30] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:30] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:30] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:30] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:35] {3950} ERR: read fail #4096 @[20|935943372]: Invalid argument
+[20190305T22:03:35] {3950} ERR: read fail #4096 @[20|935943372]: Invalid argument
+[20190305T22:03:35] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:35] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:36] {3950} ERR: read fail #4096 @[14|280950466]: Invalid argument
+[20190305T22:03:36] {3950} ERR: read fail #4096 @[14|280950466]: Invalid argument
+[20190305T22:03:39] {3950} ERR: read fail #4096 @[20|935009739]: Invalid argument
+[20190305T22:03:39] {3950} ERR: read fail #4096 @[20|935009739]: Invalid argument
+[20190305T22:03:39] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:39] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:43] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:43] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:43] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:43] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|936121523]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|936121523]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|947844666]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|947844666]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:58] {3608} ERR: read fail #129 @[1|337328768]: Invalid argument
+
+DIAG_BUFFER_ALL
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|936121523]: Invalid argument
+[20190305T22:03:47] {3950} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:62375ABB913A3563E57E62660FB47F83
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:47] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:47] {3950} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:E310F381C14A5C209C1E465D44A85146
+[20190305T22:03:47] {3a5c} debug: select() -> 0
+[20190305T22:03:47] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:48] {3a5c} debug: select() -> 0
+[20190305T22:03:48] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:49] {3a5c} debug: select() -> 0
+[20190305T22:03:49] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=28.700us
+[20190305T22:03:49] {3a5c} debug: select() -> 0
+[20190305T22:03:49] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=957.021ms
+[20190305T22:03:50] {3a5c} debug: select() -> 0
+[20190305T22:03:50] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=41.982ms
+[20190305T22:03:50] {3a5c} debug: select() -> 0
+[20190305T22:03:50] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|947844666]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|947844666]: Invalid argument
+[20190305T22:03:51] {3950} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:67236B37D628EA390BDE33BEBDCCA8DD
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:51] {3950} ERR: read fail #4096 @[20|968056908]: Invalid argument
+[20190305T22:03:51] {3950} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:0B7C59D84E3FDA59A5E18F6205FDA8C2
+[20190305T22:03:51] {3a5c} debug: select() -> 0
+[20190305T22:03:51] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:52] {3a5c} debug: select() -> 0
+[20190305T22:03:52] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:53] {3a5c} debug: select() -> 0
+[20190305T22:03:53] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:54] {3a5c} debug: select() -> 0
+[20190305T22:03:54] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=955.965ms
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|935161687]: Invalid argument
+[20190305T22:03:55] {3950} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:8813E6B412A2A10BE1E531D5B12E47CA
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:55] {3950} ERR: read fail #4096 @[20|967900422]: Invalid argument
+[20190305T22:03:55] {3950} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:E310F381C14A5C209C1E465D44A85146
+[20190305T22:03:55] {3a5c} debug: select() -> 0
+[20190305T22:03:55] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=44.021ms
+[20190305T22:03:55] {3a5c} debug: select() -> 0
+[20190305T22:03:55] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:56] {3a5c} debug: select() -> 0
+[20190305T22:03:56] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=4.500us
+[20190305T22:03:56] {3a5c} debug: select() -> 0
+[20190305T22:03:56] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:57] {3a5c} debug: select() -> 0
+[20190305T22:03:57] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190305T22:03:58] {3608} ERR: read fail #129 @[1|337328768]: Invalid argument
+[20190305T22:03:58] {3608} noise: Game sent error report: e_fileCorrupt (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:1A98967AFA31BC00503AB8289DF66B98
+[20190305T22:03:58] {3a5c} debug: select() -> 0
+[20190305T22:03:58] {3a5c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms

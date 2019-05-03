@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Team">
+        <Key name="4">
+            <Value text="Roy : 1-S2-1-9710549    &lt;n/&gt;"/>
+        </Key>
+        <Key name="6">
+            <Value text="Soul : 1-S2-1-5623065    &lt;n/&gt;"/>
+        </Key>
+        <Key name="1">
+            <Value text="Mana : 1-S2-1-9680391    &lt;n/&gt;"/>
+        </Key>
+        <Key name="3">
+            <Value text="Kian : 1-S2-1-5483040    &lt;n/&gt;"/>
+        </Key>
+        <Key name="2">
+            <Value text="Mercy : 1-S2-1-7444559    &lt;n/&gt;"/>
+        </Key>
+        <Key name="5">
+            <Value text="LazeR : 1-S2-1-4667671    &lt;n/&gt;"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="AbilityTips">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Tips">
+            <Value int="2"/>
+        </Key>
+        <Key name="BattleCamEX">
+            <Value flag="1"/>
+        </Key>
+        <Key name="Names">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="Stats">
+        <Key name="BCTX2.1">
+            <Value int="191"/>
+        </Key>
+        <Key name="BCTX2.4">
+            <Value int="326"/>
+        </Key>
+        <Key name="BCTX2.2">
+            <Value int="143"/>
+        </Key>
+        <Key name="BCTX2.3">
+            <Value int="153"/>
+        </Key>
+    </Section>
+    <Signature value="86F7FA2645DF6DEC68EE69AB1592FEC516D4FC94"/>
+</Bank>

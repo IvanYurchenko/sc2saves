@@ -1,0 +1,8 @@
+﻿DIAG_BUFFER_ERROR
+[20190403T20:42:18] {c4c} ERR: repair marker detected in 'E:'
+
+DIAG_BUFFER_INFO
+[20190403T20:42:18] {c4c} ERR: repair marker detected in 'E:'
+
+DIAG_BUFFER_ALL
+[20190403T20:42:18] {c4c} ERR: repair marker detected in 'E:'

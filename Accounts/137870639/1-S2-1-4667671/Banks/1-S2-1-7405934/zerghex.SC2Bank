@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="signatures">
+        <Key name="signature1">
+            <Value string="ZHHZAMHZZHXDAMSQLH"/>
+        </Key>
+    </Section>
+    <Section name="stats_player">
+        <Key name="wins_zerg">
+            <Value int="1"/>
+        </Key>
+        <Key name="games_zerg">
+            <Value int="1"/>
+        </Key>
+        <Key name="wins_terran">
+            <Value int="0"/>
+        </Key>
+        <Key name="games_terran">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

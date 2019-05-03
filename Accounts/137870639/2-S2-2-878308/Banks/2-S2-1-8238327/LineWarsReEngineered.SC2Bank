@@ -1,0 +1,2440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PointLeaderboard">
+        <Key name="Name72">
+            <Value text="MujiN"/>
+        </Key>
+        <Key name="DetentionGamesplayed89">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation18">
+            <Value int="17"/>
+        </Key>
+        <Key name="Detention33">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed30">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention23">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games99">
+            <Value int="316"/>
+        </Key>
+        <Key name="Games90">
+            <Value int="510"/>
+        </Key>
+        <Key name="Points71">
+            <Value int="1115"/>
+        </Key>
+        <Key name="Games8">
+            <Value int="165"/>
+        </Key>
+        <Key name="Points112">
+            <Value int="976"/>
+        </Key>
+        <Key name="Games48">
+            <Value int="519"/>
+        </Key>
+        <Key name="ID1">
+            <Value string="2-S2-1-5596606"/>
+        </Key>
+        <Key name="Name70">
+            <Value text="Omgwtfdood"/>
+        </Key>
+        <Key name="DetentionGamesplayed40">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed24">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games112">
+            <Value int="126"/>
+        </Key>
+        <Key name="Games60">
+            <Value int="378"/>
+        </Key>
+        <Key name="DetentionGamesplayed21">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points119">
+            <Value int="962"/>
+        </Key>
+        <Key name="Participation85">
+            <Value int="29"/>
+        </Key>
+        <Key name="Detention94">
+            <Value string="2-S2-1-2098623"/>
+        </Key>
+        <Key name="Games110">
+            <Value int="137"/>
+        </Key>
+        <Key name="ID104">
+            <Value string="2-S2-1-5586728"/>
+        </Key>
+        <Key name="Participation99">
+            <Value int="12"/>
+        </Key>
+        <Key name="Games12">
+            <Value int="102"/>
+        </Key>
+        <Key name="Name9">
+            <Value text="Danatan"/>
+        </Key>
+        <Key name="Points10">
+            <Value int="1601"/>
+        </Key>
+        <Key name="DetentionGamesplayed57">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games76">
+            <Value int="601"/>
+        </Key>
+        <Key name="Games57">
+            <Value int="401"/>
+        </Key>
+        <Key name="Name46">
+            <Value text="smuuth"/>
+        </Key>
+        <Key name="Detention53">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention24">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID47">
+            <Value string="2-S2-1-1627739"/>
+        </Key>
+        <Key name="Points22">
+            <Value int="1491"/>
+        </Key>
+        <Key name="Name73">
+            <Value text="Murgho"/>
+        </Key>
+        <Key name="Detention30">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation106">
+            <Value int="12"/>
+        </Key>
+        <Key name="DetentionGamesplayed70">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation111">
+            <Value int="12"/>
+        </Key>
+        <Key name="Participation107">
+            <Value int="20"/>
+        </Key>
+        <Key name="ID105">
+            <Value string="2-S2-1-210175"/>
+        </Key>
+        <Key name="Points56">
+            <Value int="1174"/>
+        </Key>
+        <Key name="Participation25">
+            <Value int="24"/>
+        </Key>
+        <Key name="Points18">
+            <Value int="1566"/>
+        </Key>
+        <Key name="Participation82">
+            <Value int="8"/>
+        </Key>
+        <Key name="Detention84">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games78">
+            <Value int="107"/>
+        </Key>
+        <Key name="Participation55">
+            <Value int="13"/>
+        </Key>
+        <Key name="Name8">
+            <Value text="Gloutons"/>
+        </Key>
+        <Key name="Participation45">
+            <Value int="26"/>
+        </Key>
+        <Key name="Detention83">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation115">
+            <Value int="19"/>
+        </Key>
+        <Key name="Games85">
+            <Value int="129"/>
+        </Key>
+        <Key name="Name98">
+            <Value text="llllllllllll"/>
+        </Key>
+        <Key name="Name60">
+            <Value text="ZogD"/>
+        </Key>
+        <Key name="DetentionGamesplayed37">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID112">
+            <Value string="2-S2-2-1181383"/>
+        </Key>
+        <Key name="Points28">
+            <Value int="1419"/>
+        </Key>
+        <Key name="Detention21">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention9">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID69">
+            <Value string="2-S2-1-3158818"/>
+        </Key>
+        <Key name="Name4">
+            <Value text="Trollharder"/>
+        </Key>
+        <Key name="Name108">
+            <Value text="DrunkenMonke"/>
+        </Key>
+        <Key name="Name86">
+            <Value text="DerpAlf"/>
+        </Key>
+        <Key name="Name85">
+            <Value text="Duke"/>
+        </Key>
+        <Key name="DetentionGamesplayed54">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points2">
+            <Value int="1806"/>
+        </Key>
+        <Key name="DetentionGamesplayed65">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points41">
+            <Value int="1308"/>
+        </Key>
+        <Key name="Points16">
+            <Value int="1578"/>
+        </Key>
+        <Key name="Name35">
+            <Value text="Alandar"/>
+        </Key>
+        <Key name="DetentionGamesplayed2">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points72">
+            <Value int="1115"/>
+        </Key>
+        <Key name="Name3">
+            <Value text="Talha"/>
+        </Key>
+        <Key name="Name56">
+            <Value text="Kingpin"/>
+        </Key>
+        <Key name="Games115">
+            <Value int="329"/>
+        </Key>
+        <Key name="ID95">
+            <Value string="2-S2-1-1332223"/>
+        </Key>
+        <Key name="ID56">
+            <Value string="2-S2-1-8539895"/>
+        </Key>
+        <Key name="Games117">
+            <Value int="219"/>
+        </Key>
+        <Key name="Games86">
+            <Value int="61"/>
+        </Key>
+        <Key name="ID27">
+            <Value string="2-S2-1-469341"/>
+        </Key>
+        <Key name="Name22">
+            <Value text="Ponpon"/>
+        </Key>
+        <Key name="Participation101">
+            <Value int="9"/>
+        </Key>
+        <Key name="Games49">
+            <Value int="89"/>
+        </Key>
+        <Key name="ID28">
+            <Value string="2-S2-1-513443"/>
+        </Key>
+        <Key name="Name38">
+            <Value text="Andokai"/>
+        </Key>
+        <Key name="ID115">
+            <Value string="2-S2-1-990161"/>
+        </Key>
+        <Key name="Games80">
+            <Value int="223"/>
+        </Key>
+        <Key name="Points14">
+            <Value int="1582"/>
+        </Key>
+        <Key name="Participation0">
+            <Value int="1"/>
+        </Key>
+        <Key name="DetentionGamesplayed18">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points42">
+            <Value int="1301"/>
+        </Key>
+        <Key name="Games23">
+            <Value int="208"/>
+        </Key>
+        <Key name="Games3">
+            <Value int="657"/>
+        </Key>
+        <Key name="Games113">
+            <Value int="100"/>
+        </Key>
+        <Key name="Games41">
+            <Value int="346"/>
+        </Key>
+        <Key name="Games28">
+            <Value int="239"/>
+        </Key>
+        <Key name="Participation9">
+            <Value int="19"/>
+        </Key>
+        <Key name="ID117">
+            <Value string="2-S2-1-2724877"/>
+        </Key>
+        <Key name="ID49">
+            <Value string="2-S2-1-1524149"/>
+        </Key>
+        <Key name="Games38">
+            <Value int="206"/>
+        </Key>
+        <Key name="Detention90">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention42">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID59">
+            <Value string="2-S2-1-1047995"/>
+        </Key>
+        <Key name="Games25">
+            <Value int="199"/>
+        </Key>
+        <Key name="ID19">
+            <Value string="2-S2-1-4759693"/>
+        </Key>
+        <Key name="ID13">
+            <Value string="2-S2-1-1686230"/>
+        </Key>
+        <Key name="Games9">
+            <Value int="149"/>
+        </Key>
+        <Key name="Name64">
+            <Value text="paradox"/>
+        </Key>
+        <Key name="Participation84">
+            <Value int="29"/>
+        </Key>
+        <Key name="Points62">
+            <Value int="1156"/>
+        </Key>
+        <Key name="Games10">
+            <Value int="228"/>
+        </Key>
+        <Key name="Detention48">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed23">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID109">
+            <Value string="2-S2-1-1971414"/>
+        </Key>
+        <Key name="Games67">
+            <Value int="313"/>
+        </Key>
+        <Key name="Games0">
+            <Value int="174"/>
+        </Key>
+        <Key name="Name0">
+            <Value text="NuclearRex"/>
+        </Key>
+        <Key name="ID108">
+            <Value string="2-S2-1-7100751"/>
+        </Key>
+        <Key name="ID36">
+            <Value string="2-S2-1-4735691"/>
+        </Key>
+        <Key name="ID3">
+            <Value string="2-S2-1-1282482"/>
+        </Key>
+        <Key name="Games77">
+            <Value int="196"/>
+        </Key>
+        <Key name="Participation58">
+            <Value int="14"/>
+        </Key>
+        <Key name="Name49">
+            <Value text="mehere"/>
+        </Key>
+        <Key name="DetentionGamesplayed8">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points104">
+            <Value int="1006"/>
+        </Key>
+        <Key name="Name119">
+            <Value text="alex"/>
+        </Key>
+        <Key name="Name102">
+            <Value text="CaBRit"/>
+        </Key>
+        <Key name="Name93">
+            <Value text="NozoN"/>
+        </Key>
+        <Key name="Name79">
+            <Value text="Zecari"/>
+        </Key>
+        <Key name="Participation64">
+            <Value int="17"/>
+        </Key>
+        <Key name="Participation33">
+            <Value int="19"/>
+        </Key>
+        <Key name="Name41">
+            <Value text="Richo"/>
+        </Key>
+        <Key name="DetentionGamesplayed25">
+            <Value int="0"/>
+        </Key>
+        <Key name="Name117">
+            <Value text="Lundas"/>
+        </Key>
+        <Key name="ID116">
+            <Value string="2-S2-1-3141862"/>
+        </Key>
+        <Key name="ID64">
+            <Value string="2-S2-1-1549890"/>
+        </Key>
+        <Key name="Games47">
+            <Value int="282"/>
+        </Key>
+        <Key name="Detention96">
+            <Value string=""/>
+        </Key>
+        <Key name="Detention72">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed3">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games39">
+            <Value int="518"/>
+        </Key>
+        <Key name="Detention82">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games107">
+            <Value int="209"/>
+        </Key>
+        <Key name="Points89">
+            <Value int="1070"/>
+        </Key>
+        <Key name="Participation69">
+            <Value int="28"/>
+        </Key>
+        <Key name="Participation68">
+            <Value int="29"/>
+        </Key>
+        <Key name="Games29">
+            <Value int="666"/>
+        </Key>
+        <Key name="ID7">
+            <Value string="2-S2-1-1376901"/>
+        </Key>
+        <Key name="Detention59">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention7">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed66">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed60">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID9">
+            <Value string="2-S2-1-1717511"/>
+        </Key>
+        <Key name="DetentionGamesplayed94">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation75">
+            <Value int="8"/>
+        </Key>
+        <Key name="Points80">
+            <Value int="1084"/>
+        </Key>
+        <Key name="DetentionGamesplayed90">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games106">
+            <Value int="606"/>
+        </Key>
+        <Key name="Games98">
+            <Value int="65"/>
+        </Key>
+        <Key name="Games55">
+            <Value int="254"/>
+        </Key>
+        <Key name="Games44">
+            <Value int="330"/>
+        </Key>
+        <Key name="ID10">
+            <Value string="2-S2-1-6708700"/>
+        </Key>
+        <Key name="Points73">
+            <Value int="1114"/>
+        </Key>
+        <Key name="DetentionGamesplayed61">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points7">
+            <Value int="1647"/>
+        </Key>
+        <Key name="Name80">
+            <Value text="BillyGunn"/>
+        </Key>
+        <Key name="Name43">
+            <Value text="casshernD"/>
+        </Key>
+        <Key name="Name19">
+            <Value text="soldierx"/>
+        </Key>
+        <Key name="Participation113">
+            <Value int="27"/>
+        </Key>
+        <Key name="Games100">
+            <Value int="55"/>
+        </Key>
+        <Key name="Participation36">
+            <Value int="6"/>
+        </Key>
+        <Key name="Participation16">
+            <Value int="12"/>
+        </Key>
+        <Key name="Games89">
+            <Value int="556"/>
+        </Key>
+        <Key name="Points57">
+            <Value int="1163"/>
+        </Key>
+        <Key name="Participation47">
+            <Value int="27"/>
+        </Key>
+        <Key name="Points29">
+            <Value int="1416"/>
+        </Key>
+        <Key name="Detention95">
+            <Value string=""/>
+        </Key>
+        <Key name="Games52">
+            <Value int="481"/>
+        </Key>
+        <Key name="Games31">
+            <Value int="161"/>
+        </Key>
+        <Key name="ID23">
+            <Value string="2-S2-1-7310449"/>
+        </Key>
+        <Key name="Detention69">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games116">
+            <Value int="832"/>
+        </Key>
+        <Key name="Points43">
+            <Value int="1275"/>
+        </Key>
+        <Key name="Participation32">
+            <Value int="24"/>
+        </Key>
+        <Key name="Games91">
+            <Value int="81"/>
+        </Key>
+        <Key name="Detention18">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points65">
+            <Value int="1148"/>
+        </Key>
+        <Key name="Detention43">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points94">
+            <Value int="1041"/>
+        </Key>
+        <Key name="Points83">
+            <Value int="1081"/>
+        </Key>
+        <Key name="DetentionGamesplayed42">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games26">
+            <Value int="193"/>
+        </Key>
+        <Key name="Points103">
+            <Value int="1008"/>
+        </Key>
+        <Key name="ID99">
+            <Value string="2-S2-1-1027635"/>
+        </Key>
+        <Key name="ID92">
+            <Value string="2-S2-1-1580199"/>
+        </Key>
+        <Key name="ID78">
+            <Value string="2-S2-1-5478803"/>
+        </Key>
+        <Key name="Points8">
+            <Value int="1635"/>
+        </Key>
+        <Key name="Points3">
+            <Value int="1758"/>
+        </Key>
+        <Key name="DetentionGamesplayed77">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention45">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention34">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID88">
+            <Value string="2-S2-1-3827500"/>
+        </Key>
+        <Key name="Points19">
+            <Value int="1540"/>
+        </Key>
+        <Key name="Name29">
+            <Value text="SnailSupreme"/>
+        </Key>
+        <Key name="Name14">
+            <Value text="satanja"/>
+        </Key>
+        <Key name="DetentionGamesplayed86">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention35">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points24">
+            <Value int="1463"/>
+        </Key>
+        <Key name="DetentionGamesplayed85">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention55">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed44">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation96">
+            <Value int="14"/>
+        </Key>
+        <Key name="Points63">
+            <Value int="1156"/>
+        </Key>
+        <Key name="ID29">
+            <Value string="2-S2-1-7503733"/>
+        </Key>
+        <Key name="Detention98">
+            <Value string=""/>
+        </Key>
+        <Key name="DetentionGamesplayed41">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed9">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation103">
+            <Value int="9"/>
+        </Key>
+        <Key name="Games103">
+            <Value int="261"/>
+        </Key>
+        <Key name="ID57">
+            <Value string="2-S2-1-6716594"/>
+        </Key>
+        <Key name="Participation56">
+            <Value int="25"/>
+        </Key>
+        <Key name="Points36">
+            <Value int="1348"/>
+        </Key>
+        <Key name="Name104">
+            <Value text="FetteElke"/>
+        </Key>
+        <Key name="ID91">
+            <Value string="2-S2-1-1406371"/>
+        </Key>
+        <Key name="Games62">
+            <Value int="67"/>
+        </Key>
+        <Key name="Participation10">
+            <Value int="8"/>
+        </Key>
+        <Key name="Name97">
+            <Value text="Carian"/>
+        </Key>
+        <Key name="Name44">
+            <Value text="cabanaz"/>
+        </Key>
+        <Key name="Detention47">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID83">
+            <Value string="2-S2-1-3910871"/>
+        </Key>
+        <Key name="Participation112">
+            <Value int="8"/>
+        </Key>
+        <Key name="Games109">
+            <Value int="382"/>
+        </Key>
+        <Key name="Name42">
+            <Value text="Prikol"/>
+        </Key>
+        <Key name="Name84">
+            <Value text="Plapla"/>
+        </Key>
+        <Key name="ID107">
+            <Value string="2-S2-2-692338"/>
+        </Key>
+        <Key name="ID45">
+            <Value string="2-S2-1-3291871"/>
+        </Key>
+        <Key name="Games19">
+            <Value int="309"/>
+        </Key>
+        <Key name="ID17">
+            <Value string="2-S2-1-1263104"/>
+        </Key>
+        <Key name="Points11">
+            <Value int="1600"/>
+        </Key>
+        <Key name="DetentionGamesplayed35">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points32">
+            <Value int="1389"/>
+        </Key>
+        <Key name="Points107">
+            <Value int="990"/>
+        </Key>
+        <Key name="Games97">
+            <Value int="106"/>
+        </Key>
+        <Key name="ID42">
+            <Value string="2-S2-1-2158890"/>
+        </Key>
+        <Key name="Points58">
+            <Value int="1162"/>
+        </Key>
+        <Key name="Points35">
+            <Value int="1364"/>
+        </Key>
+        <Key name="Detention99">
+            <Value string=""/>
+        </Key>
+        <Key name="DetentionGamesplayed32">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games71">
+            <Value int="258"/>
+        </Key>
+        <Key name="ID75">
+            <Value string="2-S2-1-187246"/>
+        </Key>
+        <Key name="ID15">
+            <Value string="2-S2-2-1679475"/>
+        </Key>
+        <Key name="Detention87">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games111">
+            <Value int="383"/>
+        </Key>
+        <Key name="Participation80">
+            <Value int="12"/>
+        </Key>
+        <Key name="Games61">
+            <Value int="83"/>
+        </Key>
+        <Key name="Points1">
+            <Value int="1851"/>
+        </Key>
+        <Key name="DetentionGamesplayed84">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention67">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID96">
+            <Value string="2-S2-1-5469089"/>
+        </Key>
+        <Key name="Participation71">
+            <Value int="10"/>
+        </Key>
+        <Key name="Points26">
+            <Value int="1427"/>
+        </Key>
+        <Key name="Detention78">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation57">
+            <Value int="13"/>
+        </Key>
+        <Key name="Games46">
+            <Value int="501"/>
+        </Key>
+        <Key name="Name40">
+            <Value text="Archon"/>
+        </Key>
+        <Key name="Name24">
+            <Value text="CrimsonMango"/>
+        </Key>
+        <Key name="Participation100">
+            <Value int="7"/>
+        </Key>
+        <Key name="Participation34">
+            <Value int="2"/>
+        </Key>
+        <Key name="Participation7">
+            <Value int="7"/>
+        </Key>
+        <Key name="ID37">
+            <Value string="2-S2-1-4770686"/>
+        </Key>
+        <Key name="Games27">
+            <Value int="424"/>
+        </Key>
+        <Key name="Name90">
+            <Value text="Taytego"/>
+        </Key>
+        <Key name="ID51">
+            <Value string="2-S2-1-5080660"/>
+        </Key>
+        <Key name="ID31">
+            <Value string="2-S2-1-2747547"/>
+        </Key>
+        <Key name="Name7">
+            <Value text="XelNage"/>
+        </Key>
+        <Key name="Participation90">
+            <Value int="11"/>
+        </Key>
+        <Key name="ID77">
+            <Value string="2-S2-1-3302781"/>
+        </Key>
+        <Key name="Points54">
+            <Value int="1199"/>
+        </Key>
+        <Key name="Points46">
+            <Value int="1251"/>
+        </Key>
+        <Key name="Participation8">
+            <Value int="20"/>
+        </Key>
+        <Key name="Detention91">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention71">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points45">
+            <Value int="1268"/>
+        </Key>
+        <Key name="DetentionGamesplayed52">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation86">
+            <Value int="25"/>
+        </Key>
+        <Key name="Participation67">
+            <Value int="2"/>
+        </Key>
+        <Key name="Name39">
+            <Value text="CødeTalker"/>
+        </Key>
+        <Key name="Detention17">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention5">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points95">
+            <Value int="1034"/>
+        </Key>
+        <Key name="Participation20">
+            <Value int="21"/>
+        </Key>
+        <Key name="Name1">
+            <Value text="HoneyBear"/>
+        </Key>
+        <Key name="Name37">
+            <Value text="CountDownDk"/>
+        </Key>
+        <Key name="Participation118">
+            <Value int="10"/>
+        </Key>
+        <Key name="ID103">
+            <Value string="2-S2-1-1360347"/>
+        </Key>
+        <Key name="ID98">
+            <Value string="2-S2-1-2615212"/>
+        </Key>
+        <Key name="Name89">
+            <Value text="oquertin"/>
+        </Key>
+        <Key name="DetentionGamesplayed79">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games42">
+            <Value int="119"/>
+        </Key>
+        <Key name="Games17">
+            <Value int="329"/>
+        </Key>
+        <Key name="Points85">
+            <Value int="1075"/>
+        </Key>
+        <Key name="Participation21">
+            <Value int="8"/>
+        </Key>
+        <Key name="DetentionGamesplayed96">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points101">
+            <Value int="1017"/>
+        </Key>
+        <Key name="Participation49">
+            <Value int="14"/>
+        </Key>
+        <Key name="Points27">
+            <Value int="1422"/>
+        </Key>
+        <Key name="Games16">
+            <Value int="486"/>
+        </Key>
+        <Key name="Games14">
+            <Value int="579"/>
+        </Key>
+        <Key name="ID61">
+            <Value string="2-S2-1-550893"/>
+        </Key>
+        <Key name="Name107">
+            <Value text="Aposis"/>
+        </Key>
+        <Key name="Name59">
+            <Value text="Fidel"/>
+        </Key>
+        <Key name="DetentionGamesplayed19">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games83">
+            <Value int="72"/>
+        </Key>
+        <Key name="Games69">
+            <Value int="190"/>
+        </Key>
+        <Key name="Points5">
+            <Value int="1703"/>
+        </Key>
+        <Key name="Participation88">
+            <Value int="6"/>
+        </Key>
+        <Key name="Points4">
+            <Value int="1705"/>
+        </Key>
+        <Key name="Name16">
+            <Value text="Nagibator"/>
+        </Key>
+        <Key name="Participation94">
+            <Value int="16"/>
+        </Key>
+        <Key name="ID58">
+            <Value string="2-S2-1-2247316"/>
+        </Key>
+        <Key name="Name115">
+            <Value text="GenieCZ"/>
+        </Key>
+        <Key name="Name81">
+            <Value text="Tarhum"/>
+        </Key>
+        <Key name="Name10">
+            <Value text="LOrobin"/>
+        </Key>
+        <Key name="Points117">
+            <Value int="966"/>
+        </Key>
+        <Key name="Name66">
+            <Value text="Arnak"/>
+        </Key>
+        <Key name="Detention22">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed13">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games82">
+            <Value int="144"/>
+        </Key>
+        <Key name="Participation78">
+            <Value int="18"/>
+        </Key>
+        <Key name="Games13">
+            <Value int="154"/>
+        </Key>
+        <Key name="Name18">
+            <Value text="MaDnEss"/>
+        </Key>
+        <Key name="DetentionGamesplayed91">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points102">
+            <Value int="1008"/>
+        </Key>
+        <Key name="ID76">
+            <Value string="2-S2-1-1314787"/>
+        </Key>
+        <Key name="ID24">
+            <Value string="2-S2-1-2398593"/>
+        </Key>
+        <Key name="Participation2">
+            <Value int="25"/>
+        </Key>
+        <Key name="Games36">
+            <Value int="367"/>
+        </Key>
+        <Key name="Games18">
+            <Value int="192"/>
+        </Key>
+        <Key name="DetentionGamesplayed28">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed87">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games108">
+            <Value int="456"/>
+        </Key>
+        <Key name="Points98">
+            <Value int="1029"/>
+        </Key>
+        <Key name="ID90">
+            <Value string="2-S2-1-7895980"/>
+        </Key>
+        <Key name="Games74">
+            <Value int="507"/>
+        </Key>
+        <Key name="Participation6">
+            <Value int="17"/>
+        </Key>
+        <Key name="DetentionGamesplayed83">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention75">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention39">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID93">
+            <Value string="2-S2-1-962228"/>
+        </Key>
+        <Key name="Participation5">
+            <Value int="18"/>
+        </Key>
+        <Key name="Detention52">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games88">
+            <Value int="350"/>
+        </Key>
+        <Key name="Participation76">
+            <Value int="12"/>
+        </Key>
+        <Key name="Games58">
+            <Value int="113"/>
+        </Key>
+        <Key name="Participation54">
+            <Value int="18"/>
+        </Key>
+        <Key name="Games50">
+            <Value int="155"/>
+        </Key>
+        <Key name="Detention73">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed15">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID100">
+            <Value string="2-S2-1-651890"/>
+        </Key>
+        <Key name="Participation30">
+            <Value int="20"/>
+        </Key>
+        <Key name="Participation35">
+            <Value int="27"/>
+        </Key>
+        <Key name="ID22">
+            <Value string="2-S2-1-1784382"/>
+        </Key>
+        <Key name="DetentionGamesplayed64">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention13">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID55">
+            <Value string="2-S2-1-1791579"/>
+        </Key>
+        <Key name="Points44">
+            <Value int="1275"/>
+        </Key>
+        <Key name="Name51">
+            <Value text="Glomlebrutal"/>
+        </Key>
+        <Key name="DetentionGamesplayed99">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention70">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID20">
+            <Value string="2-S2-1-1131517"/>
+        </Key>
+        <Key name="Name27">
+            <Value text="Zinki"/>
+        </Key>
+        <Key name="Participation97">
+            <Value int="29"/>
+        </Key>
+        <Key name="ID87">
+            <Value string="2-S2-1-677673"/>
+        </Key>
+        <Key name="Points20">
+            <Value int="1513"/>
+        </Key>
+        <Key name="Points12">
+            <Value int="1599"/>
+        </Key>
+        <Key name="Detention28">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID67">
+            <Value string="2-S2-1-699136"/>
+        </Key>
+        <Key name="Games35">
+            <Value int="360"/>
+        </Key>
+        <Key name="Name5">
+            <Value text="Kida"/>
+        </Key>
+        <Key name="ID94">
+            <Value string="2-S2-1-626322"/>
+        </Key>
+        <Key name="ID62">
+            <Value string="2-S2-1-8536931"/>
+        </Key>
+        <Key name="Participation40">
+            <Value int="7"/>
+        </Key>
+        <Key name="Detention61">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed6">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention25">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points116">
+            <Value int="966"/>
+        </Key>
+        <Key name="Name91">
+            <Value text="Syder"/>
+        </Key>
+        <Key name="Name11">
+            <Value text="Coltz"/>
+        </Key>
+        <Key name="Games104">
+            <Value int="234"/>
+        </Key>
+        <Key name="ID73">
+            <Value string="2-S2-1-3022543"/>
+        </Key>
+        <Key name="Games59">
+            <Value int="176"/>
+        </Key>
+        <Key name="Name65">
+            <Value text="msrm"/>
+        </Key>
+        <Key name="DetentionGamesplayed82">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation62">
+            <Value int="11"/>
+        </Key>
+        <Key name="DetentionGamesplayed92">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention56">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points61">
+            <Value int="1157"/>
+        </Key>
+        <Key name="Games51">
+            <Value int="195"/>
+        </Key>
+        <Key name="ID25">
+            <Value string="2-S2-1-307156"/>
+        </Key>
+        <Key name="DetentionGamesplayed62">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points99">
+            <Value int="1023"/>
+        </Key>
+        <Key name="Name100">
+            <Value text="neoec"/>
+        </Key>
+        <Key name="Name17">
+            <Value text="BlackRA"/>
+        </Key>
+        <Key name="Points17">
+            <Value int="1568"/>
+        </Key>
+        <Key name="Name50">
+            <Value text="cakos"/>
+        </Key>
+        <Key name="DetentionGamesplayed88">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed95">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed74">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points74">
+            <Value int="1114"/>
+        </Key>
+        <Key name="Detention11">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points78">
+            <Value int="1088"/>
+        </Key>
+        <Key name="Points30">
+            <Value int="1411"/>
+        </Key>
+        <Key name="Detention8">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation95">
+            <Value int="9"/>
+        </Key>
+        <Key name="Detention26">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed20">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID80">
+            <Value string="2-S2-1-1162554"/>
+        </Key>
+        <Key name="ID70">
+            <Value string="2-S2-1-8073933"/>
+        </Key>
+        <Key name="ID35">
+            <Value string="2-S2-1-411545"/>
+        </Key>
+        <Key name="Detention79">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention40">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Name111">
+            <Value text="Sturmfaust"/>
+        </Key>
+        <Key name="Detention16">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation66">
+            <Value int="27"/>
+        </Key>
+        <Key name="Points64">
+            <Value int="1156"/>
+        </Key>
+        <Key name="Points37">
+            <Value int="1333"/>
+        </Key>
+        <Key name="Name68">
+            <Value text="Pitsoneq"/>
+        </Key>
+        <Key name="Name58">
+            <Value text="Nazz"/>
+        </Key>
+        <Key name="Points67">
+            <Value int="1140"/>
+        </Key>
+        <Key name="Participation29">
+            <Value int="23"/>
+        </Key>
+        <Key name="ID52">
+            <Value string="2-S2-1-4359161"/>
+        </Key>
+        <Key name="Name112">
+            <Value text="Hardmeath"/>
+        </Key>
+        <Key name="DetentionGamesplayed72">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed67">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed29">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation108">
+            <Value int="28"/>
+        </Key>
+        <Key name="DetentionGamesplayed50">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games84">
+            <Value int="206"/>
+        </Key>
+        <Key name="Participation37">
+            <Value int="20"/>
+        </Key>
+        <Key name="Participation28">
+            <Value int="27"/>
+        </Key>
+        <Key name="DetentionGamesplayed26">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation65">
+            <Value int="24"/>
+        </Key>
+        <Key name="Detention51">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention93">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID53">
+            <Value string="2-S2-1-3014397"/>
+        </Key>
+        <Key name="Points6">
+            <Value int="1702"/>
+        </Key>
+        <Key name="ID106">
+            <Value string="2-S2-1-1574160"/>
+        </Key>
+        <Key name="Points82">
+            <Value int="1082"/>
+        </Key>
+        <Key name="Detention65">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID119">
+            <Value string="2-S2-1-7359555"/>
+        </Key>
+        <Key name="Points96">
+            <Value int="1033"/>
+        </Key>
+        <Key name="ID2">
+            <Value string="2-S2-1-3837290"/>
+        </Key>
+        <Key name="Participation70">
+            <Value int="14"/>
+        </Key>
+        <Key name="ID46">
+            <Value string="2-S2-1-1038385"/>
+        </Key>
+        <Key name="DetentionGamesplayed97">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention4">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID86">
+            <Value string="2-S2-1-7159723"/>
+        </Key>
+        <Key name="Games65">
+            <Value int="113"/>
+        </Key>
+        <Key name="Points47">
+            <Value int="1245"/>
+        </Key>
+        <Key name="Participation4">
+            <Value int="4"/>
+        </Key>
+        <Key name="Detention68">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed12">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation92">
+            <Value int="25"/>
+        </Key>
+        <Key name="Points81">
+            <Value int="1084"/>
+        </Key>
+        <Key name="ID60">
+            <Value string="2-S2-1-1796194"/>
+        </Key>
+        <Key name="Participation15">
+            <Value int="11"/>
+        </Key>
+        <Key name="Points9">
+            <Value int="1635"/>
+        </Key>
+        <Key name="Name55">
+            <Value text="Mirous"/>
+        </Key>
+        <Key name="Name36">
+            <Value text="Dasungeheuer"/>
+        </Key>
+        <Key name="DetentionGamesplayed56">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID97">
+            <Value string="2-S2-1-2216827"/>
+        </Key>
+        <Key name="Games43">
+            <Value int="263"/>
+        </Key>
+        <Key name="Name57">
+            <Value text="illadin"/>
+        </Key>
+        <Key name="Games79">
+            <Value int="233"/>
+        </Key>
+        <Key name="ID38">
+            <Value string="2-S2-1-663826"/>
+        </Key>
+        <Key name="Name2">
+            <Value text="RyZoXx"/>
+        </Key>
+        <Key name="Games81">
+            <Value int="231"/>
+        </Key>
+        <Key name="Participation63">
+            <Value int="17"/>
+        </Key>
+        <Key name="Games1">
+            <Value int="261"/>
+        </Key>
+        <Key name="Name95">
+            <Value text="Voodoo"/>
+        </Key>
+        <Key name="Points69">
+            <Value int="1131"/>
+        </Key>
+        <Key name="ID65">
+            <Value string="2-S2-1-5210126"/>
+        </Key>
+        <Key name="Participation39">
+            <Value int="23"/>
+        </Key>
+        <Key name="Points33">
+            <Value int="1386"/>
+        </Key>
+        <Key name="Name88">
+            <Value text="Blood"/>
+        </Key>
+        <Key name="Detention92">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed11">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation116">
+            <Value int="9"/>
+        </Key>
+        <Key name="Participation91">
+            <Value int="24"/>
+        </Key>
+        <Key name="Participation38">
+            <Value int="9"/>
+        </Key>
+        <Key name="ID32">
+            <Value string="2-S2-1-6210997"/>
+        </Key>
+        <Key name="Points23">
+            <Value int="1483"/>
+        </Key>
+        <Key name="Points15">
+            <Value int="1578"/>
+        </Key>
+        <Key name="Name94">
+            <Value text="Qiuone"/>
+        </Key>
+        <Key name="Participation79">
+            <Value int="26"/>
+        </Key>
+        <Key name="ID8">
+            <Value string="2-S2-1-1184517"/>
+        </Key>
+        <Key name="Name83">
+            <Value text="correa"/>
+        </Key>
+        <Key name="DetentionGamesplayed73">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games4">
+            <Value int="117"/>
+        </Key>
+        <Key name="ID102">
+            <Value string="2-S2-1-885124"/>
+        </Key>
+        <Key name="ID33">
+            <Value string="2-S2-1-1137591"/>
+        </Key>
+        <Key name="ID68">
+            <Value string="2-S2-1-6983534"/>
+        </Key>
+        <Key name="Games94">
+            <Value int="242"/>
+        </Key>
+        <Key name="Points79">
+            <Value int="1085"/>
+        </Key>
+        <Key name="Points53">
+            <Value int="1199"/>
+        </Key>
+        <Key name="DetentionGamesplayed58">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention37">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID101">
+            <Value string="2-S2-1-1588966"/>
+        </Key>
+        <Key name="Points60">
+            <Value int="1157"/>
+        </Key>
+        <Key name="Name116">
+            <Value text="Lenny"/>
+        </Key>
+        <Key name="DetentionGamesplayed34">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID12">
+            <Value string="2-S2-1-8067462"/>
+        </Key>
+        <Key name="DetentionGamesplayed75">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed43">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed93">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points105">
+            <Value int="1002"/>
+        </Key>
+        <Key name="Points25">
+            <Value int="1453"/>
+        </Key>
+        <Key name="Games5">
+            <Value int="110"/>
+        </Key>
+        <Key name="DetentionGamesplayed48">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games56">
+            <Value int="213"/>
+        </Key>
+        <Key name="Points49">
+            <Value int="1224"/>
+        </Key>
+        <Key name="ID34">
+            <Value string="2-S2-1-2074804"/>
+        </Key>
+        <Key name="Name47">
+            <Value text="Stewman"/>
+        </Key>
+        <Key name="ID111">
+            <Value string="2-S2-1-302847"/>
+        </Key>
+        <Key name="Participation17">
+            <Value int="13"/>
+        </Key>
+        <Key name="Detention86">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation104">
+            <Value int="18"/>
+        </Key>
+        <Key name="Points86">
+            <Value int="1073"/>
+        </Key>
+        <Key name="Participation61">
+            <Value int="25"/>
+        </Key>
+        <Key name="Participation48">
+            <Value int="7"/>
+        </Key>
+        <Key name="ID30">
+            <Value string="2-S2-1-427259"/>
+        </Key>
+        <Key name="ID14">
+            <Value string="2-S2-1-6906802"/>
+        </Key>
+        <Key name="ID6">
+            <Value string="2-S2-1-8592197"/>
+        </Key>
+        <Key name="Name30">
+            <Value text="Ailin"/>
+        </Key>
+        <Key name="DetentionGamesplayed63">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points114">
+            <Value int="973"/>
+        </Key>
+        <Key name="Points48">
+            <Value int="1231"/>
+        </Key>
+        <Key name="DetentionGamesplayed27">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games66">
+            <Value int="118"/>
+        </Key>
+        <Key name="ID26">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention64">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation51">
+            <Value int="4"/>
+        </Key>
+        <Key name="Points40">
+            <Value int="1316"/>
+        </Key>
+        <Key name="Points34">
+            <Value int="1376"/>
+        </Key>
+        <Key name="Name103">
+            <Value text="rus"/>
+        </Key>
+        <Key name="Detention38">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID44">
+            <Value string="2-S2-1-7551796"/>
+        </Key>
+        <Key name="Participation14">
+            <Value int="12"/>
+        </Key>
+        <Key name="DetentionGamesplayed31">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID5">
+            <Value string="2-S2-1-3584720"/>
+        </Key>
+        <Key name="Name62">
+            <Value text="Dafuk"/>
+        </Key>
+        <Key name="Name31">
+            <Value text="SeZei"/>
+        </Key>
+        <Key name="Games73">
+            <Value int="161"/>
+        </Key>
+        <Key name="Participation83">
+            <Value int="21"/>
+        </Key>
+        <Key name="Participation59">
+            <Value int="8"/>
+        </Key>
+        <Key name="Detention63">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed45">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention15">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention14">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation114">
+            <Value int="16"/>
+        </Key>
+        <Key name="Detention57">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points111">
+            <Value int="983"/>
+        </Key>
+        <Key name="Points84">
+            <Value int="1080"/>
+        </Key>
+        <Key name="Games70">
+            <Value int="116"/>
+        </Key>
+        <Key name="Games15">
+            <Value int="575"/>
+        </Key>
+        <Key name="Name75">
+            <Value text="Afam"/>
+        </Key>
+        <Key name="Participation102">
+            <Value int="4"/>
+        </Key>
+        <Key name="DetentionGamesplayed81">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed47">
+            <Value int="0"/>
+        </Key>
+        <Key name="Name45">
+            <Value text="Evo"/>
+        </Key>
+        <Key name="DetentionGamesplayed69">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points38">
+            <Value int="1330"/>
+        </Key>
+        <Key name="Detention60">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed14">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID84">
+            <Value string="2-S2-1-502006"/>
+        </Key>
+        <Key name="Participation46">
+            <Value int="13"/>
+        </Key>
+        <Key name="Points13">
+            <Value int="1584"/>
+        </Key>
+        <Key name="Detention80">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed46">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention46">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games105">
+            <Value int="586"/>
+        </Key>
+        <Key name="Participation89">
+            <Value int="18"/>
+        </Key>
+        <Key name="Name53">
+            <Value text="Semcast"/>
+        </Key>
+        <Key name="ID39">
+            <Value string="2-S2-1-438592"/>
+        </Key>
+        <Key name="Detention66">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation43">
+            <Value int="13"/>
+        </Key>
+        <Key name="Name12">
+            <Value text="IIIIIIIIIIII"/>
+        </Key>
+        <Key name="Games92">
+            <Value int="137"/>
+        </Key>
+        <Key name="Games53">
+            <Value int="338"/>
+        </Key>
+        <Key name="Detention97">
+            <Value string=""/>
+        </Key>
+        <Key name="DetentionGamesplayed22">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation22">
+            <Value int="5"/>
+        </Key>
+        <Key name="Detention50">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed0">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation73">
+            <Value int="17"/>
+        </Key>
+        <Key name="Points68">
+            <Value int="1138"/>
+        </Key>
+        <Key name="Games33">
+            <Value int="148"/>
+        </Key>
+        <Key name="Detention31">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games96">
+            <Value int="249"/>
+        </Key>
+        <Key name="Points90">
+            <Value int="1065"/>
+        </Key>
+        <Key name="ID85">
+            <Value string="2-S2-1-226443"/>
+        </Key>
+        <Key name="Detention41">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID50">
+            <Value string="2-S2-1-1698902"/>
+        </Key>
+        <Key name="Participation24">
+            <Value int="7"/>
+        </Key>
+        <Key name="Detention44">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed1">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points115">
+            <Value int="967"/>
+        </Key>
+        <Key name="Points75">
+            <Value int="1111"/>
+        </Key>
+        <Key name="DetentionGamesplayed33">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation74">
+            <Value int="27"/>
+        </Key>
+        <Key name="Name96">
+            <Value text="Makeja"/>
+        </Key>
+        <Key name="Name67">
+            <Value text="Elder"/>
+        </Key>
+        <Key name="Points113">
+            <Value int="975"/>
+        </Key>
+        <Key name="Detention29">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation52">
+            <Value int="12"/>
+        </Key>
+        <Key name="ID11">
+            <Value string="2-S2-1-1196814"/>
+        </Key>
+        <Key name="Games30">
+            <Value int="146"/>
+        </Key>
+        <Key name="Name77">
+            <Value text="methoD"/>
+        </Key>
+        <Key name="Name48">
+            <Value text="Pfadfinder"/>
+        </Key>
+        <Key name="ID16">
+            <Value string="2-S2-1-7548300"/>
+        </Key>
+        <Key name="Participation12">
+            <Value int="22"/>
+        </Key>
+        <Key name="Name28">
+            <Value text="Wmaster"/>
+        </Key>
+        <Key name="Games101">
+            <Value int="406"/>
+        </Key>
+        <Key name="Name74">
+            <Value text="headtrouser"/>
+        </Key>
+        <Key name="Participation53">
+            <Value int="9"/>
+        </Key>
+        <Key name="DetentionGamesplayed98">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games119">
+            <Value int="207"/>
+        </Key>
+        <Key name="Detention58">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Games95">
+            <Value int="366"/>
+        </Key>
+        <Key name="ID79">
+            <Value string="2-S2-1-3023916"/>
+        </Key>
+        <Key name="Name52">
+            <Value text="kinsy"/>
+        </Key>
+        <Key name="Detention54">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Name26">
+            <Value text="Даниэль"/>
+        </Key>
+        <Key name="Name13">
+            <Value text="Qtiez"/>
+        </Key>
+        <Key name="Detention27">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID72">
+            <Value string="2-S2-1-2594612"/>
+        </Key>
+        <Key name="Points21">
+            <Value int="1511"/>
+        </Key>
+        <Key name="Games2">
+            <Value int="248"/>
+        </Key>
+        <Key name="Games114">
+            <Value int="117"/>
+        </Key>
+        <Key name="Participation105">
+            <Value int="3"/>
+        </Key>
+        <Key name="ID41">
+            <Value string="2-S2-1-509875"/>
+        </Key>
+        <Key name="ID40">
+            <Value string="2-S2-1-1661065"/>
+        </Key>
+        <Key name="Points70">
+            <Value int="1129"/>
+        </Key>
+        <Key name="ID48">
+            <Value string="2-S2-1-1621153"/>
+        </Key>
+        <Key name="Detention49">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention19">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation119">
+            <Value int="18"/>
+        </Key>
+        <Key name="Participation110">
+            <Value int="18"/>
+        </Key>
+        <Key name="Participation98">
+            <Value int="1"/>
+        </Key>
+        <Key name="Games45">
+            <Value int="458"/>
+        </Key>
+        <Key name="Points59">
+            <Value int="1157"/>
+        </Key>
+        <Key name="Participation41">
+            <Value int="20"/>
+        </Key>
+        <Key name="Name101">
+            <Value text="BlooMAK"/>
+        </Key>
+        <Key name="Participation60">
+            <Value int="7"/>
+        </Key>
+        <Key name="Detention62">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation81">
+            <Value int="14"/>
+        </Key>
+        <Key name="Points55">
+            <Value int="1188"/>
+        </Key>
+        <Key name="Participation31">
+            <Value int="14"/>
+        </Key>
+        <Key name="Participation27">
+            <Value int="24"/>
+        </Key>
+        <Key name="ID113">
+            <Value string="2-S2-1-7939381"/>
+        </Key>
+        <Key name="Participation77">
+            <Value int="22"/>
+        </Key>
+        <Key name="ID43">
+            <Value string="2-S2-1-1417622"/>
+        </Key>
+        <Key name="Games6">
+            <Value int="186"/>
+        </Key>
+        <Key name="Name6">
+            <Value text="Arnak"/>
+        </Key>
+        <Key name="Name69">
+            <Value text="ExiTeD"/>
+        </Key>
+        <Key name="DetentionGamesplayed36">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID114">
+            <Value string="2-S2-1-8216201"/>
+        </Key>
+        <Key name="Points87">
+            <Value int="1072"/>
+        </Key>
+        <Key name="Games54">
+            <Value int="257"/>
+        </Key>
+        <Key name="Detention88">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention85">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed76">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID71">
+            <Value string="2-S2-1-5397866"/>
+        </Key>
+        <Key name="Name61">
+            <Value text="CoNviCtiOn"/>
+        </Key>
+        <Key name="Detention20">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Name92">
+            <Value text="Voland"/>
+        </Key>
+        <Key name="Name113">
+            <Value text="Bigursa"/>
+        </Key>
+        <Key name="Detention6">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed68">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games40">
+            <Value int="153"/>
+        </Key>
+        <Key name="Detention32">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Name114">
+            <Value text="Fragg"/>
+        </Key>
+        <Key name="Name76">
+            <Value text="Fisch"/>
+        </Key>
+        <Key name="Points100">
+            <Value int="1018"/>
+        </Key>
+        <Key name="ID89">
+            <Value string="2-S2-1-707443"/>
+        </Key>
+        <Key name="Points77">
+            <Value int="1094"/>
+        </Key>
+        <Key name="Points118">
+            <Value int="963"/>
+        </Key>
+        <Key name="Points92">
+            <Value int="1063"/>
+        </Key>
+        <Key name="Participation50">
+            <Value int="29"/>
+        </Key>
+        <Key name="Name82">
+            <Value text="rzz"/>
+        </Key>
+        <Key name="Name71">
+            <Value text="Rinejunky"/>
+        </Key>
+        <Key name="Name110">
+            <Value text="Еврей"/>
+        </Key>
+        <Key name="Name106">
+            <Value text="Aleximperium"/>
+        </Key>
+        <Key name="Points51">
+            <Value int="1202"/>
+        </Key>
+        <Key name="Participation26">
+            <Value int="24"/>
+        </Key>
+        <Key name="ID4">
+            <Value string="2-S2-1-8273847"/>
+        </Key>
+        <Key name="ID110">
+            <Value string="2-S2-2-1376866"/>
+        </Key>
+        <Key name="ID63">
+            <Value string="2-S2-1-2155118"/>
+        </Key>
+        <Key name="ID0">
+            <Value string="2-S2-1-6723340"/>
+        </Key>
+        <Key name="Name33">
+            <Value text="ShiraV"/>
+        </Key>
+        <Key name="Games63">
+            <Value int="232"/>
+        </Key>
+        <Key name="Games37">
+            <Value int="317"/>
+        </Key>
+        <Key name="DetentionGamesplayed39">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points97">
+            <Value int="1032"/>
+        </Key>
+        <Key name="Points52">
+            <Value int="1200"/>
+        </Key>
+        <Key name="ID21">
+            <Value string="2-S2-1-1657129"/>
+        </Key>
+        <Key name="Participation1">
+            <Value int="16"/>
+        </Key>
+        <Key name="Name21">
+            <Value text="TbF"/>
+        </Key>
+        <Key name="Participation109">
+            <Value int="21"/>
+        </Key>
+        <Key name="ID82">
+            <Value string="2-S2-1-3186517"/>
+        </Key>
+        <Key name="Points39">
+            <Value int="1323"/>
+        </Key>
+        <Key name="DetentionGamesplayed78">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention1">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation117">
+            <Value int="10"/>
+        </Key>
+        <Key name="Games64">
+            <Value int="279"/>
+        </Key>
+        <Key name="Points50">
+            <Value int="1220"/>
+        </Key>
+        <Key name="Participation3">
+            <Value int="17"/>
+        </Key>
+        <Key name="ID74">
+            <Value string="2-S2-1-1063956"/>
+        </Key>
+        <Key name="DetentionGamesplayed16">
+            <Value int="0"/>
+        </Key>
+        <Key name="Name32">
+            <Value text="Oayoo"/>
+        </Key>
+        <Key name="Detention12">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points91">
+            <Value int="1064"/>
+        </Key>
+        <Key name="Games102">
+            <Value int="1446"/>
+        </Key>
+        <Key name="Participation72">
+            <Value int="8"/>
+        </Key>
+        <Key name="Games34">
+            <Value int="180"/>
+        </Key>
+        <Key name="DetentionGamesplayed80">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID118">
+            <Value string="2-S2-1-298132"/>
+        </Key>
+        <Key name="DetentionGamesplayed59">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games11">
+            <Value int="191"/>
+        </Key>
+        <Key name="Name99">
+            <Value text="maelzi"/>
+        </Key>
+        <Key name="Name54">
+            <Value text="HauWeniger"/>
+        </Key>
+        <Key name="Points93">
+            <Value int="1044"/>
+        </Key>
+        <Key name="Points31">
+            <Value int="1404"/>
+        </Key>
+        <Key name="DetentionGamesplayed71">
+            <Value int="0"/>
+        </Key>
+        <Key name="DetentionGamesplayed51">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games118">
+            <Value int="432"/>
+        </Key>
+        <Key name="Points66">
+            <Value int="1144"/>
+        </Key>
+        <Key name="Name78">
+            <Value text="JohnTravolta"/>
+        </Key>
+        <Key name="DetentionGamesplayed10">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points0">
+            <Value int="1909"/>
+        </Key>
+        <Key name="Name87">
+            <Value text="PhilAngel"/>
+        </Key>
+        <Key name="Detention81">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed7">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games93">
+            <Value int="191"/>
+        </Key>
+        <Key name="Games75">
+            <Value int="110"/>
+        </Key>
+        <Key name="Name105">
+            <Value text="Trauma"/>
+        </Key>
+        <Key name="DetentionGamesplayed55">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games20">
+            <Value int="321"/>
+        </Key>
+        <Key name="Participation19">
+            <Value int="27"/>
+        </Key>
+        <Key name="DetentionGamesplayed17">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation11">
+            <Value int="16"/>
+        </Key>
+        <Key name="Name34">
+            <Value text="RagE"/>
+        </Key>
+        <Key name="Points110">
+            <Value int="984"/>
+        </Key>
+        <Key name="Points106">
+            <Value int="1000"/>
+        </Key>
+        <Key name="Detention77">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention2">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Name23">
+            <Value text="Anihilator"/>
+        </Key>
+        <Key name="Games87">
+            <Value int="141"/>
+        </Key>
+        <Key name="Games68">
+            <Value int="100"/>
+        </Key>
+        <Key name="Name109">
+            <Value text="AcidDust"/>
+        </Key>
+        <Key name="Name15">
+            <Value text="Elmundo"/>
+        </Key>
+        <Key name="Detention89">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed38">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention0">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points88">
+            <Value int="1071"/>
+        </Key>
+        <Key name="Participation42">
+            <Value int="13"/>
+        </Key>
+        <Key name="Participation13">
+            <Value int="23"/>
+        </Key>
+        <Key name="Name25">
+            <Value text="iLaReS"/>
+        </Key>
+        <Key name="DetentionGamesplayed4">
+            <Value int="0"/>
+        </Key>
+        <Key name="Participation93">
+            <Value int="13"/>
+        </Key>
+        <Key name="Detention76">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Points76">
+            <Value int="1096"/>
+        </Key>
+        <Key name="Detention74">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="DetentionGamesplayed53">
+            <Value int="0"/>
+        </Key>
+        <Key name="Detention3">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="ID54">
+            <Value string="2-S2-1-2634483"/>
+        </Key>
+        <Key name="Participation44">
+            <Value int="21"/>
+        </Key>
+        <Key name="Games22">
+            <Value int="182"/>
+        </Key>
+        <Key name="Name118">
+            <Value text="Kapufka"/>
+        </Key>
+        <Key name="Name63">
+            <Value text="KroolhearT"/>
+        </Key>
+        <Key name="DetentionGamesplayed49">
+            <Value int="0"/>
+        </Key>
+        <Key name="ID66">
+            <Value string="2-S2-2-657403"/>
+        </Key>
+        <Key name="Games32">
+            <Value int="281"/>
+        </Key>
+        <Key name="Games21">
+            <Value int="620"/>
+        </Key>
+        <Key name="ID18">
+            <Value string="2-S2-1-2472492"/>
+        </Key>
+        <Key name="DetentionGamesplayed5">
+            <Value int="0"/>
+        </Key>
+        <Key name="Points109">
+            <Value int="987"/>
+        </Key>
+        <Key name="Games24">
+            <Value int="227"/>
+        </Key>
+        <Key name="Name20">
+            <Value text="BAHOOOO"/>
+        </Key>
+        <Key name="Detention36">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Detention10">
+            <Value string="2-S2-2-402834"/>
+        </Key>
+        <Key name="Participation87">
+            <Value int="26"/>
+        </Key>
+        <Key name="ID81">
+            <Value string="2-S2-1-491495"/>
+        </Key>
+        <Key name="Games72">
+            <Value int="267"/>
+        </Key>
+        <Key name="Games7">
+            <Value int="491"/>
+        </Key>
+        <Key name="Points108">
+            <Value int="988"/>
+        </Key>
+        <Key name="Participation23">
+            <Value int="13"/>
+        </Key>
+    </Section>
+    <Section name="PersonalStats">
+        <Key name="UnlockRank">
+            <Value int="0"/>
+        </Key>
+        <Key name="Victories">
+            <Value int="2"/>
+        </Key>
+        <Key name="Experience">
+            <Value int="117"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="4"/>
+        </Key>
+        <Key name="Knockouts">
+            <Value int="8"/>
+        </Key>
+        <Key name="Played_Before">
+            <Value flag="1"/>
+        </Key>
+        <Key name="PreferedSkin">
+            <Value int="0"/>
+        </Key>
+        <Key name="RankPoints">
+            <Value int="86"/>
+        </Key>
+        <Key name="GoodLuck">
+            <Value int="2902360"/>
+        </Key>
+    </Section>
+    <Section name="PersonalMatchHistory">
+        <Key name="historyindex">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="669E647EB6F21C10CDC433106E0635EB768BBE79"/>
+</Bank>

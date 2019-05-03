@@ -1,0 +1,70 @@
+﻿DIAG_BUFFER_ERROR
+[20190329T15:45:57] {32d4} ERR: read fail #45385 @[1|338541734]: No such file or directory
+
+DIAG_BUFFER_INFO
+[20190329T15:45:57] {32d4} ERR: read fail #45385 @[1|338541734]: No such file or directory
+
+DIAG_BUFFER_ALL
+[20190329T15:45:38] {3320} noise: HTTP: notification: posting scheduler
+[20190329T15:45:38] {3320} noise: download ID 1 deleted
+[20190329T15:45:38] {3320} noise: HTTP: scheduler
+[20190329T15:45:38] {3320} noise: HTTP: scheduler: cleaning connections
+[20190329T15:45:38] {3320} noise: HTTP: scheduler: 0 connections dropped (0 timeout, 0 closing, 0 scheduling), 1 connections available
+[20190329T15:45:38] {3320} noise: HTTP: scheduler done
+[20190329T15:45:38] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=597.011ms
+[20190329T15:45:39] {3320} debug: select() -> 0
+[20190329T15:45:39] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190329T15:45:40] {3320} debug: select() -> 0
+[20190329T15:45:40] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:41] {3320} debug: select() -> 0
+[20190329T15:45:41] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=998.153ms
+[20190329T15:45:42] {3320} debug: select() -> 0
+[20190329T15:45:42] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=923.800us
+[20190329T15:45:42] {3320} debug: select() -> 0
+[20190329T15:45:42] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=44.600us
+[20190329T15:45:42] {3320} debug: select() -> 0
+[20190329T15:45:42] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190329T15:45:43] {3320} debug: select() -> 0
+[20190329T15:45:43] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:44] {3320} debug: select() -> 0
+[20190329T15:45:44] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=44.100us
+[20190329T15:45:44] {3320} debug: select() -> 0
+[20190329T15:45:44] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:45] {3320} debug: select() -> 0
+[20190329T15:45:45] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190329T15:45:46] {3320} debug: select() -> 0
+[20190329T15:45:46] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=997.070ms
+[20190329T15:45:47] {3320} debug: select() -> 0
+[20190329T15:45:47] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=2.037ms
+[20190329T15:45:47] {3320} debug: select() -> 0
+[20190329T15:45:47] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:48] {3320} debug: select() -> 0
+[20190329T15:45:48] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=15.400us
+[20190329T15:45:48] {3320} debug: select() -> 0
+[20190329T15:45:48] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:49] {3320} debug: select() -> 0
+[20190329T15:45:49] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:50] {3320} debug: select() -> 0
+[20190329T15:45:50] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:51] {3320} debug: select() -> 0
+[20190329T15:45:51] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=994.953ms
+[20190329T15:45:52] {3320} debug: select() -> 0
+[20190329T15:45:52] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=5.011ms
+[20190329T15:45:52] {3320} debug: select() -> 0
+[20190329T15:45:52] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:53] {3320} debug: select() -> 0
+[20190329T15:45:53] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:54] {3320} debug: select() -> 0
+[20190329T15:45:54] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190329T15:45:55] {3320} debug: select() -> 0
+[20190329T15:45:55] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:56] {3320} debug: select() -> 0
+[20190329T15:45:56] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=992.007ms
+[20190329T15:45:57] {3320} debug: select() -> 0
+[20190329T15:45:57] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=7.025ms
+[20190329T15:45:57] {3320} debug: select() -> 0
+[20190329T15:45:57] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190329T15:45:57] {32d4} ERR: read fail #45385 @[1|338541734]: No such file or directory
+[20190329T15:45:57] {32d4} noise: Game sent error report: e_fileCorrupt (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:354EEA7B55C203DBEF7903C5430E982C
+[20190329T15:45:59] {3320} debug: select() -> 0
+[20190329T15:45:59] {3320} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms

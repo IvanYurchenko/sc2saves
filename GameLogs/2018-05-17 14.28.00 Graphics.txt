@@ -1,0 +1,58 @@
+﻿GFX  14:28:00.138 ====================================================================================================
+GFX  14:28:00.138 StarCraft II (B64469)
+GFX  14:28:00.138 
+GFX  14:28:00.138 Executable              F:\Games\StarCraft II\Versions\Base64469\SC2_x64.exe
+GFX  14:28:00.138 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  14:28:00.138 Parent Executable       \Device\HarddiskVolume10\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  14:28:00.138 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  14:28:00.138 LocalTime               2018-05-17 14:28:00.140
+GFX  14:28:00.138 <ComputerUser>          Ivan
+GFX  14:28:00.138 <ComputerName>          DESKTOP-DSNC292
+GFX  14:28:00.138 <Exe.Architecture>      x86_64
+GFX  14:28:00.138 <Version>               4.3.0.64469
+GFX  14:28:00.138 <DataBuild>             B64469
+GFX  14:28:00.138 <CodeBranch>            branches/SC2.4.3
+GFX  14:28:00.138 <CodeRevision>          543473
+GFX  14:28:00.138 <Locale.Assets>         enUS
+GFX  14:28:00.138 <Locale.Data>           enUS
+GFX  14:28:00.138 <Locale.Install>        enUS
+GFX  14:28:00.138 <AccountCountry>        UKR
+GFX  14:28:00.138 <AgentVersion>          2.14.1.6160
+GFX  14:28:00.138 ====================================================================================================
+GFX  14:28:00.137 DXGI: Available
+GFX  14:28:00.420 Resource Cache Override Variable: 0MB
+GFX  14:28:00.420 Resource Cache: 2048MB Win64 (16292MB Physical, 8659MB Process Virtual)
+GFX  14:28:00.420 Resource Cache Sound:  204MB 
+GFX  14:28:00.420 Resource Cache Common: 1843MB 
+GFX  14:28:00.420 Resource Cache VRam:   0MB
+GFX  14:28:00.471 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:28:00.471 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  14:28:00.471 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  14:28:02.431 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  14:28:02.431 CreateDevice succeeded
+GFX  14:28:02.431 Using adapter [0]
+GFX  14:28:02.431 Floating point render targets supported.
+GFX  14:28:02.480 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  14:28:02.480 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  14:28:02.480 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  14:28:02.480 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  14:28:02.640 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:28:02.640 Hardware Depth Sampling: Available
+GFX  14:28:02.648 Expanded VRAM to 512MB for Intel GPU
+GFX  14:28:02.648 VRAM texture space: 384MB
+GFX  14:28:06.262 PerfNotifiers initialized
+GFX  14:28:06.337 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  14:28:06.337 Lost D3D9 device
+GFX  14:28:06.411 
+GFX  14:28:06.411 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  14:40:49.595 WARNING: Texture DB does not match file info or file is corrupt for icons\stunswirl1_orange.dds
+GFX  16:06:54.615 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  16:06:54.615 DirectX call  failed with error code -2005530519
+GFX  16:06:54.615 Lost D3D9 device
+GFX  16:06:58.006 
+GFX  16:06:58.006 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  16:54:06.931 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_glue_listboxframe_zerg.dds
+GFX  16:54:07.182 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  17:06:47.994 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_battlenet_glue_listboxframe.dds
+GFX  17:21:58.316 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  17:50:10.073 Lost D3D9 device

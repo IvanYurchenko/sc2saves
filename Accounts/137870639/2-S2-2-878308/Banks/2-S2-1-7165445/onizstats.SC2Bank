@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Player">
+        <Key name="LeftLastGameAsZombie">
+            <Value flag="0"/>
+        </Key>
+        <Key name="HumanWinsNormal">
+            <Value int="0"/>
+        </Key>
+        <Key name="VespeneHarvested">
+            <Value int="2200"/>
+        </Key>
+        <Key name="SecurityForcesKilled">
+            <Value int="0"/>
+        </Key>
+        <Key name="HumansRescued">
+            <Value int="2"/>
+        </Key>
+        <Key name="ZombiesKilled">
+            <Value int="185"/>
+        </Key>
+        <Key name="HumanWinsInsane">
+            <Value int="0"/>
+        </Key>
+        <Key name="FuelDiverted">
+            <Value int="7"/>
+        </Key>
+        <Key name="ZombieWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="TurretsBuilt">
+            <Value int="0"/>
+        </Key>
+        <Key name="NumberOfTimesCaptured">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesLeft">
+            <Value int="0"/>
+        </Key>
+        <Key name="HumansCaptured">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesPlayedAsZombie">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesPlayedAsHuman">
+            <Value int="1"/>
+        </Key>
+        <Key name="HumanWinsHard">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="BECF284C054FA7872F5C8BA0B852412AF8E1FF2E"/>
+</Bank>

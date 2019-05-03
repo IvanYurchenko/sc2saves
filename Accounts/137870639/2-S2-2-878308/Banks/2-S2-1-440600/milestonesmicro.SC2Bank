@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="wins">
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="20">
+            <Value flag="1"/>
+        </Key>
+        <Key name="18">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+</Bank>

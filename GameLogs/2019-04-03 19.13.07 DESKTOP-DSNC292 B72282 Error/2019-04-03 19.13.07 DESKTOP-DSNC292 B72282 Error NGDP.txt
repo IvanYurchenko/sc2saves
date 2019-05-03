@@ -1,0 +1,77 @@
+﻿DIAG_BUFFER_ERROR
+[20190403T19:13:07] {1fd8} ERR: read fail #16384 @[0|768779987]: No such file or directory
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|845970126]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|845970126]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[3|124314519]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[3|124314519]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|846267535]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|846267535]: Permission denied
+[20190403T19:13:07] {9d0} ERR: read fail #4096 @[0|864040259]: Invalid argument
+
+DIAG_BUFFER_INFO
+[20190403T19:13:07] {1fd8} ERR: read fail #16384 @[0|768779987]: No such file or directory
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|845970126]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|845970126]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[3|124314519]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[3|124314519]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|846267535]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|846267535]: Permission denied
+[20190403T19:13:07] {9d0} ERR: read fail #4096 @[0|864040259]: Invalid argument
+
+DIAG_BUFFER_ALL
+[20190403T19:12:55] {1104} debug: select() -> 0
+[20190403T19:12:55] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190403T19:12:56] {1104} debug: select() -> 0
+[20190403T19:12:56] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190403T19:12:57] {1104} debug: select() -> 0
+[20190403T19:12:57] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=900ns
+[20190403T19:12:57] {1104} debug: select() -> 0
+[20190403T19:12:57] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.329ms
+[20190403T19:12:58] {1104} debug: select() -> 0
+[20190403T19:12:58] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=47.400us
+[20190403T19:12:58] {1104} debug: select() -> 0
+[20190403T19:12:58] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190403T19:12:59] {1104} debug: select() -> 0
+[20190403T19:12:59] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190403T19:13:00] {1104} debug: select() -> 0
+[20190403T19:13:00] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=44.100us
+[20190403T19:13:00] {1104} debug: select() -> 0
+[20190403T19:13:00] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190403T19:13:01] {1104} debug: select() -> 0
+[20190403T19:13:01] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=14.900us
+[20190403T19:13:01] {1104} debug: select() -> 0
+[20190403T19:13:01] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190403T19:13:02] {1104} debug: select() -> 0
+[20190403T19:13:02] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=996.988ms
+[20190403T19:13:03] {1104} debug: select() -> 0
+[20190403T19:13:03] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=2.500us
+[20190403T19:13:03] {1104} debug: select() -> 0
+[20190403T19:13:03] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=2.009ms
+[20190403T19:13:03] {1104} debug: select() -> 0
+[20190403T19:13:03] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190403T19:13:04] {1104} debug: select() -> 0
+[20190403T19:13:04] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190403T19:13:05] {1104} debug: select() -> 0
+[20190403T19:13:05] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190403T19:13:06] {1104} debug: select() -> 0
+[20190403T19:13:06] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=44.600us
+[20190403T19:13:06] {1104} debug: select() -> 0
+[20190403T19:13:06] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190403T19:13:07] {1104} debug: select() -> 0
+[20190403T19:13:07] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=995.978ms
+[20190403T19:13:07] {1fd8} ERR: read fail #16384 @[0|768779987]: No such file or directory
+[20190403T19:13:07] {1fd8} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:392898D24A1CF26EDAEF4587B80999AD
+[20190403T19:13:07] {1fd8} noise: Game sent error report
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|845970126]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|845970126]: Permission denied
+[20190403T19:13:07] {1fd8} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:271CF9C02D1AAB7A23B177B02BF78CCE
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[3|124314519]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[3|124314519]: Permission denied
+[20190403T19:13:07] {1fd8} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:0B22A2832F705A3E53BD8FADD27BACEE
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|846267535]: Permission denied
+[20190403T19:13:07] {1fd8} ERR: read fail #4096 @[0|846267535]: Permission denied
+[20190403T19:13:07] {1fd8} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:8E06A4BF63D4D73B9FAC771A1E028F6C
+[20190403T19:13:07] {9d0} ERR: read fail #4096 @[0|864040259]: Invalid argument
+[20190403T19:13:07] {9d0} noise: Game sent error report: e_fileCorrupt (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:823E76294E18C7BE9784055933E50A98
+[20190403T19:13:08] {1104} debug: select() -> 0
+[20190403T19:13:08] {1104} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms

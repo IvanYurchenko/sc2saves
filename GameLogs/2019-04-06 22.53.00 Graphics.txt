@@ -1,0 +1,71 @@
+﻿GFX  22:53:00.919 ====================================================================================================
+GFX  22:53:00.919 StarCraft II (B72282)
+GFX  22:53:00.919 
+GFX  22:53:00.919 Executable              J:\Games\StarCraft II\Versions\Base72282\SC2_x64.exe
+GFX  22:53:00.919 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  22:53:00.919 Parent Executable       \Device\HarddiskVolume11\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  22:53:00.919 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  22:53:00.919 LocalTime               2019-04-06 22:53:00.919
+GFX  22:53:00.919 <ComputerUser>          Ivan
+GFX  22:53:00.919 <ComputerName>          DESKTOP-DSNC292
+GFX  22:53:00.919 <Exe.Architecture>      x86_64
+GFX  22:53:00.919 <Version>               4.8.3.72282
+GFX  22:53:00.919 <DataBuild>             B72282
+GFX  22:53:00.919 <CodeBranch>            branches/SC2.4.8.b
+GFX  22:53:00.919 <CodeRevision>          581482
+GFX  22:53:00.919 <Locale.Assets>         enUS
+GFX  22:53:00.919 <Locale.Data>           enUS
+GFX  22:53:00.919 <Locale.Install>        enUS
+GFX  22:53:00.919 <AccountCountry>        UKR
+GFX  22:53:00.919 <AgentVersion>          2.16.3.6610
+GFX  22:53:00.919 ====================================================================================================
+GFX  22:53:00.918 DXGI: Available
+GFX  22:53:01.065 Resource Cache Override Variable: 0MB
+GFX  22:53:01.065 Resource Cache: 2048MB Win64 (16292MB Physical, 12136MB Process Virtual)
+GFX  22:53:01.065 Resource Cache Sound:  204MB 
+GFX  22:53:01.065 Resource Cache Common: 1843MB 
+GFX  22:53:01.065 Resource Cache VRam:   0MB
+GFX  22:53:01.095 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  22:53:01.095 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  22:53:01.095 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  22:53:02.604 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  22:53:02.604 CreateDevice succeeded
+GFX  22:53:02.604 Using adapter [0]
+GFX  22:53:02.604 Floating point render targets supported.
+GFX  22:53:02.611 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  22:53:02.611 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  22:53:02.611 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  22:53:02.611 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  22:53:02.637 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  22:53:02.637 Hardware Depth Sampling: Available
+GFX  22:53:02.643 Expanded VRAM to 512MB for Intel GPU
+GFX  22:53:02.643 VRAM texture space: 384MB
+GFX  22:53:03.942 PerfNotifiers initialized
+GFX  22:53:03.964 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  22:53:03.964 Lost D3D9 device
+GFX  22:53:04.193 
+GFX  22:53:04.193 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  22:56:55.536 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswann_diffuse.dds
+GFX  22:56:55.575 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\medicstetmann_diffuse.dds
+GFX  22:56:55.583 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswannbody_diffuse.dds
+GFX  22:56:56.496 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marineraynor_diffuse.dds
+GFX  23:58:30.905 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  23:58:30.906 DirectX call  failed with error code -2005530519
+GFX  23:58:30.906 Lost D3D9 device
+GFX  23:58:36.119 
+GFX  23:58:36.119 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  23:59:41.304 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  23:59:41.304 DirectX call  failed with error code -2005530519
+GFX  23:59:41.305 Lost D3D9 device
+GFX  23:59:46.038 
+GFX  23:59:46.038 D3D9 Device Reset from ::OnRender returned e_errorKindGfx(0)
+GFX  00:00:52.500 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_glue_listboxframe_terran.dds
+GFX  00:00:52.540 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  00:01:01.182 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\lensflare_generic_03_paleyellow.dds
+GFX  00:18:33.540 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_battlenet_glue_listboxframe.dds
+GFX  00:37:15.809 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_battlenet_glue_listboxframe.dds
+GFX  01:18:19.884 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\lensflare_generic_03_paleyellow.dds
+GFX  01:18:20.363 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  01:18:21.811 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_battlenet_glue_listboxframe.dds
+GFX  01:22:53.556 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\lensflare_generic_01_grey.dds
+GFX  02:04:17.683 Lost D3D9 device

@@ -1,5 +1,6 @@
-﻿No bank data found, setting to default
+﻿Load campaign bank
 Location set to DefendersofManSecretBase
+Load mission sections
 Apply Tech
 Disable  Banshee
 Disable  Banshee

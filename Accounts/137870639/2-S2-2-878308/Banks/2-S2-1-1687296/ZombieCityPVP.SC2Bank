@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bank version="1">
+  <Section name="hero">
+    <Key name="defeated">
+      <Value int="1" />
+    </Key>
+    <Key name="wins">
+      <Value int="6666" />
+    </Key>
+  </Section>
+  <Signature value="8A748ADE298FFFD3E656BCDA8451E1E9CF83BEDB" />
+</Bank>

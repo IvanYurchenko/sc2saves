@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="0">
+        <Key name="gt_start_01_marauder_Func">
+            <Value int="21"/>
+        </Key>
+        <Key name="gt_start_20_mararine_rush_Func">
+            <Value int="49"/>
+        </Key>
+        <Key name="gt_start_05_roach_hydra_Func">
+            <Value int="34"/>
+        </Key>
+        <Key name="gt_start_18_zerg_Func">
+            <Value int="45"/>
+        </Key>
+        <Key name="gt_start_03_zealot_Func">
+            <Value int="54"/>
+        </Key>
+    </Section>
+</Bank>

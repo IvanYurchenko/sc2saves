@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="stats">
+        <Key name="kills_helper">
+            <Value int="61"/>
+        </Key>
+        <Key name="leaves">
+            <Value int="0"/>
+        </Key>
+        <Key name="kills_builder">
+            <Value int="98"/>
+        </Key>
+        <Key name="rounds_builder">
+            <Value int="84"/>
+        </Key>
+        <Key name="rounds_hunter">
+            <Value int="80"/>
+        </Key>
+        <Key name="kills_hunter">
+            <Value int="38"/>
+        </Key>
+        <Key name="wins_hunter">
+            <Value int="80"/>
+        </Key>
+        <Key name="wins_builder">
+            <Value int="84"/>
+        </Key>
+    </Section>
+    <Section name="version">
+        <Key name="game">
+            <Value fixed="3.1"/>
+        </Key>
+        <Key name="bank">
+            <Value fixed="1"/>
+        </Key>
+    </Section>
+    <Section name="main">
+        <Key name="vote_map">
+            <Value int="2"/>
+        </Key>
+        <Key name="ingame">
+            <Value flag="0"/>
+        </Key>
+        <Key name="vote_hunter">
+            <Value int="1"/>
+        </Key>
+        <Key name="achievements">
+            <Value string="BG BF BE BD BC BB BA AZ AY AX AW AV AU AT AP AO AM AL AK AJ AI AH AE AC "/>
+        </Key>
+        <Key name="vote_builder">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Signature value="5F65D49E084070942407335B93D038E34F5375C1"/>
+</Bank>

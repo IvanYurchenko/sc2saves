@@ -1,5 +1,5 @@
 ﻿Load campaign bank
-Location set to TarsonisCity
+Location set to Borea
 Load mission sections
 Apply Tech
 Disable  Banshee
@@ -47,10 +47,6 @@ Disable  SiegeTank
 Disable  SiegeTank
 Disable  SiegeTank
 Disable  SiegeTank
-Enable Banshee
-Enable Banshee
-Enable Goliath
-Enable Goliath
 Enable Hellbat
 Enable Hellbat
 Enable Marauder
@@ -68,11 +64,7 @@ Enable SCV
 Enable MissileTurret
 UI options
 End game options
-Location set to Nova04PH
+Location set to TarsonisCity
 Set story activity = 4 (Stopping 0)
 Moving to room 1 from 7
 Set story activity = 1 (Stopping 4)
-Moving to room 3 from 1
-Set story activity = 1 (Stopping 1)
-Moving to room 1 from 3
-Set story activity = 1 (Stopping 1)

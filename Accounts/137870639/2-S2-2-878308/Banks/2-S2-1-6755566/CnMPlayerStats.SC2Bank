@@ -5,7 +5,7 @@
             <Value int="7"/>
         </Key>
         <Key name="BirdGamesWon">
-            <Value int="9"/>
+            <Value int="13"/>
         </Key>
         <Key name="MouseGamesWon">
             <Value int="2"/>
@@ -14,7 +14,7 @@
             <Value int="7"/>
         </Key>
         <Key name="BirdGamesPlayed">
-            <Value int="8"/>
+            <Value int="11"/>
         </Key>
         <Key name="ToyCatGamesPlayed">
             <Value int="1"/>

@@ -1,0 +1,53 @@
+﻿GFX  12:32:22.123 ====================================================================================================
+GFX  12:32:22.123 StarCraft II (B73620)
+GFX  12:32:22.123 
+GFX  12:32:22.123 Executable              M:\Games\StarCraft II\Versions\Base73620\SC2_x64.exe
+GFX  12:32:22.123 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  12:32:22.123 Parent Executable       \Device\HarddiskVolume9\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  12:32:22.123 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  12:32:22.123 LocalTime               2019-04-29 12:32:22.123
+GFX  12:32:22.123 <ComputerUser>          Ivan
+GFX  12:32:22.123 <ComputerName>          DESKTOP-DSNC292
+GFX  12:32:22.123 <Exe.Architecture>      x86_64
+GFX  12:32:22.123 <Version>               4.8.6.73620
+GFX  12:32:22.123 <DataBuild>             B73620
+GFX  12:32:22.123 <CodeBranch>            branches/SC2.4.8.d
+GFX  12:32:22.123 <CodeRevision>          587005
+GFX  12:32:22.123 <Locale.Assets>         enUS
+GFX  12:32:22.123 <Locale.Data>           enUS
+GFX  12:32:22.123 <Locale.Install>        enUS
+GFX  12:32:22.123 <AccountCountry>        UKR
+GFX  12:32:22.123 <AgentVersion>          2.17.1.6685
+GFX  12:32:22.123 ====================================================================================================
+GFX  12:32:22.121 DXGI: Available
+GFX  12:32:22.270 Resource Cache Override Variable: 0MB
+GFX  12:32:22.270 Resource Cache: 2048MB Win64 (16292MB Physical, 10890MB Process Virtual)
+GFX  12:32:22.270 Resource Cache Sound:  204MB 
+GFX  12:32:22.270 Resource Cache Common: 1843MB 
+GFX  12:32:22.270 Resource Cache VRam:   0MB
+GFX  12:32:22.304 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:32:22.304 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  12:32:22.304 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  12:32:23.839 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  12:32:23.839 CreateDevice succeeded
+GFX  12:32:23.839 Using adapter [0]
+GFX  12:32:23.839 Floating point render targets supported.
+GFX  12:32:23.845 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  12:32:23.845 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  12:32:23.845 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  12:32:23.845 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  12:32:23.871 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:32:23.872 Hardware Depth Sampling: Available
+GFX  12:32:23.877 Expanded VRAM to 512MB for Intel GPU
+GFX  12:32:23.877 VRAM texture space: 384MB
+GFX  12:32:25.346 PerfNotifiers initialized
+GFX  12:32:25.368 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  12:32:25.368 Lost D3D9 device
+GFX  12:32:25.425 
+GFX  12:32:25.425 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  12:33:53.147 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_glue_listboxframe_zerg.dds
+GFX  12:33:53.213 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  12:33:59.177 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\lensflare_generic_03_paleyellow.dds
+GFX  12:35:46.749 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  12:46:21.417 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_battlenet_glue_listboxframe.dds
+GFX  13:05:10.559 Lost D3D9 device

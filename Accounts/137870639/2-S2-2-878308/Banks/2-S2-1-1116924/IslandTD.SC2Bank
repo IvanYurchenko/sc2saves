@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Data">
+        <Key name="SpawningTime">
+            <Value int="1"/>
+        </Key>
+        <Key name="Difficulty">
+            <Value int="3"/>
+        </Key>
+        <Key name="SpawningRules">
+            <Value int="1"/>
+        </Key>
+        <Key name="Mode">
+            <Value int="1"/>
+        </Key>
+        <Key name="Suspense">
+            <Value int="1"/>
+        </Key>
+    </Section>
+</Bank>

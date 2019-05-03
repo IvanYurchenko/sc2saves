@@ -1,0 +1,120 @@
+﻿GFX  00:08:01.850 ====================================================================================================
+GFX  00:08:01.850 StarCraft II (B72282)
+GFX  00:08:01.850 
+GFX  00:08:01.850 Executable              E:\Games\StarCraft II\Versions\Base72282\SC2_x64.exe
+GFX  00:08:01.850 <Parameters>            -launch -uid s2_enus
+GFX  00:08:01.850 Parent Executable       \Device\HarddiskVolume8\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  00:08:01.850 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  00:08:01.850 LocalTime               2019-03-26 00:08:01.850
+GFX  00:08:01.850 <ComputerUser>          Ivan
+GFX  00:08:01.850 <ComputerName>          DESKTOP-DSNC292
+GFX  00:08:01.850 <Exe.Architecture>      x86_64
+GFX  00:08:01.850 <Version>               4.8.3.72282
+GFX  00:08:01.850 <DataBuild>             B72282
+GFX  00:08:01.850 <CodeBranch>            branches/SC2.4.8.b
+GFX  00:08:01.850 <CodeRevision>          581482
+GFX  00:08:01.850 <Locale.Assets>         enUS
+GFX  00:08:01.850 <Locale.Data>           enUS
+GFX  00:08:01.850 <Locale.Install>        enUS
+GFX  00:08:01.850 <AccountCountry>        UKR
+GFX  00:08:01.850 <AgentVersion>          2.16.3.6610
+GFX  00:08:01.850 ====================================================================================================
+GFX  00:08:01.849 DXGI: Available
+GFX  00:08:01.983 Resource Cache Override Variable: 0MB
+GFX  00:08:01.983 Resource Cache: 2048MB Win64 (16292MB Physical, 14667MB Process Virtual)
+GFX  00:08:01.983 Resource Cache Sound:  204MB 
+GFX  00:08:01.983 Resource Cache Common: 1843MB 
+GFX  00:08:01.983 Resource Cache VRam:   0MB
+GFX  00:08:02.011 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  00:08:02.011 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  00:08:02.011 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  00:08:03.378 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  00:08:03.378 CreateDevice succeeded
+GFX  00:08:03.378 Using adapter [0]
+GFX  00:08:03.378 Floating point render targets supported.
+GFX  00:08:03.389 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  00:08:03.389 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  00:08:03.389 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  00:08:03.389 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  00:08:03.430 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  00:08:03.430 Hardware Depth Sampling: Available
+GFX  00:08:03.436 Expanded VRAM to 512MB for Intel GPU
+GFX  00:08:03.436 VRAM texture space: 384MB
+GFX  00:08:04.873 PerfNotifiers initialized
+GFX  00:08:04.895 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  00:08:04.895 Lost D3D9 device
+GFX  00:08:05.088 
+GFX  00:08:05.088 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  00:13:59.038 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\energyring3.dds
+GFX  00:13:59.613 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\war3_genericglowx.dds
+GFX  00:14:00.291 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  00:14:00.379 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\war3_genericglowfaded.dds
+GFX  00:14:01.037 WARNING: Corrupt texture assets\textures\umojanlabdissection_diffuse.dds
+GFX  00:14:01.037 WARNING: Corrupt texture assets\textures\umojanlabdissection_emissive.dds
+GFX  00:14:01.083 WARNING: Corrupt texture assets\textures\particle_waterring.dds
+GFX  00:14:01.084 WARNING: Corrupt texture assets\textures\particle_waterring_normal.dds
+GFX  00:14:01.084 WARNING: Corrupt texture assets\textures\waterspray2.dds
+GFX  00:14:01.085 WARNING: Corrupt texture assets\textures\waterspray2_normal.dds
+GFX  00:14:01.086 WARNING: Corrupt texture assets\textures\charrockformation_diffuse.dds
+GFX  00:14:01.087 WARNING: Corrupt texture assets\textures\portzion_rock.dds
+GFX  00:14:01.265 WARNING: Corrupt texture assets\textures\gunflash1_r1.dds
+GFX  00:14:01.307 WARNING: Corrupt texture assets\textures\falling_junk_diffuse.dds
+GFX  00:14:01.308 WARNING: Corrupt texture assets\textures\heatwave1_strength.dds
+GFX  00:14:01.904 WARNING: Corrupt texture assets\textures\storm_ethereal01.dds
+GFX  00:14:01.915 WARNING: Corrupt texture assets\textures\storm_streak02.dds
+GFX  00:14:01.949 WARNING: Corrupt texture assets\textures\blurdisplacement1.dds
+GFX  00:14:02.912 WARNING: Corrupt texture assets\textures\war3hd_gutz.dds
+GFX  00:14:02.921 WARNING: Corrupt texture assets\textures\war3hd_mannoroth_norm.dds
+GFX  00:14:02.923 WARNING: Corrupt texture assets\textures\war3hd_mannoroth_emiss.dds
+GFX  00:14:02.927 WARNING: Corrupt texture assets\textures\war3_star1.dds
+GFX  00:14:02.928 WARNING: Corrupt texture assets\textures\war3hd_mannoroth1.dds
+GFX  00:14:03.645 WARNING: Corrupt texture assets\textures\blinkalpha1_inverted.dds
+GFX  00:14:03.654 WARNING: Corrupt texture assets\textures\blinkalphaadd1_orange2.dds
+GFX  00:14:03.662 WARNING: Corrupt texture assets\textures\colossus_diffuse.dds
+GFX  00:14:03.671 WARNING: Corrupt texture assets\textures\warpline4_red.dds
+GFX  00:14:03.679 WARNING: Corrupt texture assets\textures\cleanbeam_c_edge.dds
+GFX  00:14:03.687 WARNING: Corrupt texture assets\textures\storm_techpat01_orange.dds
+GFX  00:14:03.774 WARNING: Corrupt texture assets\textures\war3hd_heropaladin.dds
+GFX  00:14:03.807 WARNING: Corrupt texture assets\textures\storm_wavygrad_firecolor.dds
+GFX  00:14:03.818 WARNING: Corrupt texture assets\textures\flare1_camera1_orange.dds
+GFX  00:14:03.833 WARNING: Corrupt texture assets\textures\square1_normal.dds
+GFX  00:14:03.839 WARNING: Corrupt texture assets\textures\warpintronsquares_red.dds
+GFX  00:14:03.850 WARNING: Corrupt texture assets\textures\tronsquare1_orange.dds
+GFX  00:14:03.854 WARNING: Corrupt texture assets\textures\targetingreticle02.dds
+GFX  00:14:04.094 WARNING: Corrupt texture assets\textures\zergdevoureranimated.dds
+GFX  00:14:04.106 WARNING: Corrupt texture assets\textures\gootrail6.dds
+GFX  00:14:04.119 WARNING: Corrupt texture assets\textures\storm_wisp01.dds
+GFX  00:14:04.131 WARNING: Corrupt texture assets\textures\lightningzap4red2.dds
+GFX  00:14:04.142 WARNING: Corrupt texture assets\textures\goosplats_r4.dds
+GFX  00:14:05.286 WARNING: Corrupt texture assets\textures\marinetychus_diffuse.dds
+GFX  00:14:05.343 WARNING: Corrupt texture assets\textures\storm_energytile01.dds
+GFX  00:14:05.488 WARNING: Corrupt texture assets\textures\nova_emis.dds
+GFX  00:14:05.627 WARNING: Corrupt texture assets\textures\sm_ki_head_diff.dds
+GFX  00:14:05.637 WARNING: Corrupt texture assets\textures\disolvenoiseorganic2_vertical_contrast.dds
+GFX  00:14:05.646 WARNING: Corrupt texture assets\textures\storm_firetile4.dds
+GFX  00:14:05.654 WARNING: Corrupt texture assets\textures\storm_hero_raynor_emis.dds
+GFX  00:14:05.663 WARNING: Corrupt texture assets\textures\storm_hero_raynor_diff.dds
+GFX  00:14:05.724 WARNING: Corrupt texture assets\textures\sm_nova_diff.dds
+GFX  00:14:05.908 WARNING: Corrupt texture assets\textures\crystalsculpted_grey.dds
+GFX  00:14:06.129 WARNING: Corrupt texture assets\textures\storm_blobbydisplacementtile1.dds
+GFX  00:14:06.135 WARNING: Corrupt texture assets\textures\storm_energy.dds
+GFX  00:14:06.147 WARNING: Corrupt texture assets\textures\storm_fb_fire_07_hq.dds
+GFX  00:14:07.041 WARNING: Corrupt texture assets\textures\storm_hero_diablo_base_v01_emis.dds
+GFX  00:14:07.050 WARNING: Corrupt texture assets\textures\storm_hero_diablo_base_v01_diff.dds
+GFX  00:14:08.549 WARNING: Corrupt texture assets\textures\ui_ingame_portraitframe_protoss.dds
+GFX  00:14:08.779 WARNING: Corrupt texture assets\textures\ui_waiting_playericon.dds
+GFX  00:14:09.146 WARNING: Corrupt texture assets\textures\ui_planetpanel_frame_dropdownmenubutton_selected.dds
+GFX  00:14:09.147 WARNING: Corrupt texture assets\textures\ui_planetpanel_frame_dropdownmenubutton_over.dds
+GFX  00:14:09.509 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-supply-protoss_nobg.dds
+GFX  00:14:09.519 WARNING: Corrupt texture assets\textures\icon-health-protoss.dds
+GFX  00:14:09.930 WARNING: Corrupt texture assets\textures\icon-gas-protoss-nobg.dds
+GFX  00:14:09.957 WARNING: Corrupt texture assets\textures\protossblankportrait_static.dds
+GFX  00:14:10.064 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\btn-minimap-toggleallies.dds
+GFX  00:14:10.064 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\btn-minimap-ping.dds
+GFX  00:14:10.064 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\btn-minimap-toggleterrain.dds
+GFX  00:14:10.120 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\btn-border-protoss-equipment.dds
+GFX  00:14:10.132 WARNING: Corrupt texture assets\textures\progress-queue.dds
+GFX  00:14:10.137 WARNING: Corrupt texture assets\textures\btn-border-queue-trainingslot01_normaloverpressedover.dds
+GFX  00:14:10.140 WARNING: Corrupt texture assets\textures\btn-border-queue-trainingslot01_normalpressed.dds
+GFX  00:14:10.404 WARNING: Corrupt texture assets\textures\cooldown16x8_hots.dds
+GFX  00:14:10.418 WARNING: Corrupt texture assets\textures\ui_kerrigan_healthbar_fill.dds

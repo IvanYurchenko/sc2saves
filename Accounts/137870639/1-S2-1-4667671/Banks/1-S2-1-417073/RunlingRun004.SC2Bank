@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="unit">
+        <Key name="01">
+            <Value string=" WfN*S0si3#.$cM^4l}TX=aR"/>
+        </Key>
+        <Key name="info">
+            <Value string="/#YCo}UUSO"/>
+        </Key>
+    </Section>
+    <Section name="account">
+        <Key name="camera">
+            <Value string="X(#YN"/>
+        </Key>
+        <Key name="info">
+            <Value string="1_g;mNv3$.onnH7t$Acex|{dYTLO#8gXS7d|)Fd;?9HSc$*~;2y~qZ`f]w6d!4"/>
+        </Key>
+    </Section>
+    <Signature value="E9D46EC874C88F70C5EDC68B7BC4821D870E2373"/>
+</Bank>

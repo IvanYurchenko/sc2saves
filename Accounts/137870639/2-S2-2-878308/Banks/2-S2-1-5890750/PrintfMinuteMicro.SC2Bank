@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Medals">
+        <Key name="Mine Escape">
+            <Value int="0"/>
+        </Key>
+        <Key name="Kiting Grenades">
+            <Value int="0"/>
+        </Key>
+        <Key name="Hold Position Harass">
+            <Value int="0"/>
+        </Key>
+        <Key name="Target Fire Kiting">
+            <Value int="0"/>
+        </Key>
+        <Key name="Probe Shield">
+            <Value int="0"/>
+        </Key>
+        <Key name="Focus Fire">
+            <Value int="0"/>
+        </Key>
+        <Key name="Flexible Focus Fire">
+            <Value int="0"/>
+        </Key>
+        <Key name="Shade Grenade">
+            <Value int="0"/>
+        </Key>
+        <Key name="Oracle Harass">
+            <Value int="0"/>
+        </Key>
+        <Key name="Magic Box">
+            <Value int="0"/>
+        </Key>
+        <Key name="MineDodging">
+            <Value int="0"/>
+        </Key>
+        <Key name="Reload Poking">
+            <Value int="0"/>
+        </Key>
+        <Key name="Disruptor Splits">
+            <Value int="0"/>
+        </Key>
+        <Key name="Mineral Stacking">
+            <Value int="0"/>
+        </Key>
+        <Key name="Short Range Kiting">
+            <Value int="0"/>
+        </Key>
+        <Key name="Worker Tanking">
+            <Value int="0"/>
+        </Key>
+        <Key name="Forming Concaves">
+            <Value int="0"/>
+        </Key>
+        <Key name="Baneling Move">
+            <Value int="0"/>
+        </Key>
+        <Key name="Deselect Kiting">
+            <Value int="0"/>
+        </Key>
+        <Key name="Worker Wall">
+            <Value int="0"/>
+        </Key>
+        <Key name="Pullback">
+            <Value int="0"/>
+        </Key>
+        <Key name="Baneling Target Fire">
+            <Value int="0"/>
+        </Key>
+        <Key name="Bunker vs Spine">
+            <Value int="0"/>
+        </Key>
+        <Key name="Double Stim">
+            <Value int="0"/>
+        </Key>
+        <Key name="Worker Blocking">
+            <Value int="0"/>
+        </Key>
+        <Key name="Ling Surrounds">
+            <Value int="0"/>
+        </Key>
+        <Key name="Mine Dropping">
+            <Value int="0"/>
+        </Key>
+        <Key name="Outnumbered Kiting">
+            <Value int="0"/>
+        </Key>
+        <Key name="Kill Scv">
+            <Value int="0"/>
+        </Key>
+        <Key name="Aggressive Stutter Step">
+            <Value int="0"/>
+        </Key>
+        <Key name="Ping Scouting">
+            <Value int="0"/>
+        </Key>
+        <Key name="Missile Dodge Pickups">
+            <Value int="0"/>
+        </Key>
+        <Key name="Choke Points">
+            <Value int="0"/>
+        </Key>
+        <Key name="Retarget Stutter">
+            <Value int="0"/>
+        </Key>
+        <Key name="Corner Kiting">
+            <Value int="0"/>
+        </Key>
+        <Key name="Prism Chasing">
+            <Value int="0"/>
+        </Key>
+        <Key name="Target Fire">
+            <Value int="0"/>
+        </Key>
+        <Key name="Splash Target Fire">
+            <Value int="0"/>
+        </Key>
+        <Key name="Blink Sniping">
+            <Value int="0"/>
+        </Key>
+        <Key name="Splitting Fire">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

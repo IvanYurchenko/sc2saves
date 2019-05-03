@@ -1,0 +1,61 @@
+﻿GFX  02:16:14.984 ====================================================================================================
+GFX  02:16:14.984 SC2Editor (B72282)
+GFX  02:16:14.984 
+GFX  02:16:14.984 Executable              J:\Games\StarCraft II\Support\SC2Editor.exe
+GFX  02:16:14.984 <Parameters>            
+GFX  02:16:14.984 Parent Executable       \Device\HarddiskVolume9\Games\StarCraft II\StarCraft II Editor.exe
+GFX  02:16:14.984 Grandparent Executable  No grandparent process found
+GFX  02:16:14.984 LocalTime               2019-04-06 02:16:14.984
+GFX  02:16:14.984 <ComputerUser>          Ivan
+GFX  02:16:14.984 <ComputerName>          DESKTOP-DSNC292
+GFX  02:16:14.984 <Exe.Architecture>      x86
+GFX  02:16:14.984 <Version>               4.8.3.72282
+GFX  02:16:14.984 <DataBuild>             B72282
+GFX  02:16:14.984 <CodeBranch>            branches/SC2.4.8.b
+GFX  02:16:14.984 <CodeRevision>          581482
+GFX  02:16:14.984 <Locale.Assets>         enUS
+GFX  02:16:14.984 <Locale.Data>           enUS
+GFX  02:16:14.984 <Locale.Install>        enUS
+GFX  02:16:14.984 <AccountCountry>        
+GFX  02:16:14.984 <AgentVersion>          not_started
+GFX  02:16:14.984 ====================================================================================================
+GFX  02:16:14.983 DXGI: Available
+GFX  02:16:15.003 Resource Cache Override Variable: 0MB
+GFX  02:16:15.003 Resource Cache: 1024MB Win32
+GFX  02:16:15.003 Resource Cache Sound:  102MB 
+GFX  02:16:15.003 Resource Cache Common: 921MB 
+GFX  02:16:15.003 Resource Cache VRam:   0MB
+GFX  02:16:15.003 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  02:16:15.003 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  02:16:15.015 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  02:16:15.015 CreateDevice succeeded
+GFX  02:16:15.015 Using adapter [0]
+GFX  02:16:15.015 Floating point render targets supported.
+GFX  02:16:15.018 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  02:16:15.018 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  02:16:15.018 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  02:16:15.018 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  02:16:15.018 Hardware Depth Sampling: Available
+GFX  02:16:15.022 Expanded VRAM to 512MB for Intel GPU
+GFX  02:16:15.022 VRAM texture space: 384MB
+GFX  02:51:05.760 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  02:51:05.761 DirectX call  failed with error code -2005530519
+GFX  02:51:05.761 Lost D3D9 device
+GFX  02:51:06.850 
+GFX  02:51:06.850 D3D9 Device Reset from ::OsGuiDoIdle returned e_errorKindGfx(0)
+GFX  02:51:14.092 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  02:51:14.098 DirectX call  failed with error code -2005530519
+GFX  02:51:14.098 Lost D3D9 device
+GFX  02:51:14.919 
+GFX  02:51:14.919 D3D9 Device Reset from ::OsGuiDoIdle returned e_errorKindGfx(0)
+GFX  02:51:26.765 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  02:51:26.772 DirectX call  failed with error code -2005530519
+GFX  02:51:26.772 Lost D3D9 device
+GFX  02:51:27.546 
+GFX  02:51:27.546 D3D9 Device Reset from ::OsGuiDoIdle returned e_errorKindGfx(0)
+GFX  02:51:41.575 DirectX call m_device->TestCooperativeLevel() failed with error code -2005530519
+GFX  02:51:41.576 DirectX call  failed with error code -2005530519
+GFX  02:51:41.576 Lost D3D9 device
+GFX  02:51:42.466 
+GFX  02:51:42.466 D3D9 Device Reset from ::OsGuiDoIdle returned e_errorKindGfx(0)
+GFX  04:14:53.920 Lost D3D9 device

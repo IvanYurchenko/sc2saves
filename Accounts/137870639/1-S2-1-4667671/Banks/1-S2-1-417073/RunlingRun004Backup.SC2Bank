@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="unit">
+        <Key name="info">
+            <Value string=""/>
+        </Key>
+    </Section>
+    <Section name="account">
+        <Key name="camera">
+            <Value string="%/J|"/>
+        </Key>
+        <Key name="info">
+            <Value string="Xr02dUM[8.r(r4B$u)M+"/>
+        </Key>
+    </Section>
+    <Signature value="C110B4191B08A1E5DDB59FBCF2511EAD4A3A7942"/>
+</Bank>

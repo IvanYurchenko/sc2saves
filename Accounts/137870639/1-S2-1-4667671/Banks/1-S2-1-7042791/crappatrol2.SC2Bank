@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Toggles">
+        <Key name="AutopickMasteries">
+            <Value flag="1"/>
+        </Key>
+        <Key name="MasteryExplanations">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="stats">
+        <Key name="left">
+            <Value int="28292"/>
+        </Key>
+        <Key name="record">
+            <Value int="1556"/>
+        </Key>
+        <Key name="ir">
+            <Value int="0"/>
+        </Key>
+        <Key name="if">
+            <Value int="0"/>
+        </Key>
+        <Key name="kk">
+            <Value int="0"/>
+        </Key>
+        <Key name="hw">
+            <Value int="0"/>
+        </Key>
+        <Key name="c1">
+            <Value int="1132"/>
+        </Key>
+        <Key name="rank">
+            <Value int="8"/>
+        </Key>
+        <Key name="last">
+            <Value int="32000"/>
+        </Key>
+        <Key name="current">
+            <Value int="36000"/>
+        </Key>
+        <Key name="ng">
+            <Value int="0"/>
+        </Key>
+        <Key name="oc">
+            <Value int="0"/>
+        </Key>
+        <Key name="c2">
+            <Value int="1"/>
+        </Key>
+    </Section>
+</Bank>

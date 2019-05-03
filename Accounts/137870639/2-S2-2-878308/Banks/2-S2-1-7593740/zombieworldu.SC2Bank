@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="jjj">
+        <Key name="specialistkills">
+            <Value int="200"/>
+        </Key>
+        <Key name="singletargetkills">
+            <Value int="1687"/>
+        </Key>
+        <Key name="assassinkills">
+            <Value int="175"/>
+        </Key>
+        <Key name="supportkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="splashkills">
+            <Value int="200"/>
+        </Key>
+        <Key name="tankkills">
+            <Value int="150"/>
+        </Key>
+        <Key name="builderkills">
+            <Value int="100"/>
+        </Key>
+    </Section>
+    <Section name="number">
+        <Key name="wave">
+            <Value int="54"/>
+        </Key>
+    </Section>
+    <Section name="jj">
+        <Key name="specialistkills">
+            <Value int="200"/>
+        </Key>
+        <Key name="singletargetkills">
+            <Value int="1687"/>
+        </Key>
+        <Key name="assassinkills">
+            <Value int="175"/>
+        </Key>
+        <Key name="supportkills">
+            <Value int="100"/>
+        </Key>
+        <Key name="splashkills">
+            <Value int="200"/>
+        </Key>
+        <Key name="tankkills">
+            <Value int="150"/>
+        </Key>
+        <Key name="builderkills">
+            <Value int="100"/>
+        </Key>
+    </Section>
+    <Signature value="48F2B5CDBFD15FBDD77802C1B12D74725D2B2119"/>
+</Bank>

@@ -1,0 +1,105 @@
+﻿DIAG_BUFFER_INFO
+[20190501T17:24:27] {1be0} INF: adding network address 8.247.209.126:80 for server //level3.blizzard.com/
+[20190501T17:24:27] {1be0} INF: adding network address 8.253.204.40:443 for server https://level3.ssl.blizzard.com/
+[20190501T17:24:27] {1be0} INF: adding network address 67.27.157.1:443 for server https://level3.ssl.blizzard.com/
+[20190501T17:29:27] {1be0} INF: adding network address 67.27.233.126:80 for server //level3.blizzard.com/
+[20190501T17:29:27] {1be0} INF: adding network address 8.248.123.254:80 for server //level3.blizzard.com/
+[20190501T17:29:27] {1be0} INF: adding network address 8.253.145.120:80 for server //level3.blizzard.com/
+[20190501T17:29:27] {1be0} INF: adding network address 8.253.204.41:443 for server https://level3.ssl.blizzard.com/
+[20190501T17:29:27] {1be0} INF: adding network address 8.248.116.20:443 for server https://level3.ssl.blizzard.com/
+[20190501T17:34:27] {1be0} INF: adding network address 67.27.235.254:80 for server //level3.blizzard.com/
+[20190501T17:34:27] {1be0} INF: adding network address 8.253.145.121:80 for server //level3.blizzard.com/
+[20190501T17:34:27] {1be0} INF: adding network address 67.27.233.1:443 for server https://level3.ssl.blizzard.com/
+[20190501T17:39:27] {1be0} INF: adding network address 8.253.145.105:80 for server //level3.blizzard.com/
+[20190501T17:44:28] {1be0} INF: adding network address 8.248.121.254:80 for server //level3.blizzard.com/
+[20190501T17:44:28] {1be0} INF: adding network address 67.27.235.129:443 for server https://level3.ssl.blizzard.com/
+[20190501T17:44:28] {1be0} INF: adding network address 8.248.106.20:443 for server https://level3.ssl.blizzard.com/
+[20190501T17:49:28] {1be0} INF: adding network address 67.27.234.129:443 for server https://level3.ssl.blizzard.com/
+[20190501T17:54:28] {1be0} INF: adding network address 67.27.234.254:80 for server //level3.blizzard.com/
+[20190501T18:04:28] {1be0} INF: adding network address 8.253.204.249:80 for server //level3.blizzard.com/
+[20190501T18:09:28] {1be0} INF: adding network address 67.27.159.1:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:09:28] {1be0} INF: adding network address 67.27.159.129:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:14:28] {1be0} INF: adding network address 67.27.157.126:80 for server //level3.blizzard.com/
+[20190501T18:19:29] {1be0} INF: adding network address 67.27.158.254:80 for server //level3.blizzard.com/
+[20190501T18:19:29] {1be0} INF: adding network address 67.27.157.254:80 for server //level3.blizzard.com/
+[20190501T18:19:29] {1be0} INF: adding network address 8.247.211.1:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:24:30] {1be0} INF: adding network address 67.27.158.129:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:29:30] {1be0} INF: adding network address 8.248.107.254:80 for server //level3.blizzard.com/
+[20190501T18:34:30] {1be0} INF: adding network address 8.248.141.254:80 for server //level3.blizzard.com/
+[20190501T18:34:30] {1be0} INF: adding network address 8.247.209.1:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:39:31] {1be0} INF: adding network address 8.253.145.41:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:44:31] {1be0} INF: adding network address 8.248.120.20:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:44:31] {1be0} INF: adding network address 67.27.158.1:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:44:31] {1be0} INF: adding network address 8.248.140.20:443 for server https://level3.ssl.blizzard.com/
+[20190501T18:54:31] {1be0} INF: adding network address 67.27.159.254:80 for server //level3.blizzard.com/
+[20190501T18:59:32] {1be0} INF: adding network address 67.27.158.126:80 for server //level3.blizzard.com/
+[20190501T18:59:32] {1be0} INF: adding network address 8.248.129.254:80 for server //level3.blizzard.com/
+[20190501T19:54:33] {1be0} INF: adding network address 67.27.157.129:443 for server https://level3.ssl.blizzard.com/
+
+DIAG_BUFFER_ALL
+[20190501T19:54:57] {1be0} debug: select() -> 0
+[20190501T19:54:57] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=960.475ms
+[20190501T19:54:58] {1be0} debug: select() -> 0
+[20190501T19:54:58] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:54:59] {1be0} debug: select() -> 0
+[20190501T19:54:59] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:00] {1be0} debug: select() -> 0
+[20190501T19:55:00] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=9.500us
+[20190501T19:55:00] {1be0} debug: select() -> 0
+[20190501T19:55:00] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:01] {1be0} debug: select() -> 0
+[20190501T19:55:01] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:02] {1be0} debug: select() -> 0
+[20190501T19:55:02] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=37.502ms
+[20190501T19:55:02] {1be0} debug: select() -> 0
+[20190501T19:55:02] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=900ns
+[20190501T19:55:02] {1be0} debug: select() -> 0
+[20190501T19:55:02] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=962.474ms
+[20190501T19:55:03] {1be0} debug: select() -> 0
+[20190501T19:55:03] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190501T19:55:04] {1be0} debug: select() -> 0
+[20190501T19:55:04] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:05] {1be0} debug: select() -> 0
+[20190501T19:55:05] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190501T19:55:06] {1be0} debug: select() -> 0
+[20190501T19:55:06] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190501T19:55:07] {1be0} debug: select() -> 0
+[20190501T19:55:07] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=36.032ms
+[20190501T19:55:07] {1be0} debug: select() -> 0
+[20190501T19:55:07] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=963.480ms
+[20190501T19:55:08] {1be0} debug: select() -> 0
+[20190501T19:55:08] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:09] {1be0} debug: select() -> 0
+[20190501T19:55:09] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:10] {1be0} debug: select() -> 0
+[20190501T19:55:10] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190501T19:55:11] {1be0} debug: select() -> 0
+[20190501T19:55:11] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:12] {1be0} debug: select() -> 0
+[20190501T19:55:12] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=7.000us
+[20190501T19:55:12] {1be0} debug: select() -> 0
+[20190501T19:55:12] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=34.486ms
+[20190501T19:55:12] {1be0} debug: select() -> 0
+[20190501T19:55:12] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=965.021ms
+[20190501T19:55:13] {1be0} debug: select() -> 0
+[20190501T19:55:13] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:14] {1be0} debug: select() -> 0
+[20190501T19:55:14] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:15] {1be0} debug: select() -> 0
+[20190501T19:55:15] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:16] {1be0} debug: select() -> 0
+[20190501T19:55:16] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190501T19:55:17] {1be0} debug: select() -> 0
+[20190501T19:55:17] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=32.500ms
+[20190501T19:55:17] {1be0} debug: select() -> 0
+[20190501T19:55:17] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=967.459ms
+[20190501T19:55:18] {1be0} debug: select() -> 0
+[20190501T19:55:18] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:19] {1be0} debug: select() -> 0
+[20190501T19:55:19] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=4.000us
+[20190501T19:55:19] {1be0} debug: select() -> 0
+[20190501T19:55:19] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190501T19:55:20] {1be0} debug: select() -> 0
+[20190501T19:55:20] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190501T19:55:21] {1be0} debug: select() -> 0
+[20190501T19:55:21] {1be0} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms

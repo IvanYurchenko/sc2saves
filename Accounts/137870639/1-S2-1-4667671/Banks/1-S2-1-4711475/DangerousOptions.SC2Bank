@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Settings">
+        <Key name="Zoom">
+            <Value int="50"/>
+        </Key>
+    </Section>
+</Bank>

@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Bank version="1">
-    <Section name="456846846">
-        <Key name="561651651">
-            <Value int="9218"/>
-        </Key>
-    </Section>
+  <Section name="456846846">
+    <Key name="561651651">
+      <Value int="999999" />
+    </Key>
+  </Section>
+  <Signature value="B020AB0B5545147AE0E2703D397FD6F227001C74" />
 </Bank>

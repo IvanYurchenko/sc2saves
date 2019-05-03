@@ -1,0 +1,55 @@
+﻿GFX  19:13:24.285 ====================================================================================================
+GFX  19:13:24.285 StarCraft II (B72282)
+GFX  19:13:24.285 
+GFX  19:13:24.285 Executable              E:\Games\StarCraft II\Versions\Base72282\SC2_x64.exe
+GFX  19:13:24.285 <Parameters>            
+GFX  19:13:24.285 Parent Executable       \Device\HarddiskVolume10\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  19:13:24.285 Grandparent Executable  No grandparent process found
+GFX  19:13:24.285 LocalTime               2019-04-03 19:13:24.285
+GFX  19:13:24.285 <ComputerUser>          Ivan
+GFX  19:13:24.285 <ComputerName>          DESKTOP-DSNC292
+GFX  19:13:24.285 <Exe.Architecture>      x86_64
+GFX  19:13:24.285 <Version>               4.8.3.72282
+GFX  19:13:24.285 <DataBuild>             B72282
+GFX  19:13:24.285 <CodeBranch>            branches/SC2.4.8.b
+GFX  19:13:24.285 <CodeRevision>          581482
+GFX  19:13:24.285 <Locale.Assets>         enUS
+GFX  19:13:24.285 <Locale.Data>           enUS
+GFX  19:13:24.285 <Locale.Install>        enUS
+GFX  19:13:24.285 <AccountCountry>        UKR
+GFX  19:13:24.285 <AgentVersion>          not_started
+GFX  19:13:24.285 ====================================================================================================
+GFX  19:13:24.284 DXGI: Available
+GFX  19:13:24.411 Resource Cache Override Variable: 0MB
+GFX  19:13:24.411 Resource Cache: 2048MB Win64 (16292MB Physical, 14540MB Process Virtual)
+GFX  19:13:24.411 Resource Cache Sound:  204MB 
+GFX  19:13:24.411 Resource Cache Common: 1843MB 
+GFX  19:13:24.411 Resource Cache VRam:   0MB
+GFX  19:13:24.447 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  19:13:24.447 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  19:13:24.447 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  19:13:25.853 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  19:13:25.853 CreateDevice succeeded
+GFX  19:13:25.853 Using adapter [0]
+GFX  19:13:25.853 Floating point render targets supported.
+GFX  19:13:25.859 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  19:13:25.859 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  19:13:25.859 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  19:13:25.860 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  19:13:25.914 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  19:13:25.914 Hardware Depth Sampling: Available
+GFX  19:13:25.920 Expanded VRAM to 512MB for Intel GPU
+GFX  19:13:25.920 VRAM texture space: 384MB
+GFX  19:13:27.395 PerfNotifiers initialized
+GFX  19:13:27.418 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  19:13:27.418 Lost D3D9 device
+GFX  19:13:27.515 
+GFX  19:13:27.515 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  19:32:10.714 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marineraynor_diffuse.dds
+GFX  19:32:11.594 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\medicstetmann_diffuse.dds
+GFX  19:32:11.720 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswann_diffuse.dds
+GFX  19:32:11.752 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswannbody_diffuse.dds
+GFX  20:12:05.194 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marineraynor_diffuse.dds
+GFX  20:40:47.334 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\medicstetmann_diffuse.dds
+GFX  20:40:47.348 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswann_diffuse.dds
+GFX  20:40:47.354 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswannbody_diffuse.dds

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="GameplayOptions">
+        <Key name="SaveNameofZealotSkin">
+            <Value flag="1"/>
+        </Key>
+        <Key name="AutoCastVoidPrisonAbility">
+            <Value flag="1"/>
+        </Key>
+        <Key name="AutoCastRepairAbility">
+            <Value flag="0"/>
+        </Key>
+        <Key name="SaveZealotSuggested">
+            <Value flag="1"/>
+        </Key>
+        <Key name="NinjaOnOff">
+            <Value flag="1"/>
+        </Key>
+        <Key name="BuffDialogSuppressedMsgCount">
+            <Value int="0"/>
+        </Key>
+        <Key name="SaveProbePopUp">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ForceDisplayBuffDialog">
+            <Value flag="0"/>
+        </Key>
+        <Key name="SaveZealotSkin">
+            <Value flag="1"/>
+        </Key>
+        <Key name="SaveZealotPopUp">
+            <Value flag="1"/>
+        </Key>
+        <Key name="AutoShowCustomRank">
+            <Value flag="1"/>
+        </Key>
+        <Key name="SaveProbeSkin">
+            <Value flag="1"/>
+        </Key>
+        <Key name="SaveColorofProbeSkin">
+            <Value flag="1"/>
+        </Key>
+        <Key name="SaveNameofProbeSkin">
+            <Value flag="1"/>
+        </Key>
+        <Key name="SaveColorofZealotSkin">
+            <Value flag="1"/>
+        </Key>
+        <Key name="SaveScaleofProbeSkin">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PlayerOptions">
+        <Key name="ZealotPopUp">
+            <Value int="1"/>
+        </Key>
+        <Key name="ProbeSkin">
+            <Value int="1"/>
+        </Key>
+        <Key name="ColorofZealotSkin">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZoomSettings">
+            <Value fixed="50"/>
+        </Key>
+        <Key name="ZealotSuggested">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZealotSkin">
+            <Value int="1"/>
+        </Key>
+        <Key name="NameofProbeSkin">
+            <Value string="Probe"/>
+        </Key>
+        <Key name="ColorofProbeSkin">
+            <Value int="1"/>
+        </Key>
+        <Key name="NinjaOnOff">
+            <Value int="1"/>
+        </Key>
+        <Key name="ProbeAbility2">
+            <Value int="3"/>
+        </Key>
+        <Key name="ProbePopUp">
+            <Value int="1"/>
+        </Key>
+        <Key name="ProbeAbility1">
+            <Value int="1"/>
+        </Key>
+        <Key name="NameofZealotSkin">
+            <Value string="Zealot"/>
+        </Key>
+    </Section>
+    <Signature value="6C3ABD6ADCF7F1CA1B46B102D856F71759062CFF"/>
+</Bank>
