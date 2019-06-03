@@ -4,28 +4,82 @@
         <Key name="4">
             <Value fixed="17195.0065"/>
         </Key>
+        <Key name="9">
+            <Value fixed="2460.1091"/>
+        </Key>
+        <Key name="1">
+            <Value fixed="38727.7048"/>
+        </Key>
+        <Key name="8">
+            <Value fixed="0"/>
+        </Key>
     </Section>
     <Section name="Aaron">
+        <Key name="BossLogPlayersNumber57">
+            <Value int="5"/>
+        </Key>
+        <Key name="RecentWeaponsCategoryKerriganGhostLab6">
+            <Value int="1"/>
+        </Key>
         <Key name="Weapons2InfernoMarine">
             <Value int="1"/>
         </Key>
+        <Key name="BossLogOutcome60">
+            <Value int="1"/>
+        </Key>
+        <Key name="BossLogOutcome54">
+            <Value int="0"/>
+        </Key>
+        <Key name="AbilitiesRaynor2">
+            <Value int="3"/>
+        </Key>
         <Key name="SelectionPageHero">
-            <Value int="2"/>
+            <Value int="1"/>
+        </Key>
+        <Key name="BossLogPlayersNumber60">
+            <Value int="4"/>
+        </Key>
+        <Key name="BossLogPlayersNumber58">
+            <Value int="4"/>
+        </Key>
+        <Key name="BossLogPlayersNumber52">
+            <Value int="1"/>
         </Key>
         <Key name="Weapons2Nova">
             <Value int="4"/>
         </Key>
         <Key name="SelectionPage">
-            <Value int="2"/>
-        </Key>
-        <Key name="BossLogPlayersNumber29">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogOutcome20">
-            <Value int="0"/>
+        <Key name="BossLogPlayersNumber66">
+            <Value int="2"/>
         </Key>
-        <Key name="BossLogTooltip26">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Nova): 3075 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;37&lt;/c&gt; DPS)"/>
+        <Key name="BossLogTime56">
+            <Value int="69"/>
+        </Key>
+        <Key name="UpgradeKerriganGhostLab1">
+            <Value int="1"/>
+        </Key>
+        <Key name="RecentWeaponsCategoryTaurenSpaceMarine6">
+            <Value int="1"/>
+        </Key>
+        <Key name="TalentsRaynor4">
+            <Value int="2"/>
+        </Key>
+        <Key name="UpgradeRaynor2">
+            <Value int="1"/>
+        </Key>
+        <Key name="RecentWeaponsCountTaurenSpaceMarine">
+            <Value int="5"/>
+        </Key>
+        <Key name="RecentWeaponsCountWarPig">
+            <Value int="5"/>
+        </Key>
+        <Key name="BossLogTime55">
+            <Value int="73"/>
+        </Key>
+        <Key name="RecentWeaponsSlotRaynor7">
+            <Value int="8"/>
         </Key>
         <Key name="TalentsMengskMarine0">
             <Value int="2"/>
@@ -33,17 +87,11 @@
         <Key name="Inventory19">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogBoss26">
-            <Value string="Dehaka"/>
-        </Key>
-        <Key name="BossLogTooltip17">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 8 Nova): 1012 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;20&lt;/c&gt; DPS)"/>
-        </Key>
         <Key name="TalentsTaurenSpaceMarine0">
             <Value int="2"/>
         </Key>
         <Key name="TalentsRaynor0">
-            <Value int="2"/>
+            <Value int="0"/>
         </Key>
         <Key name="Weapons2WarPig">
             <Value int="1"/>
@@ -51,17 +99,26 @@
         <Key name="Inventory6">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogDifficulty30">
-            <Value string="Extreme"/>
+        <Key name="BossLogTooltip64">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 8 Nova): 3257 (&lt;c val=&quot;00FF00&quot;&gt;16&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;10&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 9894 (&lt;c val=&quot;00FF00&quot;&gt;48&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;30&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 8 TaurenSpaceMarine): 7383 (&lt;c val=&quot;00FF00&quot;&gt;36&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;26&lt;/c&gt; DPS)"/>
         </Key>
-        <Key name="BossLogDifficulty28">
+        <Key name="BossLogPlayersNumber53">
+            <Value int="1"/>
+        </Key>
+        <Key name="BossLogTime58">
+            <Value int="163"/>
+        </Key>
+        <Key name="BossLogDifficulty56">
             <Value string="Normal"/>
         </Key>
         <Key name="WeaponsKerriganGhostLab">
-            <Value int="1"/>
+            <Value int="6"/>
         </Key>
-        <Key name="BossLogTooltip27">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Nova): 655 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;33&lt;/c&gt; DPS)"/>
+        <Key name="BossLogDifficulty64">
+            <Value string="Extreme"/>
+        </Key>
+        <Key name="RecentWeaponsCategoryRaynor7">
+            <Value int="1"/>
         </Key>
         <Key name="RecentWeaponsCategoryNova7">
             <Value int="1"/>
@@ -69,44 +126,44 @@
         <Key name="TalentsNova4">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogOutcome25">
-            <Value int="1"/>
-        </Key>
-        <Key name="BossLogTime17">
-            <Value int="50"/>
-        </Key>
         <Key name="UpgradeNova1">
             <Value int="1"/>
         </Key>
         <Key name="Weapons3">
             <Value int="4"/>
         </Key>
-        <Key name="BossLogOutcome27">
-            <Value int="0"/>
-        </Key>
-        <Key name="BossLogTime24">
-            <Value int="82"/>
+        <Key name="RecentWeaponsCountGhost">
+            <Value int="5"/>
         </Key>
         <Key name="WeaponsInfernoMarine">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogPlayersNumber31">
+        <Key name="BossLogDifficulty59">
+            <Value string="Extreme"/>
+        </Key>
+        <Key name="BossLogPlayersNumber59">
+            <Value int="4"/>
+        </Key>
+        <Key name="BossLogOutcome57">
             <Value int="1"/>
+        </Key>
+        <Key name="BossLogOutcome52">
+            <Value int="0"/>
+        </Key>
+        <Key name="RecentWeaponsCountSpectre">
+            <Value int="5"/>
         </Key>
         <Key name="TalentsTychusCommando0">
             <Value int="2"/>
         </Key>
-        <Key name="BossLogPlayersNumber28">
+        <Key name="BossLogDifficulty55">
+            <Value string="Normal"/>
+        </Key>
+        <Key name="UpgradeRaynor5">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogPlayersNumber24">
-            <Value int="1"/>
-        </Key>
-        <Key name="BossLogTooltip23">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 8 Nova): 4456 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;40&lt;/c&gt; DPS)"/>
-        </Key>
-        <Key name="BossLogPlayersNumber18">
-            <Value int="1"/>
+        <Key name="AbilitiesRaynor1">
+            <Value int="4"/>
         </Key>
         <Key name="Weapons2MengskMarine">
             <Value int="1"/>
@@ -120,53 +177,65 @@
         <Key name="Inventory5">
             <Value int="0"/>
         </Key>
+        <Key name="BossLogPlayersNumber61">
+            <Value int="3"/>
+        </Key>
+        <Key name="BossLogBoss60">
+            <Value string="The Shadow Lord"/>
+        </Key>
+        <Key name="BossLogBoss53">
+            <Value string=""/>
+        </Key>
         <Key name="SharedBack">
             <Value int="44"/>
         </Key>
-        <Key name="BossLogTime27">
-            <Value int="20"/>
-        </Key>
         <Key name="RecentWeaponsCountNova">
-            <Value int="9"/>
+            <Value int="5"/>
         </Key>
-        <Key name="BossLogDifficulty20">
-            <Value string="Normal"/>
+        <Key name="BossLogBoss66">
+            <Value string=""/>
         </Key>
-        <Key name="BossLogDifficulty31">
+        <Key name="BossLogTime59">
+            <Value int="142"/>
+        </Key>
+        <Key name="BossLogDifficulty57">
             <Value string="Extreme"/>
         </Key>
-        <Key name="BossLogTime28">
-            <Value int="48"/>
-        </Key>
-        <Key name="BossLogDifficulty17">
-            <Value string="Normal"/>
+        <Key name="RecentWeaponsCountTychusCommando">
+            <Value int="5"/>
         </Key>
         <Key name="SharedWeapon">
             <Value int="55"/>
         </Key>
         <Key name="AchievementCount">
-            <Value int="36"/>
+            <Value int="62"/>
         </Key>
-        <Key name="BossLogPlayersNumber23">
+        <Key name="RecentWeaponsSlotRaynor13">
+            <Value int="8"/>
+        </Key>
+        <Key name="BossLogOutcome61">
             <Value int="1"/>
+        </Key>
+        <Key name="RecentWeaponsCountStetmann">
+            <Value int="5"/>
         </Key>
         <Key name="Inventory13">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogOutcome24">
-            <Value int="1"/>
+        <Key name="BossLogBoss65">
+            <Value string=""/>
+        </Key>
+        <Key name="BossLogTime61">
+            <Value int="133"/>
         </Key>
         <Key name="TalentsMarineWarfield0">
             <Value int="2"/>
         </Key>
-        <Key name="BossLogTime26">
-            <Value int="84"/>
+        <Key name="BossLogTime65">
+            <Value int="266"/>
         </Key>
-        <Key name="BossLogOutcome26">
-            <Value int="1"/>
-        </Key>
-        <Key name="BossLogPlayersNumber25">
-            <Value int="1"/>
+        <Key name="BossLogBoss64">
+            <Value string=""/>
         </Key>
         <Key name="WeaponsTaurenSpaceMarine">
             <Value int="1"/>
@@ -174,53 +243,80 @@
         <Key name="Map Version 5">
             <Value flag="1"/>
         </Key>
-        <Key name="BossLogOutcome22">
+        <Key name="BossLogOutcome65">
             <Value int="0"/>
         </Key>
-        <Key name="AchKeyBossKills">
-            <Value int="22"/>
+        <Key name="RecentWeaponsSlotRaynor10">
+            <Value int="10"/>
         </Key>
-        <Key name="BossLogBoss31">
-            <Value string="Zombie Outbreak"/>
+        <Key name="RecentWeaponsSlotRaynor6">
+            <Value int="10"/>
+        </Key>
+        <Key name="RecentWeaponsCountHighTemplarr">
+            <Value int="5"/>
+        </Key>
+        <Key name="AchKeyBossKills">
+            <Value int="45"/>
+        </Key>
+        <Key name="BossLogTooltip63">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 8 Nova): 1219 (&lt;c val=&quot;00FF00&quot;&gt;19&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;13&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 3207 (&lt;c val=&quot;00FF00&quot;&gt;51&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;29&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 8 TaurenSpaceMarine): 1879 (&lt;c val=&quot;00FF00&quot;&gt;30&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;18&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="BossLogDifficulty53">
+            <Value string="Extreme"/>
+        </Key>
+        <Key name="TalentsKerriganGhostLab4">
+            <Value int="5"/>
         </Key>
         <Key name="Inventory12">
+            <Value int="0"/>
+        </Key>
+        <Key name="BossLogOutcome66">
             <Value int="0"/>
         </Key>
         <Key name="Inventory7">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogDifficulty23">
-            <Value string="Extreme"/>
+        <Key name="BossLogTime64">
+            <Value int="351"/>
+        </Key>
+        <Key name="BossLogBoss63">
+            <Value string=""/>
         </Key>
         <Key name="SharedHead">
             <Value int="64"/>
         </Key>
         <Key name="WeaponsRaynor">
-            <Value int="1"/>
+            <Value int="10"/>
         </Key>
-        <Key name="BossLogDifficulty19">
-            <Value string="Hard"/>
+        <Key name="BossLogTime63">
+            <Value int="125"/>
         </Key>
-        <Key name="BossLogPlayersNumber17">
-            <Value int="1"/>
+        <Key name="RecentWeaponsCategoryRaynor10">
+            <Value int="4"/>
         </Key>
         <Key name="TalentsGhost0">
             <Value int="2"/>
-        </Key>
-        <Key name="BossLogPlayersNumber26">
-            <Value int="1"/>
         </Key>
         <Key name="RecentWeaponsSlotNova4">
             <Value int="2"/>
         </Key>
         <Key name="AchKeyBossAttempts">
-            <Value int="31"/>
+            <Value int="66"/>
         </Key>
         <Key name="TalentsStetmann0">
             <Value int="2"/>
         </Key>
         <Key name="Money">
-            <Value int="15"/>
+            <Value int="332"/>
+        </Key>
+        <Key name="BossLogDifficulty62">
+            <Value string="Extreme"/>
+        </Key>
+        <Key name="BossLogTime60">
+            <Value int="183"/>
+        </Key>
+        <Key name="BossLogTooltip59">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;168000&quot;&gt;Maxmenace&lt;/c&gt; (Level 9 KerriganGhostLab): 2039 (&lt;c val=&quot;00FF00&quot;&gt;20&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;14&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 6 Nova): 2110 (&lt;c val=&quot;00FF00&quot;&gt;21&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;15&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 2850 (&lt;c val=&quot;00FF00&quot;&gt;28&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;20&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 7 TaurenSpaceMarine): 3008 (&lt;c val=&quot;00FF00&quot;&gt;30&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;21&lt;/c&gt; DPS)"/>
         </Key>
         <Key name="Weapons2TychusCommando">
             <Value int="1"/>
@@ -228,56 +324,86 @@
         <Key name="Inventory8">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogOutcome31">
+        <Key name="RecentWeaponsCategoryRaynor12">
+            <Value int="5"/>
+        </Key>
+        <Key name="BossLogPlayersNumber62">
+            <Value int="3"/>
+        </Key>
+        <Key name="BossLogOutcome58">
             <Value int="1"/>
+        </Key>
+        <Key name="BossLogTime54">
+            <Value int="17"/>
         </Key>
         <Key name="TalentsNova6">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogBoss20">
-            <Value string=""/>
-        </Key>
-        <Key name="BossLogOutcome18">
-            <Value int="1"/>
+        <Key name="BossLogPlayersNumber56">
+            <Value int="5"/>
         </Key>
         <Key name="Inventory14">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogPlayersNumber21">
-            <Value int="1"/>
+        <Key name="BossLogBoss61">
+            <Value string="Archon"/>
+        </Key>
+        <Key name="BossLogBoss56">
+            <Value string="Battlecruiser"/>
+        </Key>
+        <Key name="UpgradeRaynor4">
+            <Value int="2"/>
         </Key>
         <Key name="Inventory21">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogDifficulty24">
-            <Value string="Extreme"/>
+        <Key name="RecentWeaponsCategoryKerriganGhostLab8">
+            <Value int="4"/>
         </Key>
         <Key name="WeaponsMarineWarfield">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogDifficulty22">
-            <Value string="Normal"/>
-        </Key>
-        <Key name="BossLogTime18">
-            <Value int="133"/>
+        <Key name="BossLogBoss62">
+            <Value string="Void Phantom"/>
         </Key>
         <Key name="TalentsNova0">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogTime25">
-            <Value int="52"/>
+        <Key name="RecentWeaponsSlotRaynor14">
+            <Value int="10"/>
         </Key>
-        <Key name="BossLogTime22">
-            <Value int="77"/>
+        <Key name="BossLogBoss58">
+            <Value string="Lurker"/>
         </Key>
-        <Key name="BossLogDifficulty29">
+        <Key name="BossLogTooltip55">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Raynor): 2446 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;34&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="BossLogTooltip52">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Raynor): 983 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;43&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="UpgradeRaynor3">
+            <Value int="1"/>
+        </Key>
+        <Key name="TalentsRaynor3">
+            <Value int="9"/>
+        </Key>
+        <Key name="BossLogDifficulty61">
             <Value string="Extreme"/>
         </Key>
-        <Key name="BossLogTime23">
-            <Value int="111"/>
+        <Key name="BossLogDifficulty60">
+            <Value string="Extreme"/>
         </Key>
-        <Key name="BossLogTooltip30">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Nova): 889 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;18&lt;/c&gt; DPS)"/>
+        <Key name="BossLogBoss57">
+            <Value string="Infestor"/>
+        </Key>
+        <Key name="RecentWeaponsCategoryRaynor14">
+            <Value int="4"/>
+        </Key>
+        <Key name="BossLogDifficulty65">
+            <Value string="Extreme"/>
+        </Key>
+        <Key name="BossLogTime52">
+            <Value int="23"/>
         </Key>
         <Key name="Weapons2HighTemplarr">
             <Value int="1"/>
@@ -285,32 +411,41 @@
         <Key name="WeaponsMengskMarine">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogBoss25">
-            <Value string="Artanis"/>
+        <Key name="BossLogTime66">
+            <Value int="40"/>
         </Key>
-        <Key name="BossLogTooltip20">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 8 Nova): 517 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;21&lt;/c&gt; DPS)"/>
+        <Key name="AbilitiesKerriganGhostLab2">
+            <Value int="3"/>
         </Key>
-        <Key name="BossLogPlayersNumber20">
-            <Value int="1"/>
-        </Key>
-        <Key name="BossLogTooltip19">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 8 Nova): 476 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;25&lt;/c&gt; DPS)"/>
+        <Key name="RecentWeaponsSlotRaynor9">
+            <Value int="5"/>
         </Key>
         <Key name="RecentWeaponsSlotNova3">
             <Value int="2"/>
         </Key>
-        <Key name="BossLogOutcome29">
-            <Value int="1"/>
+        <Key name="BossLogTooltip60">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;168000&quot;&gt;Maxmenace&lt;/c&gt; (Level 9 KerriganGhostLab): 4161 (&lt;c val=&quot;00FF00&quot;&gt;21&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;23&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 6 Nova): 2349 (&lt;c val=&quot;00FF00&quot;&gt;12&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;13&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 9750 (&lt;c val=&quot;00FF00&quot;&gt;49&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;53&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 7 TaurenSpaceMarine): 3447 (&lt;c val=&quot;00FF00&quot;&gt;17&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;21&lt;/c&gt; DPS)"/>
         </Key>
-        <Key name="BossLogPlayersNumber27">
-            <Value int="1"/>
+        <Key name="BossLogDifficulty54">
+            <Value string="Extreme"/>
         </Key>
-        <Key name="BossLogDifficulty21">
-            <Value string="Normal"/>
+        <Key name="BossLogBoss52">
+            <Value string=""/>
         </Key>
-        <Key name="BossLogOutcome17">
+        <Key name="RecentWeaponsCategoryRaynor8">
+            <Value int="4"/>
+        </Key>
+        <Key name="TalentsRaynor6">
             <Value int="0"/>
+        </Key>
+        <Key name="BossLogTooltip62">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 7 Nova): 3513 (&lt;c val=&quot;00FF00&quot;&gt;20&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;16&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 12141 (&lt;c val=&quot;00FF00&quot;&gt;69&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;38&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 8 TaurenSpaceMarine): 1990 (&lt;c val=&quot;00FF00&quot;&gt;11&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;13&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="AchievementRevivesGive">
+            <Value int="31"/>
+        </Key>
+        <Key name="RecentWeaponsCountTosh">
+            <Value int="5"/>
         </Key>
         <Key name="TalentsNova3">
             <Value int="9"/>
@@ -318,14 +453,14 @@
         <Key name="WeaponsSpectre">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogDifficulty27">
-            <Value string="Extreme"/>
-        </Key>
-        <Key name="BossLogOutcome23">
-            <Value int="1"/>
-        </Key>
         <Key name="WeaponsStetmann">
             <Value int="1"/>
+        </Key>
+        <Key name="BossLogTooltip56">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;168000&quot;&gt;Maxmenace&lt;/c&gt; (Level 9 KerriganGhostLab): 2123 (&lt;c val=&quot;00FF00&quot;&gt;33&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;31&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 2 Nova): 795 (&lt;c val=&quot;00FF00&quot;&gt;12&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;12&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 9 Raynor): 1763 (&lt;c val=&quot;00FF00&quot;&gt;27&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;26&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 2 TaurenSpaceMarine): 921 (&lt;c val=&quot;00FF00&quot;&gt;14&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;13&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;FE8A0E&quot;&gt;Slayer&lt;/c&gt; (Level 2 Raynor): 899 (&lt;c val=&quot;00FF00&quot;&gt;14&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;13&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="RecentWeaponsCategoryRaynor11">
+            <Value int="4"/>
         </Key>
         <Key name="RecentWeaponsCategoryNova8">
             <Value int="4"/>
@@ -336,6 +471,15 @@
         <Key name="RecentWeaponsCategoryNova1">
             <Value int="1"/>
         </Key>
+        <Key name="RecentWeaponsSlotRaynor12">
+            <Value int="5"/>
+        </Key>
+        <Key name="BossLogBoss54">
+            <Value string=""/>
+        </Key>
+        <Key name="RecentWeaponsCountMengskMarine">
+            <Value int="5"/>
+        </Key>
         <Key name="UpgradeNova5">
             <Value int="4"/>
         </Key>
@@ -345,20 +489,26 @@
         <Key name="Inventory1">
             <Value int="55"/>
         </Key>
+        <Key name="BossLogOutcome59">
+            <Value int="0"/>
+        </Key>
+        <Key name="RecentWeaponsSlotKerriganGhostLab8">
+            <Value int="6"/>
+        </Key>
         <Key name="UpgradeNova2">
             <Value int="2"/>
         </Key>
         <Key name="TalentsInfernoMarine0">
             <Value int="2"/>
         </Key>
-        <Key name="BossLogOutcome28">
-            <Value int="1"/>
+        <Key name="BossLogDifficulty58">
+            <Value string="Extreme"/>
         </Key>
-        <Key name="BossLogOutcome21">
-            <Value int="1"/>
+        <Key name="BossLogTooltip54">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Raynor): 335 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;20&lt;/c&gt; DPS)"/>
         </Key>
-        <Key name="BossLogBoss18">
-            <Value string="Battlecruiser"/>
+        <Key name="UpgradeKerriganGhostLab2">
+            <Value int="1"/>
         </Key>
         <Key name="RecentWeaponsSlotNova1">
             <Value int="1"/>
@@ -372,8 +522,8 @@
         <Key name="Inventory2">
             <Value int="65"/>
         </Key>
-        <Key name="BossLogDifficulty26">
-            <Value string="Normal"/>
+        <Key name="BossLogBoss55">
+            <Value string="Tassadar"/>
         </Key>
         <Key name="RecentWeaponsCategoryNova2">
             <Value int="1"/>
@@ -381,11 +531,8 @@
         <Key name="Weapons2MarineWarfield">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogTime21">
-            <Value int="82"/>
-        </Key>
-        <Key name="BossLogBoss17">
-            <Value string=""/>
+        <Key name="RecentWeaponsSlotRaynor11">
+            <Value int="7"/>
         </Key>
         <Key name="RecentWeaponsSlotNova5">
             <Value int="4"/>
@@ -396,32 +543,38 @@
         <Key name="TalentsWarPig0">
             <Value int="2"/>
         </Key>
+        <Key name="BossLogPlayersNumber64">
+            <Value int="3"/>
+        </Key>
+        <Key name="BossLogTooltip53">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Raynor): 3342 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;50&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="RecentWeaponsCountMarineWarfield">
+            <Value int="5"/>
+        </Key>
         <Key name="RecentWeaponsCategoryNova9">
             <Value int="4"/>
         </Key>
         <Key name="Inventory17">
             <Value int="0"/>
         </Key>
+        <Key name="BossLogPlayersNumber55">
+            <Value int="1"/>
+        </Key>
+        <Key name="BossLogOutcome55">
+            <Value int="1"/>
+        </Key>
+        <Key name="BossLogTime53">
+            <Value int="67"/>
+        </Key>
+        <Key name="UpgradeRaynor1">
+            <Value int="4"/>
+        </Key>
         <Key name="Weapons2Tosh">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogTime30">
-            <Value int="49"/>
-        </Key>
-        <Key name="BossLogBoss29">
-            <Value string="War Hound"/>
-        </Key>
-        <Key name="BossLogBoss27">
-            <Value string=""/>
-        </Key>
-        <Key name="BossLogDifficulty25">
-            <Value string="Normal"/>
-        </Key>
-        <Key name="BossLogTooltip22">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 8 Nova): 1644 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;21&lt;/c&gt; DPS)"/>
-        </Key>
-        <Key name="BossLogOutcome19">
-            <Value int="0"/>
+        <Key name="RecentWeaponsCategoryKerriganGhostLab7">
+            <Value int="4"/>
         </Key>
         <Key name="AbilitiesNova2">
             <Value int="3"/>
@@ -435,20 +588,23 @@
         <Key name="Inventory16">
             <Value int="0"/>
         </Key>
+        <Key name="RecentWeaponsSlotKerriganGhostLab7">
+            <Value int="10"/>
+        </Key>
+        <Key name="AbilitiesTaurenSpaceMarine1">
+            <Value int="4"/>
+        </Key>
         <Key name="RecentWeaponsSlotNova8">
             <Value int="6"/>
         </Key>
-        <Key name="BossLogTooltip21">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 8 Nova): 2910 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;35&lt;/c&gt; DPS)"/>
-        </Key>
-        <Key name="BossLogBoss19">
-            <Value string=""/>
-        </Key>
-        <Key name="BossLogTime19">
-            <Value int="19"/>
-        </Key>
         <Key name="RecentWeaponsCategoryNova6">
             <Value int="1"/>
+        </Key>
+        <Key name="BossLogPlayersNumber63">
+            <Value int="3"/>
+        </Key>
+        <Key name="AbilitiesKerriganGhostLab1">
+            <Value int="4"/>
         </Key>
         <Key name="RecentWeaponsSlotNova7">
             <Value int="6"/>
@@ -462,8 +618,8 @@
         <Key name="WeaponsNova">
             <Value int="10"/>
         </Key>
-        <Key name="BossLogTime31">
-            <Value int="177"/>
+        <Key name="RecentWeaponsCategoryRaynor9">
+            <Value int="4"/>
         </Key>
         <Key name="RecentWeaponsCategoryNova5">
             <Value int="1"/>
@@ -483,8 +639,14 @@
         <Key name="Inventory9">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogTooltip25">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Nova): 2250 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;43&lt;/c&gt; DPS)"/>
+        <Key name="RecentWeaponsSlotKerriganGhostLab6">
+            <Value int="1"/>
+        </Key>
+        <Key name="BossLogTooltip61">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 7 Nova): 2247 (&lt;c val=&quot;00FF00&quot;&gt;20&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;17&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 6561 (&lt;c val=&quot;00FF00&quot;&gt;59&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;49&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 7 TaurenSpaceMarine): 2398 (&lt;c val=&quot;00FF00&quot;&gt;21&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;18&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="BossLogDifficulty52">
+            <Value string="Extreme"/>
         </Key>
         <Key name="Inventory15">
             <Value int="0"/>
@@ -492,20 +654,20 @@
         <Key name="RecentWeaponsSlotNova9">
             <Value int="10"/>
         </Key>
-        <Key name="BossLogTooltip29">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Nova): 8366 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;48&lt;/c&gt; DPS)"/>
-        </Key>
         <Key name="WeaponsHighTemplarr">
             <Value int="1"/>
         </Key>
         <Key name="Inventory10">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogBoss23">
-            <Value string="Odin"/>
+        <Key name="RecentWeaponsCategoryRaynor13">
+            <Value int="1"/>
+        </Key>
+        <Key name="BossLogTime62">
+            <Value int="358"/>
         </Key>
         <Key name="Weapons2KerriganGhostLab">
-            <Value int="1"/>
+            <Value int="4"/>
         </Key>
         <Key name="Weapons2Spectre">
             <Value int="1"/>
@@ -513,23 +675,29 @@
         <Key name="Weapons2Ghost">
             <Value int="1"/>
         </Key>
-        <Key name="BossLogPlayersNumber30">
+        <Key name="BossLogBoss59">
+            <Value string="Stukov&apos;s Flight"/>
+        </Key>
+        <Key name="BossLogPlayersNumber54">
+            <Value int="1"/>
+        </Key>
+        <Key name="RecentWeaponsSlotTaurenSpaceMarine6">
             <Value int="1"/>
         </Key>
         <Key name="BossLogCount">
-            <Value int="31"/>
+            <Value int="66"/>
         </Key>
         <Key name="Inventory3">
             <Value int="64"/>
         </Key>
-        <Key name="BossLogTime20">
-            <Value int="25"/>
+        <Key name="BossLogDifficulty63">
+            <Value string="Extreme"/>
         </Key>
-        <Key name="BossLogTooltip31">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Nova): 4802 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;27&lt;/c&gt; DPS)"/>
+        <Key name="BossLogTooltip65">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 8 Nova): 1809 (&lt;c val=&quot;00FF00&quot;&gt;16&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;9&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 5039 (&lt;c val=&quot;00FF00&quot;&gt;44&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;20&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 8 TaurenSpaceMarine): 4727 (&lt;c val=&quot;00FF00&quot;&gt;41&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;21&lt;/c&gt; DPS)"/>
         </Key>
-        <Key name="BossLogBoss24">
-            <Value string="Queen"/>
+        <Key name="RecentWeaponsCountRaynor">
+            <Value int="14"/>
         </Key>
         <Key name="RecentWeaponsSlotNova6">
             <Value int="5"/>
@@ -540,59 +708,74 @@
         <Key name="Inventory11">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogPlayersNumber22">
-            <Value int="1"/>
-        </Key>
-        <Key name="BossLogPlayersNumber19">
-            <Value int="1"/>
+        <Key name="BossLogTooltip66">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 8 Nova): 329 (&lt;c val=&quot;00FF00&quot;&gt;15&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;9&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 1384 (&lt;c val=&quot;00FF00&quot;&gt;65&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;35&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 8 TaurenSpaceMarine): 416 (&lt;c val=&quot;00FF00&quot;&gt;20&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;20&lt;/c&gt; DPS)"/>
         </Key>
         <Key name="TalentsSpectre0">
             <Value int="2"/>
         </Key>
-        <Key name="BossLogTooltip28">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 9 Nova): 2410 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;50&lt;/c&gt; DPS)"/>
+        <Key name="TalentsKerriganGhostLab3">
+            <Value int="2"/>
         </Key>
-        <Key name="BossLogTooltip18">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 8 Nova): 3709 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;28&lt;/c&gt; DPS)"/>
+        <Key name="RecentWeaponsSlotRaynor8">
+            <Value int="6"/>
         </Key>
-        <Key name="BossLogBoss30">
-            <Value string=""/>
+        <Key name="RecentWeaponsCategoryRaynor6">
+            <Value int="4"/>
         </Key>
-        <Key name="BossLogTime29">
-            <Value int="173"/>
+        <Key name="RecentWeaponsCountKerriganGhostLab">
+            <Value int="5"/>
+        </Key>
+        <Key name="BossLogTooltip57">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;168000&quot;&gt;Maxmenace&lt;/c&gt; (Level 9 KerriganGhostLab): 5789 (&lt;c val=&quot;00FF00&quot;&gt;27&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;25&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 4 Nova): 2189 (&lt;c val=&quot;00FF00&quot;&gt;10&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;10&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 7798 (&lt;c val=&quot;00FF00&quot;&gt;36&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;34&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 5 TaurenSpaceMarine): 3499 (&lt;c val=&quot;00FF00&quot;&gt;16&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;16&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;FE8A0E&quot;&gt;Slayer&lt;/c&gt; (Level 4 Raynor): 2363 (&lt;c val=&quot;00FF00&quot;&gt;11&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;10&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="BossLogOutcome53">
+            <Value int="0"/>
+        </Key>
+        <Key name="RecentWeaponsCountInfernoMarine">
+            <Value int="5"/>
         </Key>
         <Key name="SharedBody">
             <Value int="65"/>
         </Key>
         <Key name="AchievementRevivesKills">
-            <Value int="164"/>
+            <Value int="726"/>
         </Key>
         <Key name="TalentsHighTemplarr0">
             <Value int="2"/>
         </Key>
         <Key name="TalentsKerriganGhostLab0">
-            <Value int="2"/>
-        </Key>
-        <Key name="Weapons2Raynor">
-            <Value int="1"/>
-        </Key>
-        <Key name="BossLogOutcome30">
             <Value int="0"/>
         </Key>
-        <Key name="BossLogBoss28">
-            <Value string="War Hound"/>
+        <Key name="Weapons2Raynor">
+            <Value int="4"/>
         </Key>
-        <Key name="BossLogTooltip24">
-            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;EBE129&quot;&gt;LazeR&lt;/c&gt; (Level 8 Nova): 4466 (&lt;c val=&quot;00FF00&quot;&gt;100&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;54&lt;/c&gt; DPS)"/>
+        <Key name="BossLogPlayersNumber65">
+            <Value int="3"/>
         </Key>
-        <Key name="BossLogBoss22">
-            <Value string=""/>
+        <Key name="BossLogOutcome56">
+            <Value int="1"/>
         </Key>
-        <Key name="BossLogBoss21">
-            <Value string="Slivan"/>
+        <Key name="AbilitiesRaynor3">
+            <Value int="4"/>
         </Key>
-        <Key name="BossLogDifficulty18">
+        <Key name="BossLogDifficulty66">
             <Value string="Extreme"/>
+        </Key>
+        <Key name="BossLogOutcome64">
+            <Value int="0"/>
+        </Key>
+        <Key name="BossLogOutcome63">
+            <Value int="0"/>
+        </Key>
+        <Key name="BossLogOutcome62">
+            <Value int="1"/>
+        </Key>
+        <Key name="BossLogTooltip58">
+            <Value text="Damage&lt;n/&gt;&lt;c val=&quot;168000&quot;&gt;Maxmenace&lt;/c&gt; (Level 9 KerriganGhostLab): 4464 (&lt;c val=&quot;00FF00&quot;&gt;26&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;27&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;CCA6FC&quot;&gt;Drakyla&lt;/c&gt; (Level 5 Nova): 2147 (&lt;c val=&quot;00FF00&quot;&gt;12&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;14&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;1CA7EA&quot;&gt;LazeR&lt;/c&gt; (Level 10 Raynor): 7318 (&lt;c val=&quot;00FF00&quot;&gt;43&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;45&lt;/c&gt; DPS)&lt;n/&gt;&lt;c val=&quot;0042FF&quot;&gt;JIRKAROU&lt;/c&gt; (Level 6 TaurenSpaceMarine): 3237 (&lt;c val=&quot;00FF00&quot;&gt;19&lt;/c&gt;%) (&lt;c val=&quot;FF0000&quot;&gt;20&lt;/c&gt; DPS)"/>
+        </Key>
+        <Key name="BossLogTime57">
+            <Value int="230"/>
         </Key>
         <Key name="AbilitiesNova3">
             <Value int="4"/>
@@ -603,10 +786,16 @@
     </Section>
     <Section name="Combat">
         <Key name="Medkits">
-            <Value fixed="-20"/>
+            <Value fixed="0"/>
         </Key>
     </Section>
     <Section name="BossKills">
+        <Key name="AchievementPlace46">
+            <Value string="3 12"/>
+        </Key>
+        <Key name="AchievementPlace43">
+            <Value string="0 12"/>
+        </Key>
         <Key name="AchievementPlace27">
             <Value string="1 14"/>
         </Key>
@@ -616,10 +805,22 @@
         <Key name="1 2">
             <Value flag="1"/>
         </Key>
+        <Key name="AchievementPlace55">
+            <Value string="1 17"/>
+        </Key>
+        <Key name="4 4">
+            <Value flag="1"/>
+        </Key>
         <Key name="AchievementPlace34">
             <Value string="1 19"/>
         </Key>
         <Key name="1 15">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6 14">
+            <Value flag="1"/>
+        </Key>
+        <Key name="0 2">
             <Value flag="1"/>
         </Key>
         <Key name="0 15">
@@ -631,6 +832,9 @@
         <Key name="3 6">
             <Value flag="1"/>
         </Key>
+        <Key name="AchievementPlace41">
+            <Value string="3 7"/>
+        </Key>
         <Key name="4 11">
             <Value flag="1"/>
         </Key>
@@ -638,7 +842,7 @@
             <Value flag="1"/>
         </Key>
         <Key name="3 14">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="2 3">
             <Value flag="0"/>
@@ -662,7 +866,7 @@
             <Value string="0 3"/>
         </Key>
         <Key name="3 8">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="2 14">
             <Value flag="0"/>
@@ -670,14 +874,32 @@
         <Key name="1 8">
             <Value flag="1"/>
         </Key>
+        <Key name="AchievementPlace50">
+            <Value string="0 2"/>
+        </Key>
+        <Key name="0 11">
+            <Value flag="1"/>
+        </Key>
         <Key name="1 6">
             <Value flag="0"/>
+        </Key>
+        <Key name="4 5">
+            <Value flag="1"/>
+        </Key>
+        <Key name="AchievementPlace40">
+            <Value string="0 4"/>
         </Key>
         <Key name="AchievementPlace3">
             <Value string="0 13"/>
         </Key>
         <Key name="1 9">
             <Value flag="1"/>
+        </Key>
+        <Key name="AchievementPlace62">
+            <Value string="5 11"/>
+        </Key>
+        <Key name="AchievementPlace42">
+            <Value string="3 8"/>
         </Key>
         <Key name="3 32">
             <Value flag="1"/>
@@ -687,6 +909,9 @@
         </Key>
         <Key name="AchievementPlace9">
             <Value string="1 3"/>
+        </Key>
+        <Key name="0 5">
+            <Value flag="1"/>
         </Key>
         <Key name="0 7">
             <Value flag="1"/>
@@ -703,6 +928,9 @@
         <Key name="2 6">
             <Value flag="0"/>
         </Key>
+        <Key name="5 11">
+            <Value flag="1"/>
+        </Key>
         <Key name="4 7">
             <Value flag="1"/>
         </Key>
@@ -710,10 +938,13 @@
             <Value flag="1"/>
         </Key>
         <Key name="3 5">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="2 7">
             <Value flag="0"/>
+        </Key>
+        <Key name="AchievementPlace39">
+            <Value string="3 5"/>
         </Key>
         <Key name="3 19">
             <Value flag="1"/>
@@ -739,14 +970,17 @@
         <Key name="2 5">
             <Value flag="0"/>
         </Key>
+        <Key name="0 21">
+            <Value flag="1"/>
+        </Key>
         <Key name="AchievementPlace5">
             <Value string="0 15"/>
         </Key>
         <Key name="3 7">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="3 2">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="2 4">
             <Value flag="0"/>
@@ -756,6 +990,15 @@
         </Key>
         <Key name="0 18">
             <Value flag="1"/>
+        </Key>
+        <Key name="1 17">
+            <Value flag="1"/>
+        </Key>
+        <Key name="AchievementPlace51">
+            <Value string="5 14"/>
+        </Key>
+        <Key name="AchievementPlace45">
+            <Value string="0 21"/>
         </Key>
         <Key name="AchievementPlace24">
             <Value string="4 1"/>
@@ -782,13 +1025,28 @@
             <Value flag="0"/>
         </Key>
         <Key name="2 2">
-            <Value flag="0"/>
+            <Value flag="1"/>
+        </Key>
+        <Key name="4 3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="AchievementPlace38">
+            <Value string="2 2"/>
         </Key>
         <Key name="AchievementPlace10">
             <Value string="1 5"/>
         </Key>
+        <Key name="AchievementPlace59">
+            <Value string="0 19"/>
+        </Key>
+        <Key name="AchievementPlace48">
+            <Value string="4 4"/>
+        </Key>
         <Key name="AchievementPlace16">
             <Value string="0 20"/>
+        </Key>
+        <Key name="AchievementPlace60">
+            <Value string="4 5"/>
         </Key>
         <Key name="1 31">
             <Value flag="1"/>
@@ -797,7 +1055,7 @@
             <Value flag="0"/>
         </Key>
         <Key name="3 12">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="1 10">
             <Value flag="1"/>
@@ -810,6 +1068,15 @@
         </Key>
         <Key name="1 3">
             <Value flag="1"/>
+        </Key>
+        <Key name="AchievementPlace61">
+            <Value string="0 5"/>
+        </Key>
+        <Key name="AchievementPlace49">
+            <Value string="3 4"/>
+        </Key>
+        <Key name="AchievementPlace44">
+            <Value string="3 10"/>
         </Key>
         <Key name="AchievementPlace35">
             <Value string="3 19"/>
@@ -826,6 +1093,12 @@
         <Key name="1 1">
             <Value flag="1"/>
         </Key>
+        <Key name="0 16">
+            <Value flag="1"/>
+        </Key>
+        <Key name="AchievementPlace56">
+            <Value string="4 3"/>
+        </Key>
         <Key name="AchievementPlace20">
             <Value string="0 7"/>
         </Key>
@@ -836,7 +1109,10 @@
             <Value flag="1"/>
         </Key>
         <Key name="3 15">
-            <Value flag="0"/>
+            <Value flag="1"/>
+        </Key>
+        <Key name="0 4">
+            <Value flag="1"/>
         </Key>
         <Key name="1 13">
             <Value flag="0"/>
@@ -856,6 +1132,18 @@
         <Key name="2 9">
             <Value flag="0"/>
         </Key>
+        <Key name="AchievementPlace53">
+            <Value string="3 14"/>
+        </Key>
+        <Key name="AchievementPlace52">
+            <Value string="6 14"/>
+        </Key>
+        <Key name="5 14">
+            <Value flag="1"/>
+        </Key>
+        <Key name="0 12">
+            <Value flag="1"/>
+        </Key>
         <Key name="AchievementPlace18">
             <Value string="1 9"/>
         </Key>
@@ -874,6 +1162,12 @@
         <Key name="AchievementPlace25">
             <Value string="3 1"/>
         </Key>
+        <Key name="0 19">
+            <Value flag="1"/>
+        </Key>
+        <Key name="AchievementPlace58">
+            <Value string="3 2"/>
+        </Key>
         <Key name="AchievementPlace33">
             <Value string="1 16"/>
         </Key>
@@ -881,10 +1175,16 @@
             <Value flag="1"/>
         </Key>
         <Key name="3 10">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="3 3">
-            <Value flag="0"/>
+            <Value flag="1"/>
+        </Key>
+        <Key name="AchievementPlace57">
+            <Value string="0 16"/>
+        </Key>
+        <Key name="AchievementPlace47">
+            <Value string="3 3"/>
         </Key>
         <Key name="1 16">
             <Value flag="1"/>
@@ -898,21 +1198,27 @@
         <Key name="AchievementPlace2">
             <Value string="1 1"/>
         </Key>
+        <Key name="AchievementPlace37">
+            <Value string="0 11"/>
+        </Key>
         <Key name="2 11">
             <Value flag="0"/>
         </Key>
         <Key name="1 4">
             <Value flag="1"/>
         </Key>
+        <Key name="AchievementPlace54">
+            <Value string="3 15"/>
+        </Key>
         <Key name="AchievementPlace4">
             <Value string="1 2"/>
         </Key>
         <Key name="3 4">
-            <Value flag="0"/>
+            <Value flag="1"/>
         </Key>
         <Key name="2 15">
             <Value flag="0"/>
         </Key>
     </Section>
-    <Signature value="703ED21B73D4DFFAD1AE0E396729BC99E7A68CBB"/>
+    <Signature value="031D5FCEADBD3136EA1A54DF522F4BE881126A1B"/>
 </Bank>

@@ -1,0 +1,55 @@
+﻿GFX  02:45:22.900 ====================================================================================================
+GFX  02:45:22.900 StarCraft II (B74071)
+GFX  02:45:22.900 
+GFX  02:45:22.900 Executable              M:\Games\StarCraft II\Versions\Base74071\SC2_x64.exe
+GFX  02:45:22.900 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  02:45:22.900 Parent Executable       \Device\HarddiskVolume8\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  02:45:22.900 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  02:45:22.900 LocalTime               2019-05-28 02:45:22.901
+GFX  02:45:22.900 <ComputerUser>          Ivan
+GFX  02:45:22.900 <ComputerName>          DESKTOP-DSNC292
+GFX  02:45:22.900 <Exe.Architecture>      x86_64
+GFX  02:45:22.900 <Version>               4.9.0.74071
+GFX  02:45:22.900 <DataBuild>             B74071
+GFX  02:45:22.900 <CodeBranch>            branches/SC2.4.9
+GFX  02:45:22.900 <CodeRevision>          589345
+GFX  02:45:22.900 <Locale.Assets>         enUS
+GFX  02:45:22.900 <Locale.Data>           enUS
+GFX  02:45:22.900 <Locale.Install>        enUS
+GFX  02:45:22.900 <AccountCountry>        UKR
+GFX  02:45:22.900 <AgentVersion>          2.17.2.6700
+GFX  02:45:22.900 ====================================================================================================
+GFX  02:45:22.899 DXGI: Available
+GFX  02:45:23.060 Resource Cache Override Variable: 0MB
+GFX  02:45:23.060 Resource Cache: 2048MB Win64 (16292MB Physical, 8834MB Process Virtual)
+GFX  02:45:23.060 Resource Cache Sound:  204MB 
+GFX  02:45:23.060 Resource Cache Common: 1843MB 
+GFX  02:45:23.060 Resource Cache VRam:   0MB
+GFX  02:45:23.086 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  02:45:23.086 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  02:45:23.086 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  02:45:24.543 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  02:45:24.543 CreateDevice succeeded
+GFX  02:45:24.543 Using adapter [0]
+GFX  02:45:24.543 Floating point render targets supported.
+GFX  02:45:24.550 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  02:45:24.550 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  02:45:24.550 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  02:45:24.550 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  02:45:24.576 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  02:45:24.576 Hardware Depth Sampling: Available
+GFX  02:45:24.582 Expanded VRAM to 512MB for Intel GPU
+GFX  02:45:24.582 VRAM texture space: 384MB
+GFX  02:45:27.698 PerfNotifiers initialized
+GFX  02:45:27.806 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  02:45:27.806 Lost D3D9 device
+GFX  02:45:29.255 
+GFX  02:45:29.255 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  02:49:34.348 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_glue_listboxframe_terran.dds
+GFX  02:49:34.844 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\icon-health-nobg.dds
+GFX  02:49:50.195 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\lensflare_generic_03_paleyellow.dds
+GFX  02:49:58.402 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\stunswirl1_orange.dds
+GFX  02:50:11.716 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_glue_listboxframe_zerg.dds
+GFX  03:10:45.887 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\ui_battlenet_glue_listboxframe.dds
+GFX  03:52:34.889 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\lensflare_generic_01_grey.dds
+GFX  04:35:40.278 Lost D3D9 device

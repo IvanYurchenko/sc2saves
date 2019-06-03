@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Six">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Stash">
+        <Key name="2-S2-2-878308">
+            <Type string="Stash"/>
+            <Shields fixed="0"/>
+            <Life fixed="100"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+    </Section>
+    <Section name="Four">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Three">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="One">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Two">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Five">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="A13C94DDB6834B7552F4A6875516A09A04C8F8B3"/>
+</Bank>

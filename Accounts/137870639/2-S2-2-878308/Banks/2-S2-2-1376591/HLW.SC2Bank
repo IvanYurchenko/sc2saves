@@ -2,11 +2,11 @@
 <Bank version="1">
     <Section name="Player">
         <Key name="Points">
-            <Value int="112064"/>
+            <Value int="111804"/>
         </Key>
         <Key name="Games">
-            <Value int="1"/>
+            <Value int="3"/>
         </Key>
     </Section>
-    <Signature value="9AD7105A4EBF73BE9A937D5D900E84D8E99B884D"/>
+    <Signature value="8426B1E5A834914F650F50F9078CA818DC947E09"/>
 </Bank>

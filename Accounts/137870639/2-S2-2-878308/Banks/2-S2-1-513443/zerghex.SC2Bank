@@ -2,21 +2,21 @@
 <Bank version="1">
     <Section name="signatures">
         <Key name="signature1">
-            <Value string="ATNINIEBBEBMIRINEB"/>
+            <Value string="CLXCZWZGXCLCCXWZGZ"/>
         </Key>
     </Section>
     <Section name="stats_player">
         <Key name="wins_zerg">
-            <Value int="10"/>
-        </Key>
-        <Key name="games_zerg">
-            <Value int="18"/>
-        </Key>
-        <Key name="wins_terran">
             <Value int="11"/>
         </Key>
+        <Key name="games_zerg">
+            <Value int="20"/>
+        </Key>
+        <Key name="wins_terran">
+            <Value int="14"/>
+        </Key>
         <Key name="games_terran">
-            <Value int="22"/>
+            <Value int="27"/>
         </Key>
     </Section>
 </Bank>

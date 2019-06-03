@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Fire Dragon">
+        <Key name="1">
+            <Value string="000000000000000000000000000000000000000000000000000000"/>
+        </Key>
+    </Section>
+    <Section name="Fire DragonPoints">
+        <Key name="1">
+            <Value int="30"/>
+        </Key>
+    </Section>
+    <Signature value="76A1FDAD067B2443A9DB7B138A88A945F0CA5AA5"/>
+</Bank>

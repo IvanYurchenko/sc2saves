@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Ranks">
+        <Key name="Rank">
+            <Value string="Beginner"/>
+        </Key>
+    </Section>
+    <Section name="Wins">
+        <Key name="HellWins">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Stats">
+        <Key name="TotalKills">
+            <Value int="1"/>
+        </Key>
+        <Key name="MediumWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="Score">
+            <Value int="0"/>
+        </Key>
+        <Key name="HardWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="EasyWins">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

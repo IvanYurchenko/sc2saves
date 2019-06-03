@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="1">
+        <Key name="WLHistory3">
+            <Value int="0"/>
+        </Key>
+        <Key name="FastestConvoyDone">
+            <Value fixed="60000"/>
+        </Key>
+        <Key name="WLHistory2">
+            <Value int="0"/>
+        </Key>
+        <Key name="WWZombiePlayed">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="WLHistory5">
+            <Value int="0"/>
+        </Key>
+        <Key name="WWHumanLoses">
+            <Value int="1"/>
+        </Key>
+        <Key name="WLHistory1">
+            <Value int="0"/>
+        </Key>
+        <Key name="WWZombieWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="WWHumanPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="HumanPlayed">
+            <Value int="1"/>
+        </Key>
+        <Key name="WWHumanWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="FastestConvoySeen">
+            <Value fixed="60000"/>
+        </Key>
+        <Key name="WWZombieLoses">
+            <Value int="0"/>
+        </Key>
+        <Key name="ZombieWins">
+            <Value int="0"/>
+        </Key>
+        <Key name="HumanSkin">
+            <Value int="0"/>
+        </Key>
+        <Key name="EterVersion">
+            <Value int="1"/>
+        </Key>
+        <Key name="ZombieLoses">
+            <Value int="0"/>
+        </Key>
+        <Key name="ZombiePlayed">
+            <Value int="0"/>
+        </Key>
+        <Key name="WLHistory4">
+            <Value int="0"/>
+        </Key>
+        <Key name="WLHistory6">
+            <Value int="0"/>
+        </Key>
+        <Key name="NickName">
+            <Value string="Marine"/>
+        </Key>
+        <Key name="ViralTracker">
+            <Value flag="1"/>
+        </Key>
+        <Key name="HumanLoses">
+            <Value int="1"/>
+        </Key>
+        <Key name="HumanWins">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="3B29F534B2AB1CA3A13B2C2019A75FBAC310CCB4"/>
+</Bank>

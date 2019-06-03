@@ -1,5 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bank version="1">
+    <Section name="LordaeronStrike">
+        <Key name="lllIlIIIllllllll">
+            <Value int="52982455"/>
+        </Key>
+        <Key name="lIlllIlIlllIllIl">
+            <Value int="49822207"/>
+        </Key>
+        <Key name="lllIIIllllIIIIII">
+            <Value int="56514283"/>
+        </Key>
+        <Key name="lIlIIIIlllIlIlll">
+            <Value int="63622767"/>
+        </Key>
+        <Key name="lIIIIIllIIlIlIII">
+            <Value int="46873385"/>
+        </Key>
+        <Key name="IlIllIlIlllllllI">
+            <Value int="41431580"/>
+        </Key>
+        <Key name="IlllIlIllllIllII">
+            <Value int="51491157"/>
+        </Key>
+        <Key name="IlllIIlIIllIlIII">
+            <Value int="61832108"/>
+        </Key>
+        <Key name="IIlIlllIIlllllll">
+            <Value int="34669946"/>
+        </Key>
+        <Key name="lIlIllIIIIIlllIl">
+            <Value int="74612102"/>
+        </Key>
+        <Key name="lIllIIlllIIlIllI">
+            <Value int="63226686"/>
+        </Key>
+        <Key name="llllIIlIlIIlIIII">
+            <Value int="58859550"/>
+        </Key>
+        <Key name="lIIIIIIIIllllIIl">
+            <Value int="54611525"/>
+        </Key>
+        <Key name="IllIllllIIllIlIl">
+            <Value int="40202676"/>
+        </Key>
+        <Key name="IlIIlIIllIlIIIll">
+            <Value int="66283522"/>
+        </Key>
+        <Key name="lllIIlllIIIIIlII">
+            <Value int="76402761"/>
+        </Key>
+        <Key name="llllIIlIllIIIlII">
+            <Value int="62329985"/>
+        </Key>
+        <Key name="IIllIlIIlIIllIII">
+            <Value int="54777757"/>
+        </Key>
+        <Key name="llIIllIllIIlIllI">
+            <Value int="45939560"/>
+        </Key>
+        <Key name="lllllIllIIlIllll">
+            <Value int="43734295"/>
+        </Key>
+        <Key name="lIlIIlllIlIllIll">
+            <Value int="53503531"/>
+        </Key>
+        <Key name="IIIIIlIllllIlIll">
+            <Value int="41997763"/>
+        </Key>
+        <Key name="llIIIlIlIIllllIl">
+            <Value int="68504348"/>
+        </Key>
+        <Key name="IIllllllllIlllII">
+            <Value int="49549991"/>
+        </Key>
+        <Key name="lIIIlIIlIllIllIl">
+            <Value int="54206485"/>
+        </Key>
+        <Key name="lIlIIlIIIllIllIl">
+            <Value int="53555151"/>
+        </Key>
+        <Key name="IIllllIlllllIlII">
+            <Value int="34093391"/>
+        </Key>
+        <Key name="llIIIlllIlllIIII">
+            <Value int="66346037"/>
+        </Key>
+        <Key name="llIllllllllllllI">
+            <Value int="38711160"/>
+        </Key>
+        <Key name="IllllIllllIlIlII">
+            <Value int="36580984"/>
+        </Key>
+        <Key name="IIIIIlllIIIlllIl">
+            <Value int="55725601"/>
+        </Key>
+        <Key name="lIlIIlIIllIIlllI">
+            <Value int="53565828"/>
+        </Key>
+        <Key name="IIlIIllIllllIIll">
+            <Value int="37036151"/>
+        </Key>
+        <Key name="lIIlIIIlIIIIIllI">
+            <Value int="47449946"/>
+        </Key>
+        <Key name="IllIIlIIlIllIIIl">
+            <Value int="46078309"/>
+        </Key>
+        <Key name="lIlIIIIllllllIll">
+            <Value int="67396608"/>
+        </Key>
+        <Key name="IlIlIIlllIllllIl">
+            <Value int="63764255"/>
+        </Key>
+        <Key name="lIlllllIIIlIlIIl">
+            <Value int="58719583"/>
+        </Key>
+        <Key name="IIIIllllIIllllll">
+            <Value int="50446721"/>
+        </Key>
+        <Key name="IIIlIIlIIlllllII">
+            <Value int="50990323"/>
+        </Key>
+        <Key name="lIlIlllllIIIlllI">
+            <Value int="40775157"/>
+        </Key>
+        <Key name="lllIlllIIlIlIlll">
+            <Value int="23800990"/>
+        </Key>
+    </Section>
     <Section name="Settings">
         <Key name="BlacklistZagara">
             <Value int="0"/>
@@ -38,7 +166,7 @@
             <Value int="0"/>
         </Key>
         <Key name="PlayerHighestLevel">
-            <Value int="113"/>
+            <Value int="124"/>
         </Key>
         <Key name="BlacklistVorazun">
             <Value int="0"/>
@@ -52,643 +180,643 @@
     </Section>
     <Section name="TyasZergDefense">
         <Key name="lllIlIIIllllllll">
-            <Value int="47125891"/>
+            <Value int="46790357"/>
         </Key>
         <Key name="lIlllIlIlllIllIl">
-            <Value int="67645430"/>
+            <Value int="47758588"/>
         </Key>
         <Key name="lllIIIllllIIIIII">
-            <Value int="61620227"/>
+            <Value int="40053348"/>
         </Key>
         <Key name="lIlIIIIlllIlIlll">
-            <Value int="59762988"/>
+            <Value int="45282278"/>
         </Key>
         <Key name="lIIIIIllIIlIlIII">
-            <Value int="45348888"/>
+            <Value int="59328713"/>
         </Key>
         <Key name="IlIllIlIlllllllI">
-            <Value int="33862289"/>
+            <Value int="48458854"/>
         </Key>
         <Key name="IlllIlIllllIllII">
-            <Value int="56396897"/>
+            <Value int="33345545"/>
         </Key>
         <Key name="IlllIIlIIllIlIII">
-            <Value int="30994315"/>
+            <Value int="60622655"/>
         </Key>
         <Key name="IIlIlllIIlllllll">
-            <Value int="60457469"/>
+            <Value int="65383626"/>
         </Key>
         <Key name="lIlIllIIIIIlllIl">
-            <Value int="43911025"/>
+            <Value int="46774498"/>
         </Key>
         <Key name="lIllIIlllIIlIllI">
-            <Value int="47429985"/>
+            <Value int="44826448"/>
         </Key>
         <Key name="llllIIlIlIIlIIII">
-            <Value int="71718571"/>
+            <Value int="60251531"/>
         </Key>
         <Key name="lIIIIIIIIllllIIl">
-            <Value int="53857479"/>
+            <Value int="51653959"/>
         </Key>
         <Key name="IllIllllIIllIlIl">
-            <Value int="34209251"/>
+            <Value int="60638584"/>
         </Key>
         <Key name="IlIIlIIllIlIIIll">
-            <Value int="49709389"/>
+            <Value int="44872486"/>
         </Key>
         <Key name="lllIIlllIIIIIlII">
-            <Value int="72679698"/>
+            <Value int="31434121"/>
         </Key>
         <Key name="llllIIlIllIIIlII">
-            <Value int="69592129"/>
+            <Value int="53066876"/>
         </Key>
         <Key name="IIllIlIIlIIllIII">
-            <Value int="56073083"/>
+            <Value int="41934220"/>
         </Key>
         <Key name="llIIllIllIIlIllI">
-            <Value int="58521926"/>
+            <Value int="64987821"/>
         </Key>
         <Key name="lllllIllIIlIllll">
-            <Value int="48703525"/>
+            <Value int="53901514"/>
         </Key>
         <Key name="lIlIIlllIlIllIll">
-            <Value int="36792682"/>
+            <Value int="58720646"/>
         </Key>
         <Key name="IIIIIlIllllIlIll">
-            <Value int="43156373"/>
+            <Value int="55782377"/>
         </Key>
         <Key name="llIIIlIlIIllllIl">
-            <Value int="52989324"/>
+            <Value int="60031218"/>
         </Key>
         <Key name="IIllllllllIlllII">
-            <Value int="56675419"/>
+            <Value int="66915033"/>
         </Key>
         <Key name="lIIIlIIlIllIllIl">
-            <Value int="46778892"/>
+            <Value int="34610590"/>
         </Key>
         <Key name="lIlIIlIIIllIllIl">
-            <Value int="56253960"/>
+            <Value int="60142878"/>
         </Key>
         <Key name="IIllllIlllllIlII">
-            <Value int="32432178"/>
+            <Value int="73176870"/>
         </Key>
         <Key name="llIIIlllIlllIIII">
-            <Value int="53010868"/>
+            <Value int="45984086"/>
         </Key>
         <Key name="llIllllllllllllI">
-            <Value int="43480184"/>
+            <Value int="47193699"/>
         </Key>
         <Key name="IllllIllllIlIlII">
-            <Value int="33538005"/>
+            <Value int="20821688"/>
         </Key>
         <Key name="IIIIIlllIIIlllIl">
-            <Value int="40074004"/>
+            <Value int="73880765"/>
         </Key>
         <Key name="lIlIIlIIllIIlllI">
-            <Value int="40094088"/>
+            <Value int="59832173"/>
         </Key>
         <Key name="IIlIIllIllllIIll">
-            <Value int="54707680"/>
+            <Value int="61585705"/>
         </Key>
         <Key name="lIIlIIIlIIIIIllI">
-            <Value int="73374187"/>
+            <Value int="51535478"/>
         </Key>
         <Key name="IllIIlIIlIllIIIl">
-            <Value int="58800471"/>
+            <Value int="74098298"/>
         </Key>
         <Key name="lIlIIIIllllllIll">
-            <Value int="66774296"/>
+            <Value int="37805909"/>
         </Key>
         <Key name="IlIlIIlllIllllIl">
-            <Value int="47388291"/>
+            <Value int="47645143"/>
         </Key>
         <Key name="lIlllllIIIlIlIIl">
-            <Value int="71446286"/>
+            <Value int="51147314"/>
         </Key>
         <Key name="IIIIllllIIllllll">
-            <Value int="34520925"/>
+            <Value int="58682255"/>
         </Key>
         <Key name="IIIlIIlIIlllllII">
-            <Value int="34492621"/>
+            <Value int="61514340"/>
         </Key>
         <Key name="lIlIlllllIIIlllI">
-            <Value int="43337250"/>
+            <Value int="73991035"/>
         </Key>
         <Key name="lllIlllIIlIlIlll">
-            <Value int="20621295"/>
+            <Value int="34669845"/>
         </Key>
     </Section>
     <Section name="HeroLineWar">
         <Key name="lllIlIIIllllllll">
-            <Value int="74075796"/>
+            <Value int="37221849"/>
         </Key>
         <Key name="lIlllIlIlllIllIl">
-            <Value int="71396071"/>
+            <Value int="29101733"/>
         </Key>
         <Key name="lllIIIllllIIIIII">
-            <Value int="58284602"/>
+            <Value int="46951365"/>
         </Key>
         <Key name="lIlIIIIlllIlIlll">
-            <Value int="47046890"/>
+            <Value int="30033903"/>
         </Key>
         <Key name="lIIIIIllIIlIlIII">
-            <Value int="50150863"/>
+            <Value int="51947569"/>
         </Key>
         <Key name="IlIllIlIlllllllI">
-            <Value int="57320811"/>
+            <Value int="51315324"/>
         </Key>
         <Key name="IlllIlIllllIllII">
-            <Value int="56068197"/>
+            <Value int="34643011"/>
         </Key>
         <Key name="IlllIIlIIllIlIII">
-            <Value int="44704943"/>
+            <Value int="26600234"/>
         </Key>
         <Key name="IIlIlllIIlllllll">
-            <Value int="54559291"/>
+            <Value int="50771410"/>
         </Key>
         <Key name="lIlIllIIIIIlllIl">
-            <Value int="55708281"/>
+            <Value int="28006760"/>
         </Key>
         <Key name="lIllIIlllIIlIllI">
-            <Value int="52540012"/>
+            <Value int="35690071"/>
         </Key>
         <Key name="llllIIlIlIIlIIII">
-            <Value int="47104855"/>
+            <Value int="37402435"/>
         </Key>
         <Key name="lIIIIIIIIllllIIl">
-            <Value int="38308391"/>
+            <Value int="44037169"/>
         </Key>
         <Key name="IllIllllIIllIlIl">
-            <Value int="63120052"/>
+            <Value int="35886259"/>
         </Key>
         <Key name="IlIIlIIllIlIIIll">
-            <Value int="58057194"/>
+            <Value int="28154515"/>
         </Key>
         <Key name="lllIIlllIIIIIlII">
-            <Value int="57911111"/>
+            <Value int="31229615"/>
         </Key>
         <Key name="llllIIlIllIIIlII">
-            <Value int="51874118"/>
+            <Value int="44467892"/>
         </Key>
         <Key name="IIllIlIIlIIllIII">
-            <Value int="67494350"/>
+            <Value int="40127168"/>
         </Key>
         <Key name="llIIllIllIIlIllI">
-            <Value int="61431422"/>
+            <Value int="48312053"/>
         </Key>
         <Key name="lllllIllIIlIllll">
-            <Value int="47281294"/>
+            <Value int="45544880"/>
         </Key>
         <Key name="lIlIIlllIlIllIll">
-            <Value int="47053871"/>
+            <Value int="26748015"/>
         </Key>
         <Key name="IIIIIlIllllIlIll">
-            <Value int="56491012"/>
+            <Value int="38720642"/>
         </Key>
         <Key name="llIIIlIlIIllllIl">
-            <Value int="66545347"/>
+            <Value int="24427425"/>
         </Key>
         <Key name="IIllllllllIlllII">
-            <Value int="40870780"/>
+            <Value int="43061366"/>
         </Key>
         <Key name="lIIIlIIlIllIllIl">
-            <Value int="68323113"/>
+            <Value int="52720532"/>
         </Key>
         <Key name="lIlIIlIIIllIllIl">
-            <Value int="47702327"/>
+            <Value int="52840630"/>
         </Key>
         <Key name="IIllllIlllllIlII">
-            <Value int="39147525"/>
+            <Value int="50541043"/>
         </Key>
         <Key name="llIIIlllIlllIIII">
-            <Value int="58920762"/>
+            <Value int="35392738"/>
         </Key>
         <Key name="llIllllllllllllI">
-            <Value int="45064844"/>
+            <Value int="33236459"/>
         </Key>
         <Key name="IllllIllllIlIlII">
-            <Value int="35590137"/>
+            <Value int="13176396"/>
         </Key>
         <Key name="IIIIIlllIIIlllIl">
-            <Value int="55542393"/>
+            <Value int="23021283"/>
         </Key>
         <Key name="lIlIIlIIllIIlllI">
-            <Value int="47869830"/>
+            <Value int="33915276"/>
         </Key>
         <Key name="IIlIIllIllllIIll">
-            <Value int="60348802"/>
+            <Value int="27626260"/>
         </Key>
         <Key name="lIIlIIIlIIIIIllI">
-            <Value int="65562659"/>
+            <Value int="52177977"/>
         </Key>
         <Key name="IllIIlIIlIllIIIl">
-            <Value int="36101133"/>
+            <Value int="35995525"/>
         </Key>
         <Key name="lIlIIIIllllllIll">
-            <Value int="49312765"/>
+            <Value int="45445013"/>
         </Key>
         <Key name="IlIlIIlllIllllIl">
-            <Value int="61341322"/>
+            <Value int="49448890"/>
         </Key>
         <Key name="lIlllllIIIlIlIIl">
-            <Value int="72434951"/>
+            <Value int="49718835"/>
         </Key>
         <Key name="IIIIllllIIllllll">
-            <Value int="41536865"/>
+            <Value int="34283801"/>
         </Key>
         <Key name="IIIlIIlIIlllllII">
-            <Value int="50381915"/>
+            <Value int="48111311"/>
         </Key>
         <Key name="lIlIlllllIIIlllI">
-            <Value int="36559872"/>
+            <Value int="51223290"/>
         </Key>
         <Key name="lllIlllIIlIlIlll">
-            <Value int="24586799"/>
+            <Value int="11769870"/>
         </Key>
     </Section>
     <Section name="IlIlIlIIllIIllII">
         <Key name="lllIlIIIllllllll">
-            <Value int="58256746"/>
+            <Value int="63272725"/>
         </Key>
         <Key name="lIlllIlIlllIllIl">
-            <Value int="64939808"/>
+            <Value int="42993591"/>
         </Key>
         <Key name="lllIIIllllIIIIII">
-            <Value int="53267239"/>
+            <Value int="71386095"/>
         </Key>
         <Key name="lIlIIIIlllIlIlll">
-            <Value int="59205990"/>
+            <Value int="41828660"/>
         </Key>
         <Key name="lIIIIIllIIlIlIII">
-            <Value int="66866550"/>
+            <Value int="55254251"/>
         </Key>
         <Key name="IlIllIlIlllllllI">
-            <Value int="70425821"/>
+            <Value int="36734962"/>
         </Key>
         <Key name="IlllIlIllllIllII">
-            <Value int="65490483"/>
+            <Value int="55548859"/>
         </Key>
         <Key name="IlllIIlIIllIlIII">
-            <Value int="69277489"/>
+            <Value int="35976426"/>
         </Key>
         <Key name="IIlIlllIIlllllll">
-            <Value int="54302404"/>
+            <Value int="33556840"/>
         </Key>
         <Key name="lIlIllIIIIIlllIl">
-            <Value int="66932649"/>
+            <Value int="58112282"/>
         </Key>
         <Key name="lIllIIlllIIlIllI">
-            <Value int="64867523"/>
+            <Value int="63474895"/>
         </Key>
         <Key name="llllIIlIlIIlIIII">
-            <Value int="50536501"/>
+            <Value int="48871143"/>
         </Key>
         <Key name="lIIIIIIIIllllIIl">
-            <Value int="59793047"/>
+            <Value int="43345479"/>
         </Key>
         <Key name="IllIllllIIllIlIl">
-            <Value int="60601586"/>
+            <Value int="41136869"/>
         </Key>
         <Key name="IlIIlIIllIlIIIll">
-            <Value int="66261479"/>
+            <Value int="50763111"/>
         </Key>
         <Key name="lllIIlllIIIIIlII">
-            <Value int="56861150"/>
+            <Value int="63964516"/>
         </Key>
         <Key name="llllIIlIllIIIlII">
-            <Value int="68203768"/>
+            <Value int="70907503"/>
         </Key>
         <Key name="IIllIlIIlIIllIII">
-            <Value int="66506797"/>
+            <Value int="63269440"/>
         </Key>
         <Key name="llIIllIllIIlIllI">
-            <Value int="48460082"/>
+            <Value int="49002386"/>
         </Key>
         <Key name="lllllIllIIlIllll">
-            <Value int="55612079"/>
+            <Value int="49250239"/>
         </Key>
         <Key name="lIlIIlllIlIllIll">
-            <Value int="68606319"/>
+            <Value int="28627255"/>
         </Key>
         <Key name="IIIIIlIllllIlIll">
-            <Value int="68851637"/>
+            <Value int="41133584"/>
         </Key>
         <Key name="llIIIlIlIIllllIl">
-            <Value int="53990359"/>
+            <Value int="51941275"/>
         </Key>
         <Key name="IIllllllllIlllII">
-            <Value int="70548608"/>
+            <Value int="48771647"/>
         </Key>
         <Key name="lIIIlIIlIllIllIl">
-            <Value int="68080981"/>
+            <Value int="58870818"/>
         </Key>
         <Key name="lIlIIlIIIllIllIl">
-            <Value int="62431992"/>
+            <Value int="49605400"/>
         </Key>
         <Key name="IIllllIlllllIlII">
-            <Value int="69211390"/>
+            <Value int="33118395"/>
         </Key>
         <Key name="llIIIlllIlllIIII">
-            <Value int="58569864"/>
+            <Value int="43535439"/>
         </Key>
         <Key name="llIllllllllllllI">
-            <Value int="67835323"/>
+            <Value int="33413003"/>
         </Key>
         <Key name="IllllIllllIlIlII">
-            <Value int="35775102"/>
+            <Value int="32439743"/>
         </Key>
         <Key name="IIIIIlllIIIlllIl">
-            <Value int="56335199"/>
+            <Value int="29805419"/>
         </Key>
         <Key name="lIlIIlIIllIIlllI">
-            <Value int="60914704"/>
+            <Value int="21399583"/>
         </Key>
         <Key name="IIlIIllIllllIIll">
-            <Value int="67284648"/>
+            <Value int="20857735"/>
         </Key>
         <Key name="lIIlIIIlIIIIIllI">
-            <Value int="51957564"/>
+            <Value int="55692696"/>
         </Key>
         <Key name="IllIIlIIlIllIIIl">
-            <Value int="52881341"/>
+            <Value int="26735287"/>
         </Key>
         <Key name="lIlIIIIllllllIll">
-            <Value int="57448207"/>
+            <Value int="65481335"/>
         </Key>
         <Key name="IlIlIIlllIllllIl">
-            <Value int="51019539"/>
+            <Value int="70354143"/>
         </Key>
         <Key name="lIlllllIIIlIlIIl">
-            <Value int="46115242"/>
+            <Value int="71138242"/>
         </Key>
         <Key name="IIIIllllIIllllll">
-            <Value int="67212363"/>
+            <Value int="41339039"/>
         </Key>
         <Key name="IIIlIIlIIlllllII">
-            <Value int="53364379"/>
+            <Value int="48218287"/>
         </Key>
         <Key name="lIlIlllllIIIlllI">
-            <Value int="64776832"/>
+            <Value int="27469544"/>
         </Key>
         <Key name="lllIlllIIlIlIlll">
-            <Value int="38119942"/>
+            <Value int="10303887"/>
         </Key>
     </Section>
     <Section name="XHeroSiege">
         <Key name="lllIlIIIllllllll">
-            <Value int="57951335"/>
+            <Value int="47216738"/>
         </Key>
         <Key name="lIlllIlIlllIllIl">
-            <Value int="52394858"/>
+            <Value int="56265168"/>
         </Key>
         <Key name="lllIIIllllIIIIII">
-            <Value int="40000850"/>
+            <Value int="51024772"/>
         </Key>
         <Key name="lIlIIIIlllIlIlll">
-            <Value int="55909884"/>
+            <Value int="36350021"/>
         </Key>
         <Key name="lIIIIIllIIlIlIII">
-            <Value int="67049327"/>
+            <Value int="57731634"/>
         </Key>
         <Key name="IlIllIlIlllllllI">
-            <Value int="68685033"/>
+            <Value int="39168816"/>
         </Key>
         <Key name="IlllIlIllllIllII">
-            <Value int="64864361"/>
+            <Value int="30907414"/>
         </Key>
         <Key name="IlllIIlIIllIlIII">
-            <Value int="66479041"/>
+            <Value int="52364172"/>
         </Key>
         <Key name="IIlIlllIIlllllll">
-            <Value int="62108213"/>
+            <Value int="47174697"/>
         </Key>
         <Key name="lIlIllIIIIIlllIl">
-            <Value int="62856431"/>
+            <Value int="57828131"/>
         </Key>
         <Key name="lIllIIlllIIlIllI">
-            <Value int="56043367"/>
+            <Value int="53001887"/>
         </Key>
         <Key name="llllIIlIlIIlIIII">
-            <Value int="51287236"/>
+            <Value int="40616194"/>
         </Key>
         <Key name="lIIIIIIIIllllIIl">
-            <Value int="47164036"/>
+            <Value int="37760532"/>
         </Key>
         <Key name="IllIllllIIllIlIl">
-            <Value int="61573965"/>
+            <Value int="41752809"/>
         </Key>
         <Key name="IlIIlIIllIlIIIll">
-            <Value int="65167556"/>
+            <Value int="47642900"/>
         </Key>
         <Key name="lllIIlllIIIIIlII">
-            <Value int="52287274"/>
+            <Value int="41813980"/>
         </Key>
         <Key name="llllIIlIllIIIlII">
-            <Value int="40570340"/>
+            <Value int="56236390"/>
         </Key>
         <Key name="IIllIlIIlIIllIII">
-            <Value int="60892068"/>
+            <Value int="43643133"/>
         </Key>
         <Key name="llIIllIllIIlIllI">
-            <Value int="57017483"/>
+            <Value int="26811370"/>
         </Key>
         <Key name="lllllIllIIlIllll">
-            <Value int="43623471"/>
+            <Value int="45560825"/>
         </Key>
         <Key name="lIlIIlllIlIllIll">
-            <Value int="68790167"/>
+            <Value int="42178943"/>
         </Key>
         <Key name="IIIIIlIllllIlIll">
-            <Value int="64514678"/>
+            <Value int="38179174"/>
         </Key>
         <Key name="llIIIlIlIIllllIl">
-            <Value int="56137887"/>
+            <Value int="38880188"/>
         </Key>
         <Key name="IIllllllllIlllII">
-            <Value int="44192950"/>
+            <Value int="50772431"/>
         </Key>
         <Key name="lIIIlIIlIllIllIl">
-            <Value int="65062340"/>
+            <Value int="44632657"/>
         </Key>
         <Key name="lIlIIlIIIllIllIl">
-            <Value int="50171625"/>
+            <Value int="46519674"/>
         </Key>
         <Key name="IIllllIlllllIlII">
-            <Value int="70671937"/>
+            <Value int="52267675"/>
         </Key>
         <Key name="llIIIlllIlllIIII">
-            <Value int="53437906"/>
+            <Value int="54976270"/>
         </Key>
         <Key name="llIllllllllllllI">
-            <Value int="68486970"/>
+            <Value int="25443453"/>
         </Key>
         <Key name="IllllIllllIlIlII">
-            <Value int="29559197"/>
+            <Value int="18652812"/>
         </Key>
         <Key name="IIIIIlllIIIlllIl">
-            <Value int="59762660"/>
+            <Value int="33418392"/>
         </Key>
         <Key name="lIlIIlIIllIIlllI">
-            <Value int="57060496"/>
+            <Value int="49512281"/>
         </Key>
         <Key name="IIlIIllIllllIIll">
-            <Value int="56010729"/>
+            <Value int="50793680"/>
         </Key>
         <Key name="lIIlIIIlIIIIIllI">
-            <Value int="58485614"/>
+            <Value int="52638668"/>
         </Key>
         <Key name="IllIIlIIlIllIIIl">
-            <Value int="54907683"/>
+            <Value int="35150072"/>
         </Key>
         <Key name="lIlIIIIllllllIll">
-            <Value int="43541509"/>
+            <Value int="43224609"/>
         </Key>
         <Key name="IlIlIIlllIllllIl">
-            <Value int="51748773"/>
+            <Value int="52281501"/>
         </Key>
         <Key name="lIlllllIIIlIlIIl">
-            <Value int="53394919"/>
+            <Value int="32275389"/>
         </Key>
         <Key name="IIIIllllIIllllll">
-            <Value int="59666023"/>
+            <Value int="47537988"/>
         </Key>
         <Key name="IIIlIIlIIlllllII">
-            <Value int="55378122"/>
+            <Value int="46825071"/>
         </Key>
         <Key name="lIlIlllllIIIlllI">
-            <Value int="53794235"/>
+            <Value int="41055715"/>
         </Key>
         <Key name="lllIlllIIlIlIlll">
-            <Value int="33181807"/>
+            <Value int="13188853"/>
         </Key>
     </Section>
     <Section name="llIlIIlIlIIIIllI">
         <Key name="lllIlIIIllllllll">
-            <Value int="56295544"/>
+            <Value int="57420276"/>
         </Key>
         <Key name="lIlllIlIlllIllIl">
-            <Value int="56295951"/>
+            <Value int="51760983"/>
         </Key>
         <Key name="lllIIIllllIIIIII">
-            <Value int="41186285"/>
+            <Value int="34736763"/>
         </Key>
         <Key name="lIlIIIIlllIlIlll">
-            <Value int="52264176"/>
+            <Value int="76585547"/>
         </Key>
         <Key name="lIIIIIllIIlIlIII">
-            <Value int="51520359"/>
+            <Value int="48911316"/>
         </Key>
         <Key name="IlIllIlIlllllllI">
-            <Value int="51336021"/>
+            <Value int="53941587"/>
         </Key>
         <Key name="IlllIlIllllIllII">
-            <Value int="56914004"/>
+            <Value int="63099324"/>
         </Key>
         <Key name="IlllIIlIIllIlIII">
-            <Value int="38353793"/>
+            <Value int="62520768"/>
         </Key>
         <Key name="IIlIlllIIlllllll">
-            <Value int="29730325"/>
+            <Value int="58028196"/>
         </Key>
         <Key name="lIlIllIIIIIlllIl">
-            <Value int="42192337"/>
+            <Value int="47785638"/>
         </Key>
         <Key name="lIllIIlllIIlIllI">
-            <Value int="43984167"/>
+            <Value int="45599094"/>
         </Key>
         <Key name="llllIIlIlIIlIIII">
-            <Value int="61081539"/>
+            <Value int="49910049"/>
         </Key>
         <Key name="lIIIIIIIIllllIIl">
-            <Value int="41368722"/>
+            <Value int="67307113"/>
         </Key>
         <Key name="IllIllllIIllIlIl">
-            <Value int="52457000"/>
+            <Value int="72155406"/>
         </Key>
         <Key name="IlIIlIIllIlIIIll">
-            <Value int="59499710"/>
+            <Value int="49920581"/>
         </Key>
         <Key name="lllIIlllIIIIIlII">
-            <Value int="56102719"/>
+            <Value int="61850416"/>
         </Key>
         <Key name="llllIIlIllIIIlII">
-            <Value int="49486815"/>
+            <Value int="54638805"/>
         </Key>
         <Key name="IIllIlIIlIIllIII">
-            <Value int="45215828"/>
+            <Value int="49438572"/>
         </Key>
         <Key name="llIIllIllIIlIllI">
-            <Value int="28384563"/>
+            <Value int="72537502"/>
         </Key>
         <Key name="lllllIllIIlIllll">
-            <Value int="37347743"/>
+            <Value int="49471895"/>
         </Key>
         <Key name="lIlIIlllIlIllIll">
-            <Value int="55661169"/>
+            <Value int="64655714"/>
         </Key>
         <Key name="IIIIIlIllllIlIll">
-            <Value int="41377284"/>
+            <Value int="64173702"/>
         </Key>
         <Key name="llIIIlIlIIllllIl">
-            <Value int="60189578"/>
+            <Value int="49479677"/>
         </Key>
         <Key name="IIllllllllIlllII">
-            <Value int="45648271"/>
+            <Value int="69373935"/>
         </Key>
         <Key name="lIIIlIIlIllIllIl">
-            <Value int="55174565"/>
+            <Value int="39206457"/>
         </Key>
         <Key name="lIlIIlIIIllIllIl">
-            <Value int="32062469"/>
+            <Value int="61532299"/>
         </Key>
         <Key name="IIllllIlllllIlII">
-            <Value int="47681815"/>
+            <Value int="63646446"/>
         </Key>
         <Key name="llIIIlllIlllIIII">
-            <Value int="47217146"/>
+            <Value int="55807938"/>
         </Key>
         <Key name="llIllllllllllllI">
-            <Value int="53075457"/>
+            <Value int="77834451"/>
         </Key>
         <Key name="IllllIllllIlIlII">
-            <Value int="21817441"/>
+            <Value int="23245110"/>
         </Key>
         <Key name="IIIIIlllIIIlllIl">
-            <Value int="56351034"/>
+            <Value int="64214807"/>
         </Key>
         <Key name="lIlIIlIIllIIlllI">
-            <Value int="43378602"/>
+            <Value int="70543068"/>
         </Key>
         <Key name="IIlIIllIllllIIll">
-            <Value int="52457407"/>
+            <Value int="66496113"/>
         </Key>
         <Key name="lIIlIIIlIIIIIllI">
-            <Value int="33568871"/>
+            <Value int="43293068"/>
         </Key>
         <Key name="IllIIlIIlIllIIIl">
-            <Value int="57242995"/>
+            <Value int="64645179"/>
         </Key>
         <Key name="lIlIIIIllllllIll">
-            <Value int="45207266"/>
+            <Value int="52571983"/>
         </Key>
         <Key name="IlIlIIlllIllllIl">
-            <Value int="54862930"/>
+            <Value int="48859150"/>
         </Key>
         <Key name="lIlllllIIIlIlIIl">
-            <Value int="32223107"/>
+            <Value int="57802372"/>
         </Key>
         <Key name="IIIIllllIIllllll">
-            <Value int="40145623"/>
+            <Value int="60334224"/>
         </Key>
         <Key name="IIIlIIlIIlllllII">
-            <Value int="51024386"/>
+            <Value int="63594280"/>
         </Key>
         <Key name="lIlIlllllIIIlllI">
-            <Value int="28223924"/>
+            <Value int="76267428"/>
         </Key>
         <Key name="lllIlllIIlIlIlll">
-            <Value int="17978897"/>
+            <Value int="37980240"/>
         </Key>
     </Section>
-    <Signature value="DDB4313147933BE1F1921797774C0D5E64ECA18A"/>
+    <Signature value="C71D2253CEBA9F3E280A472434F770BA1C986502"/>
 </Bank>

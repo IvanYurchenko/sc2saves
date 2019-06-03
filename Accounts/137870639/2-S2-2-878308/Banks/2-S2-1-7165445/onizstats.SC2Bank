@@ -8,7 +8,7 @@
             <Value int="0"/>
         </Key>
         <Key name="VespeneHarvested">
-            <Value int="2200"/>
+            <Value int="4116"/>
         </Key>
         <Key name="SecurityForcesKilled">
             <Value int="0"/>
@@ -17,22 +17,22 @@
             <Value int="2"/>
         </Key>
         <Key name="ZombiesKilled">
-            <Value int="185"/>
+            <Value int="555"/>
         </Key>
         <Key name="HumanWinsInsane">
             <Value int="0"/>
         </Key>
         <Key name="FuelDiverted">
-            <Value int="7"/>
+            <Value int="10"/>
         </Key>
         <Key name="ZombieWins">
             <Value int="0"/>
         </Key>
         <Key name="TurretsBuilt">
-            <Value int="0"/>
+            <Value int="1"/>
         </Key>
         <Key name="NumberOfTimesCaptured">
-            <Value int="0"/>
+            <Value int="1"/>
         </Key>
         <Key name="GamesLeft">
             <Value int="0"/>
@@ -44,11 +44,11 @@
             <Value int="0"/>
         </Key>
         <Key name="GamesPlayedAsHuman">
-            <Value int="1"/>
+            <Value int="2"/>
         </Key>
         <Key name="HumanWinsHard">
             <Value int="0"/>
         </Key>
     </Section>
-    <Signature value="BECF284C054FA7872F5C8BA0B852412AF8E1FF2E"/>
+    <Signature value="14553BE1E5B7D489B0A35F5019A2F30CABA08A77"/>
 </Bank>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="CHARACTER">
+        <Key name="EXPERIENCE">
+            <Value fixed="4616.5"/>
+        </Key>
+        <Key name="UPGRADE_WEAPON_LONGGUN_ITEM_LEVEL">
+            <Value int="5"/>
+        </Key>
+        <Key name="UPGRADE_WEAPON_MACHINEGUN_LEVEL">
+            <Value int="0"/>
+        </Key>
+        <Key name="KILLS">
+            <Value fixed="229"/>
+        </Key>
+        <Key name="UPGRADE_ARMOR_LEGS_LEVEL">
+            <Value int="3"/>
+        </Key>
+        <Key name="UNIT">
+            <Item13 string="ExplosiveGrenade,1,5"/>
+            <XPName0 string="MercsVeterancy"/>
+            <Item3 string="StimpackItem,1,6"/>
+            <Item15 string="SpiderMineItem,1,8"/>
+            <ItemCount int="18"/>
+            <Type string="MercsGhost"/>
+            <Item10 string="StimpackItem,1,4"/>
+            <Item12 string="StunGrenade,1,1"/>
+            <Shields fixed="0"/>
+            <Item14 string="SpiderMineItem,1,7"/>
+            <XP fixed="4616.5"/>
+            <Item11 string="PowerArmor,0,22"/>
+            <Life fixed="250"/>
+            <Item1 string="FirstAid,1,3"/>
+            <Item16 string="StimpackItem,1,9"/>
+            <Item7 string="X10CanisterRifle,0,26"/>
+            <Item6 string="LifeCapacitor,0,47"/>
+            <Item17 string="Battery,1,10"/>
+            <XPValue0 fixed="4616.5"/>
+            <Item4 string="CloakModule,0,46"/>
+            <Item9 string="ExplosiveGrenade,1,2"/>
+            <Energy fixed="115"/>
+            <Item2 string="SpeederBoots,0,36"/>
+            <Item0 string="FirstAid,1,0"/>
+            <XPCount int="1"/>
+            <Item5 string="Scope,0,45"/>
+            <Item8 string="HeadArmorMk3,0,8"/>
+        </Key>
+        <Key name="UPGRADE_WEAPON_MACHINEGUN_ITEM_LEVEL">
+            <Value int="0"/>
+        </Key>
+        <Key name="UPGRADE_ARMOR_LEVEL">
+            <Value int="4"/>
+        </Key>
+        <Key name="CLASS">
+            <Value int="0"/>
+        </Key>
+        <Key name="UPGRADE_ARMOR_HEAD_LEVEL">
+            <Value int="3"/>
+        </Key>
+        <Key name="UPGRADE_ARMOR_BODY_LEVEL">
+            <Value int="3"/>
+        </Key>
+        <Key name="MONEY">
+            <Value int="4866"/>
+        </Key>
+        <Key name="UPGRADE_WEAPON_LONGGUN_LEVEL">
+            <Value int="10"/>
+        </Key>
+        <Key name="LEVEL">
+            <Value fixed="4"/>
+        </Key>
+    </Section>
+    <Section name="GENERAL">
+        <Key name="ACTIVE">
+            <Value flag="1"/>
+        </Key>
+        <Key name="EPISODE">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="CONTAINER">
+        <Key name="CONTAINER_NAME_17">
+            <Value string="StimpackItem"/>
+        </Key>
+        <Key name="CONTAINER_NAME_11">
+            <Value string="StimpackItem"/>
+        </Key>
+        <Key name="CONTAINER_5">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CARRIED">
+            <Value int="18"/>
+        </Key>
+        <Key name="CONTAINER_11">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_7">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_NAME_5">
+            <Value string="CloakModule"/>
+        </Key>
+        <Key name="CONTAINER_NAME_7">
+            <Value string="LifeCapacitor"/>
+        </Key>
+        <Key name="CONTAINER_12">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_NAME_12">
+            <Value string="PowerArmor"/>
+        </Key>
+        <Key name="CONTAINER_NAME_9">
+            <Value string="HeadArmorMk3"/>
+        </Key>
+        <Key name="CONTAINER_18">
+            <Value fixed="2"/>
+        </Key>
+        <Key name="CONTAINER_13">
+            <Value fixed="4"/>
+        </Key>
+        <Key name="CONTAINER_9">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_14">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="CONTAINER_NAME_14">
+            <Value string="ExplosiveGrenade"/>
+        </Key>
+        <Key name="CONTAINER_NAME_13">
+            <Value string="StunGrenade"/>
+        </Key>
+        <Key name="CONTAINER_NAME_8">
+            <Value string="X10CanisterRifle"/>
+        </Key>
+        <Key name="CONTAINER_4">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_3">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_2">
+            <Value fixed="2"/>
+        </Key>
+        <Key name="CONTAINER_NAME_10">
+            <Value string="ExplosiveGrenade"/>
+        </Key>
+        <Key name="CONTAINER_NAME_6">
+            <Value string="Scope"/>
+        </Key>
+        <Key name="CONTAINER_16">
+            <Value fixed="2"/>
+        </Key>
+        <Key name="CONTAINER_NAME_15">
+            <Value string="SpiderMineItem"/>
+        </Key>
+        <Key name="CONTAINER_10">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_NAME_4">
+            <Value string="StimpackItem"/>
+        </Key>
+        <Key name="CONTAINER_NAME_2">
+            <Value string="FirstAid"/>
+        </Key>
+        <Key name="CONTAINER_1">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_NAME_18">
+            <Value string="Battery"/>
+        </Key>
+        <Key name="CONTAINER_NAME_16">
+            <Value string="SpiderMineItem"/>
+        </Key>
+        <Key name="CONTAINER_15">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_NAME_3">
+            <Value string="SpeederBoots"/>
+        </Key>
+        <Key name="CONTAINER_17">
+            <Value fixed="4"/>
+        </Key>
+        <Key name="CONTAINER_8">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_6">
+            <Value fixed="0"/>
+        </Key>
+        <Key name="CONTAINER_NAME_1">
+            <Value string="FirstAid"/>
+        </Key>
+    </Section>
+    <Section name="ACHIEVEMENTS">
+        <Key name="ACHIEVEMENT_1_2_3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ACHIEVEMENT_POINTS">
+            <Value int="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_1_2_2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_1_3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_1_1_2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_2_1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_2_2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_1_2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_1_2_1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ACHIEVEMENT_1_1_3">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ACHIEVEMENT_1_1_1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ACHIEVEMENT_1_3_3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_3_3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_3_1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_1_3_2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_2_3">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_3_2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="ACHIEVEMENT_1_3_1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="ACHIEVEMENT_2_1_1">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="MISSION">
+        <Key name="MISSION2">
+            <Value int="1"/>
+        </Key>
+        <Key name="MISSION4">
+            <Value int="0"/>
+        </Key>
+        <Key name="MISSION1">
+            <Value int="1"/>
+        </Key>
+        <Key name="MISSION6">
+            <Value int="0"/>
+        </Key>
+        <Key name="MISSION3">
+            <Value int="1"/>
+        </Key>
+        <Key name="MISSION5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

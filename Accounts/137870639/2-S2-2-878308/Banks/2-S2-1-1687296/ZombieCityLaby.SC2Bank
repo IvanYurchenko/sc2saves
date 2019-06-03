@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="hero">
+        <Key name="maxwave">
+            <Value int="31"/>
+        </Key>
+        <Key name="death">
+            <Value int="1"/>
+        </Key>
+        <Key name="kills">
+            <Value int="816"/>
+        </Key>
+        <Key name="herotime">
+            <Value int="1"/>
+        </Key>
+        <Key name="GAS">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

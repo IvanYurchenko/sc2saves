@@ -1,0 +1,10 @@
+﻿GameUser Events:
+message=ReceiveTurn-Enqueue-CGameSetSyncLoadingTimeEvent, turn=0, gameLoop=0, sessionUserId=16, gameUserId=16
+message=SynthesizeSessionUserLeave, enqueuedTurns=1, turn=1, gameLoop=0, sessionUserId=0, gameUserId=16
+message=ReceiveTurn-Before-Dispatch-CSessionUserLeaveEvent, turn=1, gameLoop=0, sessionUserId=0, gameUserId=0
+message=ReceiveTurn-Enqueue-CGameUserLeaveEvent, turn=1, gameLoop=0, sessionUserId=0, gameUserId=0
+message=ReceiveTurn-CSessionSetHostEvent, turn=1, gameLoop=0, sessionUserId=1, gameUserId=1
+message=SynthesizeSessionUserLeave, enqueuedTurns=1, turn=1, gameLoop=0, sessionUserId=2, gameUserId=16
+message=SynthesizeSessionUserLeave, enqueuedTurns=1, turn=1, gameLoop=0, sessionUserId=4, gameUserId=16
+message=ReceiveTurn-Before-Dispatch-CSessionUserLeaveEvent, turn=1, gameLoop=0, sessionUserId=2, gameUserId=2
+message=ReceiveTurn-DESYNC, turn=1, gameLoop=0, sessionUserId=2, gameUserId=2

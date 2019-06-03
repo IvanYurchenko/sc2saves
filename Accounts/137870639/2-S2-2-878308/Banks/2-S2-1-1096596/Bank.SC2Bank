@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="hero">
+        <Key name="skillpoints1">
+            <Value int="0"/>
+        </Key>
+        <Key name="passive_equiped2">
+            <Value string=""/>
+        </Key>
+        <Key name="event2">
+            <Value string="3,0_"/>
+        </Key>
+        <Key name="hero_rank1">
+            <Value int="100"/>
+        </Key>
+        <Key name="hero_race1">
+            <Value string="3"/>
+        </Key>
+        <Key name="12challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="event1">
+            <Value string="3,0_"/>
+        </Key>
+        <Key name="4challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="3area_seen1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="11challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="storage_items1">
+            <Value string=""/>
+        </Key>
+        <Key name="5challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="1ttunlocked1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="5challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="2challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="1challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="passive1">
+            <Value string=""/>
+        </Key>
+        <Key name="equipment0">
+            <Value string="0_0_0_0_0_0_"/>
+        </Key>
+        <Key name="exp2">
+            <Value string="369"/>
+        </Key>
+        <Key name="active_mainquest1">
+            <Value int="3"/>
+        </Key>
+        <Key name="4challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="7area_seen1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="9challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="unit_kills1">
+            <Value string="1,0_2,0_3,0_4,0_5,0_"/>
+        </Key>
+        <Key name="hero_race2">
+            <Value string="2"/>
+        </Key>
+        <Key name="3challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="passive2">
+            <Value string=""/>
+        </Key>
+        <Key name="lvl1">
+            <Value string="1"/>
+        </Key>
+        <Key name="vespene1">
+            <Value int="0"/>
+        </Key>
+        <Key name="8challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="7challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="quest_progress2">
+            <Value int="2"/>
+        </Key>
+        <Key name="7challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="passive_equiped1">
+            <Value string=""/>
+        </Key>
+        <Key name="10challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="1challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="hero_type2">
+            <Value string="1"/>
+        </Key>
+        <Key name="3ttunlocked1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="active_mainquest2">
+            <Value int="3"/>
+        </Key>
+        <Key name="ability_level2">
+            <Value string="1_1,9_1,"/>
+        </Key>
+        <Key name="inventory_items2">
+            <Value string="1_5,24_10,10_10,9_6,11_1,"/>
+        </Key>
+        <Key name="equipment2">
+            <Value string="0_0_0_0_0_0_"/>
+        </Key>
+        <Key name="1ttunlocked2">
+            <Value flag="1"/>
+        </Key>
+        <Key name="4ttunlocked1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="unit_kills2">
+            <Value string="1,6_2,0_3,0_4,0_5,0_"/>
+        </Key>
+        <Key name="minerals2">
+            <Value int="510"/>
+        </Key>
+        <Key name="minerals1">
+            <Value int="250"/>
+        </Key>
+        <Key name="hero_type1">
+            <Value string="2"/>
+        </Key>
+        <Key name="vespene2">
+            <Value int="0"/>
+        </Key>
+        <Key name="2ttunlocked1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="2ttunlocked2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="8challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="3challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="2challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="1area_seen1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="skillpoints2">
+            <Value int="1"/>
+        </Key>
+        <Key name="12challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="4ttunlocked2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6area_seen1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="quest_progress1">
+            <Value int="2"/>
+        </Key>
+        <Key name="exp1">
+            <Value string="100"/>
+        </Key>
+        <Key name="3ttunlocked2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="6challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="inventory_items1">
+            <Value string="1_5,24_2,"/>
+        </Key>
+        <Key name="2area_seen1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="6challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="ability_level1">
+            <Value string="21_1,"/>
+        </Key>
+        <Key name="quest_complete2">
+            <Value string="1,0_7,0_"/>
+        </Key>
+        <Key name="5area_seen1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="hero_rank2">
+            <Value int="100"/>
+        </Key>
+        <Key name="11challenge_cleared1">
+            <Value int="0"/>
+        </Key>
+        <Key name="lvl2">
+            <Value string="3"/>
+        </Key>
+        <Key name="quest_complete1">
+            <Value string="1,0_7,0_"/>
+        </Key>
+        <Key name="10challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="9challenge_cleared2">
+            <Value int="0"/>
+        </Key>
+        <Key name="storage_items2">
+            <Value string=""/>
+        </Key>
+        <Key name="4area_seen1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="equipment1">
+            <Value string="0_0_0_0_0_0_"/>
+        </Key>
+    </Section>
+    <Signature value="86F8FAE76E9A549AE1E9A6ACE63077F130F32583"/>
+</Bank>

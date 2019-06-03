@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ArcaneSorceress">
+        <Key name="ITEMS">
+            <Value string="ItemMedkit=2,1;"/>
+        </Key>
+        <Key name="textedStats">
+            <Value text="3-6 Melee dmg (dps: 1.8)&lt;n/&gt;&lt;n/&gt;9-13 spell dmg&lt;n/&gt;&lt;n/&gt;0% Healing multiplier&lt;n/&gt;&lt;n/&gt;0 Armor&lt;n/&gt;&lt;n/&gt;Hero level 1 (item level 0)"/>
+        </Key>
+        <Key name="XP">
+            <Value int="0"/>
+        </Key>
+        <Key name="ABBI">
+            <Value string="8 0 0 0 0 0 "/>
+        </Key>
+    </Section>
+    <Section name="Cultist">
+        <Key name="ITEMS">
+            <Value string="ItemMedkit=2,1;"/>
+        </Key>
+        <Key name="textedStats">
+            <Value text="3-7 Melee dmg (dps: 2.2)&lt;n/&gt;&lt;n/&gt;8-12 spell dmg&lt;n/&gt;&lt;n/&gt;0% Healing multiplier&lt;n/&gt;&lt;n/&gt;0 Armor&lt;n/&gt;&lt;n/&gt;Hero level 1 (item level 0)"/>
+        </Key>
+        <Key name="XP">
+            <Value int="30"/>
+        </Key>
+        <Key name="ABBI">
+            <Value string="8 0 0 0 0 0 "/>
+        </Key>
+    </Section>
+    <Section name="DarkTemplar">
+        <Key name="ITEMS">
+            <Value string="ItemMedkit=2,1;"/>
+        </Key>
+        <Key name="textedStats">
+            <Value text="12-17 Melee dmg (dps: 6.4)&lt;n/&gt;&lt;n/&gt;7-13 spell dmg&lt;n/&gt;&lt;n/&gt;0% Healing multiplier&lt;n/&gt;&lt;n/&gt;9 Armor&lt;n/&gt;&lt;n/&gt;Hero level 2 (item level 0)"/>
+        </Key>
+        <Key name="XP">
+            <Value int="64"/>
+        </Key>
+        <Key name="ABBI">
+            <Value string="67 74 0 0 0 0 "/>
+        </Key>
+    </Section>
+    <Section name="SpiritHunter">
+        <Key name="ITEMS">
+            <Value string="ItemMedkit=2,1;"/>
+        </Key>
+        <Key name="textedStats">
+            <Value text="10-14 Melee dmg (dps: 5.5)&lt;n/&gt;&lt;n/&gt;4-8 spell dmg&lt;n/&gt;&lt;n/&gt;0% Healing multiplier&lt;n/&gt;&lt;n/&gt;0 Armor&lt;n/&gt;&lt;n/&gt;Hero level 1 (item level 0)"/>
+        </Key>
+        <Key name="XP">
+            <Value int="10"/>
+        </Key>
+        <Key name="ABBI">
+            <Value string="52 0 0 0 0 0 "/>
+        </Key>
+    </Section>
+    <Signature value="237FD63510B80B25EAC19A8873FD2230A08B30F4"/>
+</Bank>

@@ -2,7 +2,7 @@
 <Bank version="1">
     <Section name="Vote">
         <Key name="SC">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="CB">
             <Value flag="0"/>
@@ -44,7 +44,7 @@
             <Value int="1"/>
         </Key>
         <Key name="BL">
-            <Value flag="1"/>
+            <Value flag="0"/>
         </Key>
         <Key name="ST">
             <Value flag="1"/>
@@ -52,15 +52,15 @@
     </Section>
     <Section name="ValidationCode">
         <Key name="ValidationCode">
-            <Value string="3bd4a0fea09813e1cef4b2b1a9f7ff4a"/>
+            <Value string="1f70fc3b4044927bde31a2dc1e0df365"/>
         </Key>
     </Section>
     <Section name="FTWStats">
         <Key name="Games2Teams">
-            <Value int="14"/>
+            <Value int="21"/>
         </Key>
         <Key name="Wins2Teams">
-            <Value int="9"/>
+            <Value int="14"/>
         </Key>
     </Section>
     <Section name="Races">
@@ -71,13 +71,13 @@
             <Value int="4"/>
         </Key>
         <Key name="Hell">
-            <Value int="9"/>
+            <Value int="16"/>
         </Key>
     </Section>
     <Section name="Rating">
         <Key name="Rating">
-            <Value int="1324"/>
+            <Value int="1497"/>
         </Key>
     </Section>
-    <Signature value="4CDC5578FA7F1C6F1C8F509235AB31DD9C1B38D4"/>
+    <Signature value="8F57CCB6B8BBDB80E541B3C726E8109F0969F4A0"/>
 </Bank>

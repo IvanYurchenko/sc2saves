@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="name">
+        <Key name="n1">
+            <Value string="1"/>
+        </Key>
+    </Section>
+    <Section name="s1">
+        <Key name="4">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="8"/>
+        </Key>
+        <Key name="3">
+            <Value int="0"/>
+        </Key>
+        <Key name="2">
+            <Value int="0"/>
+        </Key>
+        <Key name="5">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="E3B0F60E4E71F68554A68C7F94F8CBBB8BCAB76E"/>
+</Bank>

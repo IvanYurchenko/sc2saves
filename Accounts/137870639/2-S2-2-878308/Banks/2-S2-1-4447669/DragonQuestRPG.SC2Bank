@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="MHP">
+        <Key name="2-S2-2-878308">
+            <Value fixed="4888"/>
+        </Key>
+    </Section>
+    <Section name="FD Fire Skin">
+        <Key name="2-S2-2-878308">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="SQ0">
+        <Key name="2-S2-2-878308">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Mana3-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="Intro">
+        <Key name="2-S2-2-878308">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="MASP">
+        <Key name="2-S2-2-878308">
+            <Value fixed="4891"/>
+        </Key>
+    </Section>
+    <Section name="SQ4">
+        <Key name="2-S2-2-878308">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="WP0">
+        <Key name="2-S2-2-878308">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="FD Vitality">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="FD Agility">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Greed0-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="ID Subzero">
+        <Key name="2-S2-2-878308">
+            <Value int="-1"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Amp0-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Mana2-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="070113050002050120">
+        <Key name="2-S2-2-878308">
+            <Value flag="0"/>
+        </Key>
+    </Section>
+    <Section name="Death Count">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="FD Fireball">
+        <Key name="2-S2-2-878308">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="FD Strength">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="FD Dexterity">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="SQ1">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="ID Blizzard">
+        <Key name="2-S2-2-878308">
+            <Value int="-1"/>
+        </Key>
+    </Section>
+    <Section name="ID Frostspike">
+        <Key name="2-S2-2-878308">
+            <Value int="-1"/>
+        </Key>
+    </Section>
+    <Section name="FD Flameegg">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="FireDragon">
+        <Key name="2-S2-2-878308">
+            <Item13 string="GodlyClaws,0,0"/>
+            <Item3 string="ILEBCE,2,2"/>
+            <XPName0 string="Level2"/>
+            <Item15 string="LargeAttackSpeedPotion,3,6"/>
+            <ItemCount int="14"/>
+            <Type string="TeenDragon"/>
+            <Item35 string="LargeAttackSpeedPotion,4,3"/>
+            <Item34 string="LargeAttackSpeedPotion,4,3"/>
+            <Item30 string="SoftArmor,3,24"/>
+            <Item10 string="MediumAttackSpeedPotion,3,21"/>
+            <Item22 string="LargeAttackSpeedPotion,3,6"/>
+            <Item12 string="SteelClaws,3,7"/>
+            <Shields fixed="0"/>
+            <Item27 string="SoftArmor,3,24"/>
+            <Item19 string="GodlyClaws,0,0"/>
+            <Item14 string="LargeAttackSpeedPotion,3,6"/>
+            <XP fixed="23861"/>
+            <Item33 string="LargeAttackSpeedPotion,4,3"/>
+            <LearnAbil3 string="LearnSkillsFire,3,10"/>
+            <LearnAbilCount int="4"/>
+            <LearnAbil2 string="LearnSkillsFire,2,4"/>
+            <Item11 string="LargeAttackSpeedPotion,3,6"/>
+            <Item1 string="ILEBCE,2,0"/>
+            <Life fixed="1.7675"/>
+            <Item25 string="SoftArmor,3,24"/>
+            <Item29 string="SoftArmor,3,24"/>
+            <Item26 string="SoftArmor,3,24"/>
+            <Item16 string="LargeAttackSpeedPotion,3,6"/>
+            <Item7 string="SmallHealthPotion,3,1"/>
+            <Item6 string="TownPortal,3,0"/>
+            <Item20 string="LargeAttackSpeedPotion,3,6"/>
+            <Item17 string="SteelClaws,3,7"/>
+            <Item24 string="SoftArmor,3,24"/>
+            <Item18 string="LargeAttackSpeedPotion,3,6"/>
+            <Item4 string="ILEBCE,2,3"/>
+            <XPValue0 fixed="23861"/>
+            <Item31 string="SoftArmor,3,24"/>
+            <Item9 string="SmallAttackSpeedPotion,3,5"/>
+            <Item2 string="ILEBCE,2,1"/>
+            <LearnAbil0 string="LearnSkillsFire,0,5"/>
+            <Energy fixed="100"/>
+            <Item32 string="SoftArmor,3,24"/>
+            <LearnAbil1 string="LearnSkillsFire,1,10"/>
+            <Item0 string="UnbreakableArmor,1,0"/>
+            <Item21 string="LargeAttackSpeedPotion,3,6"/>
+            <XPCount int="1"/>
+            <Item23 string="SoftArmor,3,24"/>
+            <Item5 string="ILEBCE,2,4"/>
+            <Item28 string="SoftArmor,3,24"/>
+            <Item8 string="MediumHealthPotion,3,4"/>
+        </Key>
+    </Section>
+    <Section name="WP1">
+        <Key name="2-S2-2-878308">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Mana1-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="ID Frozenarmor">
+        <Key name="2-S2-2-878308">
+            <Value int="-1"/>
+        </Key>
+    </Section>
+    <Section name="FD Nova">
+        <Key name="2-S2-2-878308">
+            <Value int="-1"/>
+        </Key>
+    </Section>
+    <Section name="041514200006210311091407000801031100120522051219">
+        <Key name="2-S2-2-878308">
+            <Value int="3277"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Madeleine0-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="SQ2">
+        <Key name="2-S2-2-878308">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="SHP">
+        <Key name="2-S2-2-878308">
+            <Value fixed="4854"/>
+        </Key>
+    </Section>
+    <Section name="FD Attribute Points">
+        <Key name="2-S2-2-878308">
+            <Value fixed="150"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Mana4-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="FD Fireclaw">
+        <Key name="2-S2-2-878308">
+            <Value int="9"/>
+        </Key>
+    </Section>
+    <Section name="WP3">
+        <Key name="2-S2-2-878308">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Malin0-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Base1-0">
+        <Key name="2-S2-2-878308">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="TP">
+        <Key name="2-S2-2-878308">
+            <Value fixed="4860"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Mana0-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="LASP">
+        <Key name="2-S2-2-878308">
+            <Value fixed="4892"/>
+        </Key>
+    </Section>
+    <Section name="LHP">
+        <Key name="2-S2-2-878308">
+            <Value fixed="4892"/>
+        </Key>
+    </Section>
+    <Section name="SQ3">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="SASP">
+        <Key name="2-S2-2-878308">
+            <Value fixed="4877"/>
+        </Key>
+    </Section>
+    <Section name="WP2">
+        <Key name="2-S2-2-878308">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Base0-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="FD Inferno">
+        <Key name="2-S2-2-878308">
+            <Value int="9"/>
+        </Key>
+    </Section>
+    <Section name="SQ-Detsefni0-0">
+        <Key name="2-S2-2-878308">
+            <Value int="3"/>
+        </Key>
+    </Section>
+    <Section name="FD Intelligence">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="C1C407766BBB6082455F8977E581DA13655C8B8B"/>
+</Bank>

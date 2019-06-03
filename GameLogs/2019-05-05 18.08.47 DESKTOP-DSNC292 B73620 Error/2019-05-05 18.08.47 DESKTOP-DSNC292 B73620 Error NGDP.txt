@@ -1,0 +1,109 @@
+﻿DIAG_BUFFER_ERROR
+[20190505T18:08:46] {3b74} ERR: read fail #580 @[1|298498775]: Permission denied
+[20190505T18:08:46] {3b74} ERR: read fail #580 @[1|298498775]: Permission denied
+[20190505T18:08:46] {3b74} ERR: read fail #541 @[1|298497696]: Permission denied
+[20190505T18:08:46] {3b74} ERR: read fail #541 @[1|298497696]: Permission denied
+[20190505T18:08:47] {3130} ERR: read fail #4096 @[1|337905773]: Permission denied
+[20190505T18:08:47] {3130} ERR: read fail #4096 @[1|337905773]: Permission denied
+
+DIAG_BUFFER_INFO
+[20190505T17:31:01] {1284} INF: adding network address 8.248.141.254:80 for server //level3.blizzard.com/
+[20190505T17:31:01] {1284} INF: adding network address 8.253.204.121:80 for server //level3.blizzard.com/
+[20190505T17:31:01] {1284} INF: adding network address 8.241.123.126:80 for server //level3.blizzard.com/
+[20190505T17:31:01] {1284} INF: adding network address 67.27.234.126:80 for server //level3.blizzard.com/
+[20190505T17:31:01] {1284} INF: adding network address 8.241.121.126:80 for server //level3.blizzard.com/
+[20190505T17:31:01] {1284} INF: adding network address 8.241.121.1:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:31:01] {1284} INF: adding network address 8.241.123.1:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:36:02] {1284} INF: adding network address 8.248.123.254:80 for server //level3.blizzard.com/
+[20190505T17:36:02] {1284} INF: adding network address 67.27.159.254:80 for server //level3.blizzard.com/
+[20190505T17:36:02] {1284} INF: adding network address 8.241.121.129:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:36:02] {1284} INF: adding network address 8.253.204.41:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:36:02] {1284} INF: adding network address 8.248.116.20:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:41:03] {1284} INF: adding network address 8.241.9.254:80 for server //level3.blizzard.com/
+[20190505T17:41:03] {1284} INF: adding network address 8.253.204.120:80 for server //level3.blizzard.com/
+[20190505T17:41:03] {1284} INF: adding network address 8.241.122.129:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:41:03] {1284} INF: adding network address 8.241.123.129:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:41:03] {1284} INF: adding network address 67.27.158.129:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:46:03] {1284} INF: adding network address 8.253.204.249:80 for server //level3.blizzard.com/
+[20190505T17:46:03] {1284} INF: adding network address 8.241.122.254:80 for server //level3.blizzard.com/
+[20190505T17:46:03] {1284} INF: adding network address 67.27.233.1:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:46:03] {1284} INF: adding network address 67.27.157.1:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:46:03] {1284} INF: adding network address 8.241.9.1:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:51:04] {1284} INF: adding network address 67.27.235.126:80 for server //level3.blizzard.com/
+[20190505T17:51:04] {1284} INF: adding network address 8.241.9.129:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:51:04] {1284} INF: adding network address 8.248.140.20:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:51:04] {1284} INF: adding network address 8.241.122.1:443 for server https://level3.ssl.blizzard.com/
+[20190505T17:56:04] {1284} INF: adding network address 67.27.158.254:80 for server //level3.blizzard.com/
+[20190505T17:56:04] {1284} INF: adding network address 8.241.9.126:80 for server //level3.blizzard.com/
+[20190505T17:56:04] {1284} INF: adding network address 67.27.158.1:443 for server https://level3.ssl.blizzard.com/
+[20190505T18:01:05] {1284} INF: adding network address 67.27.158.126:80 for server //level3.blizzard.com/
+[20190505T18:06:05] {1284} INF: adding network address 67.27.157.126:80 for server //level3.blizzard.com/
+[20190505T18:06:05] {1284} INF: adding network address 8.241.121.254:80 for server //level3.blizzard.com/
+[20190505T18:08:46] {3b74} ERR: read fail #580 @[1|298498775]: Permission denied
+[20190505T18:08:46] {3b74} ERR: read fail #580 @[1|298498775]: Permission denied
+[20190505T18:08:46] {3b74} ERR: read fail #541 @[1|298497696]: Permission denied
+[20190505T18:08:46] {3b74} ERR: read fail #541 @[1|298497696]: Permission denied
+[20190505T18:08:47] {3130} ERR: read fail #4096 @[1|337905773]: Permission denied
+[20190505T18:08:47] {3130} ERR: read fail #4096 @[1|337905773]: Permission denied
+
+DIAG_BUFFER_ALL
+[20190505T18:08:28] {1284} debug: select() -> 0
+[20190505T18:08:28] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:29] {1284} debug: select() -> 0
+[20190505T18:08:29] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190505T18:08:30] {1284} debug: select() -> 0
+[20190505T18:08:30] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:31] {1284} debug: select() -> 0
+[20190505T18:08:31] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=124.427ms
+[20190505T18:08:32] {1284} debug: select() -> 0
+[20190505T18:08:32] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=875.208ms
+[20190505T18:08:32] {1284} debug: select() -> 0
+[20190505T18:08:32] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:33] {1284} debug: select() -> 0
+[20190505T18:08:33] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:34] {1284} debug: select() -> 0
+[20190505T18:08:34] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:35] {1284} debug: select() -> 0
+[20190505T18:08:35] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:36] {1284} debug: select() -> 0
+[20190505T18:08:36] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=123.224ms
+[20190505T18:08:37] {1284} debug: select() -> 0
+[20190505T18:08:37] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=876.329ms
+[20190505T18:08:37] {1284} debug: select() -> 0
+[20190505T18:08:37] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190505T18:08:38] {1284} debug: select() -> 0
+[20190505T18:08:38] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.995ms
+[20190505T18:08:39] {1284} debug: select() -> 0
+[20190505T18:08:39] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=11.000us
+[20190505T18:08:39] {1284} debug: select() -> 0
+[20190505T18:08:39] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:40] {1284} debug: select() -> 0
+[20190505T18:08:40] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190505T18:08:41] {1284} debug: select() -> 0
+[20190505T18:08:41] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=120.839ms
+[20190505T18:08:42] {1284} debug: select() -> 0
+[20190505T18:08:42] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=878.841ms
+[20190505T18:08:42] {1284} debug: select() -> 0
+[20190505T18:08:42] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:43] {1284} debug: select() -> 0
+[20190505T18:08:43] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:44] {1284} debug: select() -> 0
+[20190505T18:08:44] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:45] {1284} debug: select() -> 0
+[20190505T18:08:45] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190505T18:08:46] {3b74} ERR: read fail #580 @[1|298498775]: Permission denied
+[20190505T18:08:46] {3b74} ERR: read fail #580 @[1|298498775]: Permission denied
+[20190505T18:08:46] {3b74} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:E56B7403A916769A2B9D571F13D5E140
+[20190505T18:08:46] {3b74} noise: Game sent error report
+[20190505T18:08:46] {3b74} ERR: read fail #541 @[1|298497696]: Permission denied
+[20190505T18:08:46] {3b74} ERR: read fail #541 @[1|298497696]: Permission denied
+[20190505T18:08:46] {3b74} noise: Game sent error report: e_fileCorrupt (non-fatal) (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:645C21F4C174A30EF8325C404DC902A0
+[20190505T18:08:46] {1284} debug: select() -> 0
+[20190505T18:08:46] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=119.362ms
+[20190505T18:08:47] {1284} debug: select() -> 0
+[20190505T18:08:47] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=880.448ms
+[20190505T18:08:47] {3130} ERR: read fail #4096 @[1|337905773]: Permission denied
+[20190505T18:08:47] {3130} ERR: read fail #4096 @[1|337905773]: Permission denied
+[20190505T18:08:47] {3130} noise: Game sent error report: e_fileCorrupt (NGDP:E_IO_ERROR) from CFile::Read(), C-Key:F2DD701C879123C7EF9938DC0B45A4F9
+[20190505T18:08:47] {1284} debug: select() -> 0
+[20190505T18:08:47] {1284} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="progression">
+        <Key name="tier-2">
+            <Value int="1"/>
+        </Key>
+        <Key name="tier-3">
+            <Value int="1"/>
+        </Key>
+        <Key name="tier-4">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="hero">
+        <Key name="hero-0">
+            <XPName0 string="HeroLevelsBroodling"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="4"/>
+            <Type string="Broodling2"/>
+            <Shields fixed="0"/>
+            <XP fixed="350"/>
+            <LearnAbilCount int="0"/>
+            <Life fixed="61"/>
+            <Item1 string="Reflex,0,6"/>
+            <LearnAbil18 string="HeroSpells,18,2"/>
+            <LearnAbil16 string="HeroSpells,16,1"/>
+            <XPValue0 fixed="350"/>
+            <Energy fixed="22"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+        <Key name="hero-1">
+            <XPName0 string="HeroLevelsT1Reflex"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="4"/>
+            <Type string="Zergling2"/>
+            <Shields fixed="0"/>
+            <XP fixed="660"/>
+            <LearnAbilCount int="0"/>
+            <LearnAbil6 string="HeroSpells,6,1"/>
+            <Life fixed="53"/>
+            <Item1 string="Reflex,0,6"/>
+            <LearnAbil18 string="HeroSpells,18,1"/>
+            <LearnAbil4 string="HeroSpells,4,1"/>
+            <XPValue0 fixed="660"/>
+            <Energy fixed="24"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+        <Key name="hero-7">
+            <XPName0 string="HeroLevelsT1Might"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="4"/>
+            <Type string="Hydralisk2"/>
+            <Shields fixed="0"/>
+            <XP fixed="0"/>
+            <Life fixed="9"/>
+            <Item1 string="Reflex,0,6"/>
+            <XPValue0 fixed="0"/>
+            <Energy fixed="2"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+        <Key name="hero-14">
+            <XPName0 string="HeroLevelsT1Reflex"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="4"/>
+            <Type string="MutaliskBroodlord"/>
+            <Shields fixed="0"/>
+            <XP fixed="78.003"/>
+            <Life fixed="443"/>
+            <Item1 string="Reflex,0,6"/>
+            <XPValue0 fixed="78.003"/>
+            <Energy fixed="148"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+        <Key name="hero-4">
+            <XPName0 string="HeroLevelsT1Aptitude"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="4"/>
+            <Type string="Infestor2"/>
+            <Shields fixed="0"/>
+            <XP fixed="132.0117"/>
+            <LearnAbilCount int="1"/>
+            <Life fixed="301"/>
+            <Item1 string="Reflex,0,6"/>
+            <XPValue0 fixed="132.0117"/>
+            <Energy fixed="76"/>
+            <Item2 string="Aptitude,0,25"/>
+            <LearnAbil1 string="HeroSpells2,1,1"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+        <Key name="hero-10">
+            <XPName0 string="HeroLevelsT1Reflex"/>
+            <Item3 string="Physique,0,30"/>
+            <LearnAbil13 string="HeroSpells3,13,1"/>
+            <ItemCount int="4"/>
+            <Type string="LurkerBurrowed"/>
+            <LearnAbil14 string="HeroSpells3,14,1"/>
+            <Shields fixed="0"/>
+            <XP fixed="959.961"/>
+            <LearnAbilCount int="3"/>
+            <Life fixed="225"/>
+            <Item1 string="Reflex,0,6"/>
+            <XPValue0 fixed="959.961"/>
+            <Energy fixed="44"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+            <LearnAbil12 string="HeroSpells3,12,1"/>
+        </Key>
+        <Key name="hero-3">
+            <XPName0 string="HeroLevelsHydralisk"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="4"/>
+            <Type string="Hydralisk3"/>
+            <Shields fixed="0"/>
+            <XP fixed="0"/>
+            <Life fixed="159.4755"/>
+            <Item1 string="Reflex,0,6"/>
+            <XPValue0 fixed="0"/>
+            <Energy fixed="140"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+        <Key name="hero-6">
+            <XPName0 string="HeroLevelsT1Physique"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="4"/>
+            <Type string="Roach3"/>
+            <Shields fixed="0"/>
+            <XP fixed="260"/>
+            <LearnAbilCount int="0"/>
+            <Life fixed="39.6162"/>
+            <Item1 string="Reflex,0,6"/>
+            <LearnAbil18 string="HeroSpells2,18,1"/>
+            <XPValue0 fixed="260"/>
+            <Energy fixed="12"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+        <Key name="hero-8">
+            <LearnAbil7 string="HeroSpells3,7,1"/>
+            <XPName0 string="HeroLevelsT1Aptitude"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="8"/>
+            <Type string="Drone2"/>
+            <LearnAbil19 string="HeroSpells3,19,50"/>
+            <Shields fixed="0"/>
+            <XP fixed="16915"/>
+            <LearnAbilCount int="8"/>
+            <LearnAbil6 string="HeroSpells3,6,2"/>
+            <Life fixed="915"/>
+            <Item1 string="Reflex,0,6"/>
+            <Item7 string="AptitudeItem2,0,33"/>
+            <LearnAbil18 string="HeroSpells3,18,50"/>
+            <Item6 string="Boss3EnhancedItem3Aptitude,0,51"/>
+            <LearnAbil16 string="HeroSpells3,16,50"/>
+            <LearnAbil4 string="HeroSpells3,4,2"/>
+            <Item4 string="PhysiqueItem1,0,37"/>
+            <XPValue0 fixed="16915"/>
+            <Energy fixed="468"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+            <Item5 string="MightItem1AptitudeMain,0,8"/>
+            <LearnAbil17 string="HeroSpells3,17,50"/>
+            <LearnAbil5 string="HeroSpells3,5,1"/>
+        </Key>
+        <Key name="hero-15">
+            <XPName0 string="HeroLevelsT1Aptitude"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="4"/>
+            <Type string="Viper"/>
+            <Shields fixed="0"/>
+            <XP fixed="0"/>
+            <Life fixed="425"/>
+            <Item1 string="Reflex,0,6"/>
+            <XPValue0 fixed="0"/>
+            <Energy fixed="148"/>
+            <Item2 string="Aptitude,0,25"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+        <Key name="hero-11">
+            <XPName0 string="HeroLevelsT1Aptitude"/>
+            <Item3 string="Physique,0,30"/>
+            <ItemCount int="5"/>
+            <Type string="SwarmHostSplitB"/>
+            <Shields fixed="100"/>
+            <XP fixed="2159.912"/>
+            <LearnAbil3 string="HeroSpells4,3,2"/>
+            <LearnAbilCount int="4"/>
+            <LearnAbil2 string="HeroSpells4,2,1"/>
+            <Life fixed="453"/>
+            <Item1 string="Reflex,0,6"/>
+            <Item4 string="MightItem1AptitudeMain,0,8"/>
+            <XPValue0 fixed="2159.912"/>
+            <LearnAbil0 string="HeroSpells4,0,1"/>
+            <Energy fixed="178"/>
+            <Item2 string="Aptitude,0,25"/>
+            <LearnAbil1 string="HeroSpells4,1,2"/>
+            <Item0 string="Discipline,0,1"/>
+            <XPCount int="1"/>
+        </Key>
+    </Section>
+    <Section name="mutations">
+        <Key name="aptitudespelldamage">
+            <Value int="0"/>
+        </Key>
+        <Key name="discipline">
+            <Value int="1"/>
+        </Key>
+        <Key name="constitution">
+            <Value int="50"/>
+        </Key>
+        <Key name="haste">
+            <Value int="2"/>
+        </Key>
+        <Key name="aptitude">
+            <Value int="34"/>
+        </Key>
+        <Key name="total">
+            <Value int="67"/>
+        </Key>
+        <Key name="regeneration">
+            <Value int="2"/>
+        </Key>
+    </Section>
+    <Section name="dna">
+        <Key name="total">
+            <Value int="494"/>
+        </Key>
+    </Section>
+    <Section name="minerals">
+        <Key name="total">
+            <Value int="205"/>
+        </Key>
+    </Section>
+    <Section name="mutations-count">
+        <Key name="count">
+            <Value int="156"/>
+        </Key>
+    </Section>
+    <Section name="worldStat">
+        <Key name="might-0">
+            <Value int="1"/>
+        </Key>
+        <Key name="might-8">
+            <Value int="5"/>
+        </Key>
+        <Key name="aptitude">
+            <Value int="4"/>
+        </Key>
+        <Key name="reflex-8">
+            <Value int="3"/>
+        </Key>
+        <Key name="reflex-1">
+            <Value int="1"/>
+        </Key>
+        <Key name="physique-8">
+            <Value int="1"/>
+        </Key>
+        <Key name="aptitude-8">
+            <Value int="1"/>
+        </Key>
+        <Key name="physique">
+            <Value int="2"/>
+        </Key>
+        <Key name="reflex-11">
+            <Value int="1"/>
+        </Key>
+        <Key name="aptitude-11">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="ability">
+        <Key name="total-6">
+            <Value int="2"/>
+        </Key>
+        <Key name="total-14">
+            <Value int="1"/>
+        </Key>
+        <Key name="total-15">
+            <Value int="0"/>
+        </Key>
+        <Key name="total-8">
+            <Value int="254"/>
+        </Key>
+        <Key name="total-1">
+            <Value int="3"/>
+        </Key>
+        <Key name="total-10">
+            <Value int="3"/>
+        </Key>
+        <Key name="total-4">
+            <Value int="1"/>
+        </Key>
+        <Key name="total-11">
+            <Value int="6"/>
+        </Key>
+        <Key name="total-0">
+            <Value int="3"/>
+        </Key>
+        <Key name="total-3">
+            <Value int="0"/>
+        </Key>
+        <Key name="total-7">
+            <Value int="0"/>
+        </Key>
+    </Section>
+</Bank>

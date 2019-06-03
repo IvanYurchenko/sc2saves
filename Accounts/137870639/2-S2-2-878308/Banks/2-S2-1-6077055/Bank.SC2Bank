@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Section">
+        <Key name="changelog">
+            <Value int="5"/>
+        </Key>
+        <Key name="fes">
+            <Value int="1"/>
+        </Key>
+        <Key name="elo">
+            <Value int="1499"/>
+        </Key>
+    </Section>
+    <Signature value="7F3068E439A05B4F3AE67934F7C7CB1BA990B488"/>
+</Bank>

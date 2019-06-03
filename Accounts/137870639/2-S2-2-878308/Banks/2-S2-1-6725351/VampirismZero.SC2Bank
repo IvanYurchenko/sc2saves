@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="PlayerStats">
+        <Key name="Losses">
+            <Value int="1"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="0"/>
+        </Key>
+        <Key name="Games">
+            <Value int="1"/>
+        </Key>
+        <Key name="Rating">
+            <Value int="993"/>
+        </Key>
+    </Section>
+    <Section name="PreviousGameStats">
+        <Key name="RatingLost">
+            <Value int="0"/>
+        </Key>
+        <Key name="IsVictory">
+            <Value flag="0"/>
+        </Key>
+        <Key name="RatingWon">
+            <Value int="0"/>
+        </Key>
+        <Key name="IsEmpty">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Signature value="DD179BD3111B2A72923CDFA3007E9897D4173066"/>
+</Bank>

@@ -1,0 +1,55 @@
+﻿GFX  16:36:51.018 ====================================================================================================
+GFX  16:36:51.018 StarCraft II (B74071)
+GFX  16:36:51.018 
+GFX  16:36:51.018 Executable              M:\Games\StarCraft II\Versions\Base74071\SC2_x64.exe
+GFX  16:36:51.018 <Parameters>            -sso=1 -launch -uid s2_enus
+GFX  16:36:51.018 Parent Executable       \Device\HarddiskVolume9\Games\StarCraft II\Support64\SC2Switcher_x64.exe
+GFX  16:36:51.018 Grandparent Executable  \Device\HarddiskVolume3\Program Files (x86)\Battle.net\Battle.net.exe
+GFX  16:36:51.018 LocalTime               2019-05-29 16:36:51.019
+GFX  16:36:51.018 <ComputerUser>          Ivan
+GFX  16:36:51.018 <ComputerName>          DESKTOP-DSNC292
+GFX  16:36:51.018 <Exe.Architecture>      x86_64
+GFX  16:36:51.018 <Version>               4.9.0.74071
+GFX  16:36:51.018 <DataBuild>             B74071
+GFX  16:36:51.018 <CodeBranch>            branches/SC2.4.9
+GFX  16:36:51.018 <CodeRevision>          589345
+GFX  16:36:51.018 <Locale.Assets>         enUS
+GFX  16:36:51.018 <Locale.Data>           enUS
+GFX  16:36:51.018 <Locale.Install>        enUS
+GFX  16:36:51.018 <AccountCountry>        UKR
+GFX  16:36:51.018 <AgentVersion>          2.17.2.6700
+GFX  16:36:51.018 ====================================================================================================
+GFX  16:36:51.018 DXGI: Available
+GFX  16:36:51.168 Resource Cache Override Variable: 0MB
+GFX  16:36:51.168 Resource Cache: 2048MB Win64 (16292MB Physical, 9412MB Process Virtual)
+GFX  16:36:51.168 Resource Cache Sound:  204MB 
+GFX  16:36:51.168 Resource Cache Common: 1843MB 
+GFX  16:36:51.168 Resource Cache VRam:   0MB
+GFX  16:36:51.195 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:36:51.195 Adapter [0]: Intel(R) Iris(TM) Pro Graphics 5200 (VendorID 0x8086 DeviceID 0xd26)
+GFX  16:36:51.196 Attempting CreateDevice on adapter [0] (VendorID 0x8086 DeviceID 0xd26)
+GFX  16:36:52.654 Intel Integrated GPU using vertex processing type [Hardware]
+GFX  16:36:52.654 CreateDevice succeeded
+GFX  16:36:52.654 Using adapter [0]
+GFX  16:36:52.654 Floating point render targets supported.
+GFX  16:36:52.661 DXGI Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+GFX  16:36:52.661 VRAM Detected: Dedicated [112MB] Shared [2048MB] (DXGI)
+GFX  16:36:52.661 VRAM Override Variables: Dedicated [0MB] Shared [0MB]
+GFX  16:36:52.661 Initialized D3D9 GraphicsDevice: Intel(R) Iris(TM) Pro Graphics 5200 (Driver Version: 20.19.15.4835, VRAM: 112MB, SVMEM: 2048MB).
+GFX  16:36:52.698 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:36:52.699 Hardware Depth Sampling: Available
+GFX  16:36:52.705 Expanded VRAM to 512MB for Intel GPU
+GFX  16:36:52.705 VRAM texture space: 384MB
+GFX  16:36:54.282 PerfNotifiers initialized
+GFX  16:36:54.301 Selected display mode 1280x768x60 with format D3DFMT_X8R8G8B8 and error delta 0
+GFX  16:36:54.301 Lost D3D9 device
+GFX  16:36:57.403 
+GFX  16:36:57.403 D3D9 Device Reset from unknown returned e_errorKindGfx(0)
+GFX  16:41:25.996 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marineraynor_diffuse.dds
+GFX  16:41:33.582 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\medicstetmann_diffuse.dds
+GFX  16:41:34.265 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswannbody_diffuse.dds
+GFX  16:41:34.281 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswann_diffuse.dds
+GFX  18:08:59.231 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marineraynor_diffuse.dds
+GFX  18:31:49.304 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\medicstetmann_diffuse.dds
+GFX  18:31:49.321 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswann_diffuse.dds
+GFX  18:31:49.340 WARNING: Texture DB does not match file info or file is corrupt for assets\textures\marauderswannbody_diffuse.dds

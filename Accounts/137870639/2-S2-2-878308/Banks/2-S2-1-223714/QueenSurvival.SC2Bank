@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Stats">
+        <Key name="GamesWonIV">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonO">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonCH">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesPlayed">
+            <Value int="3"/>
+        </Key>
+        <Key name="GamesWonC">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonIH">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonOM">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonI">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonOV">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonCM">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonOH">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonIM">
+            <Value int="0"/>
+        </Key>
+        <Key name="GamesWonCV">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="BA4F14C2ACBF219CBE45F670881B74D1955109A7"/>
+</Bank>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Reborn Miss%Down">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn Points">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn GoldDrop%Up">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn Count">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="HRC">
+        <Key name="2-S2-2-878308">
+            <Value int="7919"/>
+        </Key>
+    </Section>
+    <Section name="Reborn DefenseUp">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn MovementSpeedUp">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn RegenerationUp">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn ItemDrop%Up">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn MaxHPUp">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn Dodge%Up">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn AttackSpeedUp">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="Reborn MaxMPUp">
+        <Key name="2-S2-2-878308">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="42BCB806E3D39110EEE3AEECB9E4B7685E983553"/>
+</Bank>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="3">
+        <Key name="1">
+            <Value string="qMS`)`IDAJV"/>
+        </Key>
+        <Key name="2">
+            <Value string="0NN"/>
+        </Key>
+    </Section>
+    <Section name="0">
+        <Key name="1">
+            <Value string="2-S2-2-878308"/>
+        </Key>
+    </Section>
+    <Signature value="AF4A5D223D8CD22CA017E833B8049EB11138131F"/>
+</Bank>

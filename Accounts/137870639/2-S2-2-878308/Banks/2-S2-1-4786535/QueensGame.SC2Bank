@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="SQXP">
+        <Key name="QueensGame">
+            <Value fixed="150.1384"/>
+        </Key>
+    </Section>
+    <Signature value="B11BBB78E0EA6205745C00F3734F56DD6C99BD58"/>
+</Bank>

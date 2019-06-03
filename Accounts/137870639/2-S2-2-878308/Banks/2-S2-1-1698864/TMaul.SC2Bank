@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Startup">
+        <Key name="Valid">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="5F109A0FEE5CEA960EAC1DB56616FD25AB2E82AF"/>
+</Bank>

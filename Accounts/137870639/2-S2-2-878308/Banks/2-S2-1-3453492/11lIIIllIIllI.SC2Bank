@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bank version="1">
     <Section name="lIllI11IIlIl">
+        <Key name="set">
+            <Value int="8"/>
+        </Key>
         <Key name="lIIlIllI11lI">
-            <Value string="0b#nFHJJ1HMc1HK8FG7NEGKMGHKKCD78GDJ8BFM8CGMLCDK8BFK8BIINGDLNBDL8GGHJ13KN1FKM"/>
+            <Value string="0g)oD3J8DGM9B3781EJL1HJMBGHNFDHKGI7JCDLKE3II1DLNFI7L1H78FHHLEHJKDIJIEDIIG3KICGMKB3IIFEMNEFMIBEJND3MIB3JMGDL8DEKLCFHIEFM8BHHLE3KI1F7L"/>
         </Key>
         <Key name="playername">
             <Value text="LazeR"/>
         </Key>
     </Section>
-    <Signature value="BF71DDF86F2E4672181234433379B0BF56BA954A"/>
+    <Signature value="58348408E8D9122B28B845EED5EF5ED9ABF3EB07"/>
 </Bank>

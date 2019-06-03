@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Team">
+        <Key name="1">
+            <Value text="LazeR : 2-S2-2-878308    &lt;n/&gt;"/>
+        </Key>
+    </Section>
+    <Section name="Settings">
+        <Key name="BattleCamEX">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Signature value="F6A01CD4244E3EBFA758205C3B6D7C81B6D0ECA0"/>
+</Bank>

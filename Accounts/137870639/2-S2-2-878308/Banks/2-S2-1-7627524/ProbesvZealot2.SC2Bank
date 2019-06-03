@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="AchievmentsHuman">
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="58">
+            <Value flag="1"/>
+        </Key>
+        <Key name="49">
+            <Value flag="1"/>
+        </Key>
+        <Key name="9">
+            <Value flag="1"/>
+        </Key>
+        <Key name="77">
+            <Value flag="1"/>
+        </Key>
+        <Key name="57">
+            <Value flag="1"/>
+        </Key>
+        <Key name="76">
+            <Value flag="1"/>
+        </Key>
+        <Key name="73">
+            <Value flag="1"/>
+        </Key>
+        <Key name="54">
+            <Value flag="1"/>
+        </Key>
+        <Key name="59">
+            <Value flag="1"/>
+        </Key>
+        <Key name="70">
+            <Value flag="1"/>
+        </Key>
+        <Key name="79">
+            <Value flag="1"/>
+        </Key>
+        <Key name="50">
+            <Value flag="1"/>
+        </Key>
+        <Key name="80">
+            <Value flag="1"/>
+        </Key>
+        <Key name="78">
+            <Value flag="1"/>
+        </Key>
+        <Key name="52">
+            <Value flag="1"/>
+        </Key>
+        <Key name="53">
+            <Value flag="1"/>
+        </Key>
+        <Key name="51">
+            <Value flag="1"/>
+        </Key>
+        <Key name="55">
+            <Value flag="1"/>
+        </Key>
+        <Key name="5">
+            <Value flag="1"/>
+        </Key>
+        <Key name="56">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PlayerInfo">
+        <Key name="PlayerHandle">
+            <Value string="2-S2-2-878308"/>
+        </Key>
+        <Key name="PlayerName">
+            <Value text="LazeR"/>
+        </Key>
+    </Section>
+    <Section name="VampireStats">
+        <Key name="KilledBuilders">
+            <Value int="6"/>
+        </Key>
+        <Key name="Hours">
+            <Value int="89"/>
+        </Key>
+        <Key name="XP">
+            <Value int="1030"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="4"/>
+        </Key>
+        <Key name="Points">
+            <Value int="900"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="1"/>
+        </Key>
+        <Key name="Games">
+            <Value int="5"/>
+        </Key>
+        <Key name="WinningStreak">
+            <Value int="0"/>
+        </Key>
+        <Key name="Rank">
+            <Value string="D-"/>
+        </Key>
+    </Section>
+    <Section name="Achievments">
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="39">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="PreviousGameStats">
+        <Key name="IsHuman">
+            <Value flag="0"/>
+        </Key>
+        <Key name="WinPreviousGame">
+            <Value flag="0"/>
+        </Key>
+        <Key name="PointsLostHuman">
+            <Value int="0"/>
+        </Key>
+        <Key name="PointsWinHuman">
+            <Value int="0"/>
+        </Key>
+        <Key name="PointsLostTotal">
+            <Value int="100"/>
+        </Key>
+        <Key name="PointsWinTotal">
+            <Value int="100"/>
+        </Key>
+        <Key name="XPGotTotal">
+            <Value int="100"/>
+        </Key>
+        <Key name="PointsWinVampire">
+            <Value int="125"/>
+        </Key>
+        <Key name="XPGotVampire">
+            <Value int="150"/>
+        </Key>
+        <Key name="XPGotHuman">
+            <Value int="0"/>
+        </Key>
+        <Key name="PointsLostVampire">
+            <Value int="75"/>
+        </Key>
+    </Section>
+    <Section name="TotalStats">
+        <Key name="Hours">
+            <Value int="183"/>
+        </Key>
+        <Key name="XP">
+            <Value int="2070"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="4"/>
+        </Key>
+        <Key name="Points">
+            <Value int="1325"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="6"/>
+        </Key>
+        <Key name="XPGotTotal">
+            <Value int="150"/>
+        </Key>
+        <Key name="Games">
+            <Value int="10"/>
+        </Key>
+        <Key name="WinningStreak">
+            <Value int="0"/>
+        </Key>
+        <Key name="Rank">
+            <Value string="D"/>
+        </Key>
+    </Section>
+    <Section name="Rewards">
+        <Key name="1">
+            <Value flag="1"/>
+        </Key>
+        <Key name="18">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="AchievmentsVampire">
+        <Key name="72">
+            <Value flag="1"/>
+        </Key>
+        <Key name="4">
+            <Value flag="1"/>
+        </Key>
+        <Key name="49">
+            <Value flag="1"/>
+        </Key>
+        <Key name="77">
+            <Value flag="1"/>
+        </Key>
+        <Key name="71">
+            <Value flag="1"/>
+        </Key>
+        <Key name="69">
+            <Value flag="1"/>
+        </Key>
+        <Key name="68">
+            <Value flag="1"/>
+        </Key>
+        <Key name="73">
+            <Value flag="1"/>
+        </Key>
+        <Key name="76">
+            <Value flag="1"/>
+        </Key>
+        <Key name="66">
+            <Value flag="1"/>
+        </Key>
+        <Key name="70">
+            <Value flag="1"/>
+        </Key>
+        <Key name="64">
+            <Value flag="1"/>
+        </Key>
+        <Key name="74">
+            <Value flag="1"/>
+        </Key>
+        <Key name="65">
+            <Value flag="1"/>
+        </Key>
+        <Key name="75">
+            <Value flag="1"/>
+        </Key>
+        <Key name="67">
+            <Value flag="1"/>
+        </Key>
+        <Key name="63">
+            <Value flag="1"/>
+        </Key>
+    </Section>
+    <Section name="HumanStats">
+        <Key name="Hours">
+            <Value int="93"/>
+        </Key>
+        <Key name="XP">
+            <Value int="1070"/>
+        </Key>
+        <Key name="Losses">
+            <Value int="0"/>
+        </Key>
+        <Key name="KilledVampires">
+            <Value int="1"/>
+        </Key>
+        <Key name="Points">
+            <Value int="1750"/>
+        </Key>
+        <Key name="Wins">
+            <Value int="5"/>
+        </Key>
+        <Key name="WinningStreak">
+            <Value int="5"/>
+        </Key>
+        <Key name="Games">
+            <Value int="5"/>
+        </Key>
+        <Key name="Rank">
+            <Value string="D"/>
+        </Key>
+    </Section>
+    <Signature value="1D7E8FDAA4D59F6D56D837AB7BF157C4F9BAF3B2"/>
+</Bank>

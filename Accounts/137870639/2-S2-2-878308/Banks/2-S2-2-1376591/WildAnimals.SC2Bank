@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Player">
+        <Key name="Points">
+            <Value int="112064"/>
+        </Key>
+        <Key name="CheckTime">
+            <Value int="112064"/>
+        </Key>
+        <Key name="Games">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Signature value="2425DB24B612224779DE9EA493C610C07AC90C77"/>
+</Bank>

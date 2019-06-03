@@ -1,0 +1,105 @@
+﻿DIAG_BUFFER_INFO
+[20190520T14:58:07] {2a8c} INF: adding network address 8.241.9.126:80 for server //level3.blizzard.com/
+[20190520T14:58:07] {2a8c} INF: adding network address 67.27.233.129:443 for server https://level3.ssl.blizzard.com/
+[20190520T14:58:07] {2a8c} INF: adding network address 8.241.9.129:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:03:07] {2a8c} INF: adding network address 8.248.117.254:80 for server //level3.blizzard.com/
+[20190520T15:03:07] {2a8c} INF: adding network address 8.253.204.120:80 for server //level3.blizzard.com/
+[20190520T15:03:07] {2a8c} INF: adding network address 8.241.10.1:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:03:07] {2a8c} INF: adding network address 8.253.204.40:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:08:07] {2a8c} INF: adding network address 67.27.234.126:80 for server //level3.blizzard.com/
+[20190520T15:08:07] {2a8c} INF: adding network address 67.27.235.254:80 for server //level3.blizzard.com/
+[20190520T15:13:07] {2a8c} INF: adding network address 8.253.204.249:80 for server //level3.blizzard.com/
+[20190520T15:18:08] {2a8c} INF: adding network address 8.241.123.1:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:23:08] {2a8c} INF: adding network address 8.248.129.254:80 for server //level3.blizzard.com/
+[20190520T15:23:08] {2a8c} INF: adding network address 8.241.122.254:80 for server //level3.blizzard.com/
+[20190520T15:23:08] {2a8c} INF: adding network address 8.241.9.1:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:33:08] {2a8c} INF: adding network address 8.253.95.121:80 for server //level3.blizzard.com/
+[20190520T15:38:08] {2a8c} INF: adding network address 8.253.95.120:80 for server //level3.blizzard.com/
+[20190520T15:38:08] {2a8c} INF: adding network address 67.27.159.129:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:38:08] {2a8c} INF: adding network address 8.253.95.169:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:43:08] {2a8c} INF: adding network address 8.241.122.1:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:48:08] {2a8c} INF: adding network address 8.253.95.249:80 for server //level3.blizzard.com/
+[20190520T15:48:08] {2a8c} INF: adding network address 8.241.122.129:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:58:10] {2a8c} INF: adding network address 67.26.138.30:443 for server https://level3.ssl.blizzard.com/
+[20190520T15:58:10] {2a8c} INF: adding network address 67.27.233.1:443 for server https://level3.ssl.blizzard.com/
+[20190520T16:03:11] {2a8c} INF: adding network address 67.27.158.254:80 for server //level3.blizzard.com/
+[20190520T16:08:12] {2a8c} INF: adding network address 67.27.157.1:443 for server https://level3.ssl.blizzard.com/
+[20190520T16:13:13] {2a8c} INF: adding network address 8.253.95.41:443 for server https://level3.ssl.blizzard.com/
+[20190520T16:18:14] {2a8c} INF: adding network address 67.27.159.1:443 for server https://level3.ssl.blizzard.com/
+[20190520T16:38:15] {2a8c} INF: adding network address 67.27.234.254:80 for server //level3.blizzard.com/
+[20190520T16:38:15] {2a8c} INF: adding network address 8.248.140.20:443 for server https://level3.ssl.blizzard.com/
+[20190520T16:48:15] {2a8c} INF: adding network address 8.253.95.40:443 for server https://level3.ssl.blizzard.com/
+[20190520T17:23:20] {2a8c} INF: adding network address 8.248.128.20:443 for server https://level3.ssl.blizzard.com/
+[20190520T18:13:26] {2a8c} INF: adding network address 87.245.196.96:443 for server https://blzddist1-a.akamaihd.net/
+[20190520T18:13:26] {2a8c} INF: adding network address 87.245.196.82:443 for server https://blzddist1-a.akamaihd.net/
+[20190520T22:33:48] {2a8c} INF: adding network address 8.253.207.120:80 for server //level3.blizzard.com/
+[20190520T22:43:48] {2a8c} INF: adding network address 8.253.207.121:80 for server //level3.blizzard.com/
+[20190520T22:48:50] {2a8c} INF: adding network address 8.253.207.40:443 for server https://level3.ssl.blizzard.com/
+
+DIAG_BUFFER_ALL
+[20190520T23:06:00] {2a8c} debug: select() -> 0
+[20190520T23:06:00] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=629.978ms
+[20190520T23:06:01] {2a8c} debug: select() -> 0
+[20190520T23:06:01] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=369.511ms
+[20190520T23:06:01] {2a8c} debug: select() -> 0
+[20190520T23:06:01] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190520T23:06:02] {2a8c} debug: select() -> 0
+[20190520T23:06:02] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:03] {2a8c} debug: select() -> 0
+[20190520T23:06:03] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:04] {2a8c} debug: select() -> 0
+[20190520T23:06:04] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190520T23:06:05] {2a8c} debug: select() -> 0
+[20190520T23:06:05] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=628.991ms
+[20190520T23:06:06] {2a8c} debug: select() -> 0
+[20190520T23:06:06] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=370.959ms
+[20190520T23:06:06] {2a8c} debug: select() -> 0
+[20190520T23:06:06] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:07] {2a8c} debug: select() -> 0
+[20190520T23:06:07] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=29.000us
+[20190520T23:06:07] {2a8c} debug: select() -> 0
+[20190520T23:06:07] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:08] {2a8c} debug: select() -> 0
+[20190520T23:06:08] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190520T23:06:09] {2a8c} debug: select() -> 0
+[20190520T23:06:09] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:10] {2a8c} debug: select() -> 0
+[20190520T23:06:10] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=32.400us
+[20190520T23:06:10] {2a8c} debug: select() -> 0
+[20190520T23:06:10] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=626.027ms
+[20190520T23:06:11] {2a8c} debug: select() -> 0
+[20190520T23:06:11] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=373.484ms
+[20190520T23:06:11] {2a8c} debug: select() -> 0
+[20190520T23:06:11] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=7.700us
+[20190520T23:06:11] {2a8c} debug: select() -> 0
+[20190520T23:06:11] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:12] {2a8c} debug: select() -> 0
+[20190520T23:06:12] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.998ms
+[20190520T23:06:13] {2a8c} debug: select() -> 0
+[20190520T23:06:13] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=11.200us
+[20190520T23:06:13] {2a8c} debug: select() -> 0
+[20190520T23:06:13] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.996ms
+[20190520T23:06:14] {2a8c} debug: select() -> 0
+[20190520T23:06:14] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:15] {2a8c} debug: select() -> 0
+[20190520T23:06:15] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=19.500us
+[20190520T23:06:15] {2a8c} debug: select() -> 0
+[20190520T23:06:15] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=623.548ms
+[20190520T23:06:16] {2a8c} debug: select() -> 0
+[20190520T23:06:16] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=375.971ms
+[20190520T23:06:16] {2a8c} debug: select() -> 0
+[20190520T23:06:16] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:17] {2a8c} debug: select() -> 0
+[20190520T23:06:17] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:18] {2a8c} debug: select() -> 0
+[20190520T23:06:18] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=1.400us
+[20190520T23:06:18] {2a8c} debug: select() -> 0
+[20190520T23:06:18] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:19] {2a8c} debug: select() -> 0
+[20190520T23:06:19] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms
+[20190520T23:06:20] {2a8c} debug: select() -> 0
+[20190520T23:06:20] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=621.961ms
+[20190520T23:06:21] {2a8c} debug: select() -> 0
+[20190520T23:06:21] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=377.479ms
+[20190520T23:06:21] {2a8c} debug: select() -> 0
+[20190520T23:06:21] {2a8c} debug: select(): #rd=1 #wr=0 #ex=0 tv=999.997ms

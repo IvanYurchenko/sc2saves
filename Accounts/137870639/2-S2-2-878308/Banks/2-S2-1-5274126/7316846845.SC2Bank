@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="654654">
+        <Key name="7410">
+            <Value fixed="1"/>
+        </Key>
+        <Key name="987">
+            <Value int="19"/>
+        </Key>
+        <Key name="8520">
+            <Value int="420"/>
+        </Key>
+    </Section>
+</Bank>

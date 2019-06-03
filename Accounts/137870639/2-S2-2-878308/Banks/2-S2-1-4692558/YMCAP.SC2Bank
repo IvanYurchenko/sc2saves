@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="Bonus">
+        <Key name="TranslatorStatus">
+            <Value int="-1"/>
+        </Key>
+        <Key name="Item1">
+            <Value flag="0"/>
+        </Key>
+        <Key name="SkinModStatus">
+            <Value int="-1"/>
+        </Key>
+        <Key name="Item2">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Behind">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Mastered">
+            <Value flag="0"/>
+        </Key>
+        <Key name="Item0">
+            <Value flag="0"/>
+        </Key>
+        <Key name="CheatStatus">
+            <Value int="-1"/>
+        </Key>
+    </Section>
+    <Section name="BestMinerals">
+        <Key name="16">
+            <Value int="-1"/>
+        </Key>
+        <Key name="14">
+            <Value int="-1"/>
+        </Key>
+        <Key name="4">
+            <Value int="275"/>
+        </Key>
+        <Key name="9">
+            <Value int="-1"/>
+        </Key>
+        <Key name="19">
+            <Value int="-1"/>
+        </Key>
+        <Key name="6">
+            <Value int="-1"/>
+        </Key>
+        <Key name="1">
+            <Value int="300"/>
+        </Key>
+        <Key name="3">
+            <Value int="350"/>
+        </Key>
+        <Key name="20">
+            <Value int="-1"/>
+        </Key>
+        <Key name="8">
+            <Value int="-1"/>
+        </Key>
+        <Key name="0">
+            <Value int="205"/>
+        </Key>
+        <Key name="10">
+            <Value int="-1"/>
+        </Key>
+        <Key name="2">
+            <Value int="200"/>
+        </Key>
+        <Key name="21">
+            <Value int="-1"/>
+        </Key>
+        <Key name="11">
+            <Value int="-1"/>
+        </Key>
+        <Key name="15">
+            <Value int="-1"/>
+        </Key>
+        <Key name="7">
+            <Value int="-1"/>
+        </Key>
+        <Key name="17">
+            <Value int="-1"/>
+        </Key>
+        <Key name="13">
+            <Value int="-1"/>
+        </Key>
+        <Key name="12">
+            <Value int="-1"/>
+        </Key>
+        <Key name="18">
+            <Value int="-1"/>
+        </Key>
+        <Key name="5">
+            <Value int="300"/>
+        </Key>
+    </Section>
+    <Section name="BestTimes">
+        <Key name="16">
+            <Value int="99999"/>
+        </Key>
+        <Key name="14">
+            <Value int="99999"/>
+        </Key>
+        <Key name="4">
+            <Value int="51"/>
+        </Key>
+        <Key name="9">
+            <Value int="99999"/>
+        </Key>
+        <Key name="19">
+            <Value int="99999"/>
+        </Key>
+        <Key name="6">
+            <Value int="99999"/>
+        </Key>
+        <Key name="1">
+            <Value int="39"/>
+        </Key>
+        <Key name="3">
+            <Value int="64"/>
+        </Key>
+        <Key name="20">
+            <Value int="99999"/>
+        </Key>
+        <Key name="8">
+            <Value int="99999"/>
+        </Key>
+        <Key name="0">
+            <Value int="97"/>
+        </Key>
+        <Key name="10">
+            <Value int="99999"/>
+        </Key>
+        <Key name="2">
+            <Value int="62"/>
+        </Key>
+        <Key name="21">
+            <Value int="99999"/>
+        </Key>
+        <Key name="11">
+            <Value int="99999"/>
+        </Key>
+        <Key name="15">
+            <Value int="99999"/>
+        </Key>
+        <Key name="7">
+            <Value int="99999"/>
+        </Key>
+        <Key name="17">
+            <Value int="99999"/>
+        </Key>
+        <Key name="13">
+            <Value int="99999"/>
+        </Key>
+        <Key name="12">
+            <Value int="99999"/>
+        </Key>
+        <Key name="18">
+            <Value int="99999"/>
+        </Key>
+        <Key name="5">
+            <Value int="65"/>
+        </Key>
+    </Section>
+    <Section name="StageStatus">
+        <Key name="16">
+            <Value int="-1"/>
+        </Key>
+        <Key name="14">
+            <Value int="-1"/>
+        </Key>
+        <Key name="4">
+            <Value int="3"/>
+        </Key>
+        <Key name="9">
+            <Value int="-1"/>
+        </Key>
+        <Key name="19">
+            <Value int="-1"/>
+        </Key>
+        <Key name="6">
+            <Value int="0"/>
+        </Key>
+        <Key name="1">
+            <Value int="3"/>
+        </Key>
+        <Key name="3">
+            <Value int="3"/>
+        </Key>
+        <Key name="20">
+            <Value int="-1"/>
+        </Key>
+        <Key name="8">
+            <Value int="-1"/>
+        </Key>
+        <Key name="0">
+            <Value int="2"/>
+        </Key>
+        <Key name="10">
+            <Value int="-1"/>
+        </Key>
+        <Key name="2">
+            <Value int="3"/>
+        </Key>
+        <Key name="21">
+            <Value int="-1"/>
+        </Key>
+        <Key name="11">
+            <Value int="-1"/>
+        </Key>
+        <Key name="15">
+            <Value int="-1"/>
+        </Key>
+        <Key name="7">
+            <Value int="-1"/>
+        </Key>
+        <Key name="17">
+            <Value int="-1"/>
+        </Key>
+        <Key name="13">
+            <Value int="-1"/>
+        </Key>
+        <Key name="12">
+            <Value int="-1"/>
+        </Key>
+        <Key name="18">
+            <Value int="-1"/>
+        </Key>
+        <Key name="5">
+            <Value int="3"/>
+        </Key>
+    </Section>
+</Bank>

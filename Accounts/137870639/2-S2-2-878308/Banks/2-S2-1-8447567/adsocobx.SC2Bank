@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="ptheascended">
+        <Key name="ptheascended">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="30594857">
+        <Key name="30594857">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="peventsearned">
+        <Key name="peventsearned">
+            <Value int="8"/>
+        </Key>
+    </Section>
+    <Section name="pquest2">
+        <Key name="pquest2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40929286">
+        <Key name="40929286">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50297482">
+        <Key name="50297482">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="20594783">
+        <Key name="20594783">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50583727">
+        <Key name="50583727">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40294628">
+        <Key name="40294628">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40291728">
+        <Key name="40291728">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="plongleg">
+        <Key name="plongleg">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="papprentice">
+        <Key name="papprentice">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="30291985">
+        <Key name="30291985">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="57237654">
+        <Key name="57237654">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="10989821">
+        <Key name="10989821">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50926161">
+        <Key name="50926161">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40296857">
+        <Key name="40296857">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pdg">
+        <Key name="pdg">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pheavydrinker">
+        <Key name="pheavydrinker">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pquests">
+        <Key name="pquests">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pquest1">
+        <Key name="pquest1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="59275627">
+        <Key name="59275627">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50482758">
+        <Key name="50482758">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="20395746">
+        <Key name="20395746">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40294875">
+        <Key name="40294875">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pkitchenlover">
+        <Key name="pkitchenlover">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pexecutioner">
+        <Key name="pexecutioner">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pgolddigger">
+        <Key name="pgolddigger">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="59385549">
+        <Key name="59385549">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40295757">
+        <Key name="40295757">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="10101029">
+        <Key name="10101029">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="20397273">
+        <Key name="20397273">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40293758">
+        <Key name="40293758">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pmin">
+        <Key name="pmin">
+            <Value int="126"/>
+        </Key>
+    </Section>
+    <Section name="pmystery3">
+        <Key name="pmystery3">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pheavydrinkercount">
+        <Key name="pheavydrinkercount">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="phowneat">
+        <Key name="phowneat">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="20485727">
+        <Key name="20485727">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50392738">
+        <Key name="50392738">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pstorage2">
+        <Key name="pstorage2">
+            <Type string="Storage2"/>
+            <Shields fixed="0"/>
+            <Life fixed="9999"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+    </Section>
+    <Section name="phero">
+        <Key name="phero">
+            <Item13 string="SpiritDust,2,19"/>
+            <Item3 string="SpiritDust,2,2"/>
+            <XPName0 string="HeroLevels"/>
+            <Item15 string="Beef,2,25"/>
+            <ItemCount int="17"/>
+            <Type string="Hunter"/>
+            <Item10 string="SpiritDust,2,17"/>
+            <Item12 string="JagsRing,1,14"/>
+            <Shields fixed="0"/>
+            <Item14 string="SpiritDust,2,24"/>
+            <XP fixed="506"/>
+            <Item11 string="Beef,2,18"/>
+            <Item1 string="Lance,1,22"/>
+            <Life fixed="318.6064"/>
+            <Item16 string="MetalClaws,2,26"/>
+            <Item7 string="SpiritDust,2,10"/>
+            <Item6 string="ShortSword,2,9"/>
+            <Item4 string="SpiritDust,2,3"/>
+            <XPValue0 fixed="506"/>
+            <Item9 string="MetalClaws,2,16"/>
+            <Item2 string="DarkEssence,2,1"/>
+            <Energy fixed="86.003"/>
+            <Item0 string="BeginnersGuide,2,0"/>
+            <XPCount int="1"/>
+            <Item5 string="DarkEssence,2,8"/>
+            <Item8 string="SpiritDust,2,11"/>
+        </Key>
+    </Section>
+    <Section name="pchainsmoker">
+        <Key name="pchainsmoker">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40192712">
+        <Key name="40192712">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="10293756">
+        <Key name="10293756">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50392748">
+        <Key name="50392748">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="39489740">
+        <Key name="39489740">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pgiantslayer">
+        <Key name="pgiantslayer">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pmystery2">
+        <Key name="pmystery2">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pmythic">
+        <Key name="pmythic">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="20337581">
+        <Key name="20337581">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="30293857">
+        <Key name="30293857">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pstorage">
+        <Key name="pstorage">
+            <Type string="Storage"/>
+            <Shields fixed="0"/>
+            <Life fixed="9999"/>
+            <Energy fixed="0"/>
+            <XPCount int="0"/>
+        </Key>
+    </Section>
+    <Section name="56344732">
+        <Key name="56344732">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="47192857">
+        <Key name="47192857">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pbeyonddreams">
+        <Key name="pbeyonddreams">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pkillcount">
+        <Key name="pkillcount">
+            <Value int="129"/>
+        </Key>
+    </Section>
+    <Section name="40192828">
+        <Key name="40192828">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pgas">
+        <Key name="pgas">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50327734">
+        <Key name="50327734">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="48162759">
+        <Key name="48162759">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="99102847">
+        <Key name="99102847">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="06846285">
+        <Key name="06846285">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="09281726">
+        <Key name="09281726">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="10562849">
+        <Key name="10562849">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50284738">
+        <Key name="50284738">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="39489741">
+        <Key name="39489741">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="04819403">
+        <Key name="04819403">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="psavef">
+        <Key name="psavef">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="pbosskillcount">
+        <Key name="pbosskillcount">
+            <Value int="4"/>
+        </Key>
+    </Section>
+    <Section name="10675892">
+        <Key name="10675892">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40293745">
+        <Key name="40293745">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="20192817">
+        <Key name="20192817">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="96949792">
+        <Key name="96949792">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="39174671">
+        <Key name="39174671">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40293847">
+        <Key name="40293847">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="10968657">
+        <Key name="10968657">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="48275932">
+        <Key name="48275932">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40287583">
+        <Key name="40287583">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="ppizza">
+        <Key name="ppizza">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="50292758">
+        <Key name="50292758">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="10695738">
+        <Key name="10695738">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="10295748">
+        <Key name="10295748">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pmystery1">
+        <Key name="pmystery1">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="19294511">
+        <Key name="19294511">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="30192857">
+        <Key name="30192857">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="40938172">
+        <Key name="40938172">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Section name="pmoral">
+        <Key name="pmoral">
+            <Value int="0"/>
+        </Key>
+    </Section>
+    <Signature value="34F6E879295EABB04796AE8C97ED32433914F443"/>
+</Bank>

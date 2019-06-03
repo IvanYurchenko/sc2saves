@@ -2,7 +2,17 @@
 <Bank version="1">
     <Section name="HeroLineWars">
         <Key name="StarlightRewards">
-            <Value int="5"/>
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="LordaeronStrike">
+        <Key name="StarlightRewards">
+            <Value int="1"/>
+        </Key>
+    </Section>
+    <Section name="XHeroSiege">
+        <Key name="StarlightRewards">
+            <Value int="1"/>
         </Key>
     </Section>
 </Bank>

@@ -8,22 +8,22 @@
             <Value int="0"/>
         </Key>
         <Key name="kills_builder">
-            <Value int="1"/>
+            <Value int="14"/>
         </Key>
         <Key name="rounds_builder">
-            <Value int="0"/>
+            <Value int="7"/>
         </Key>
         <Key name="rounds_hunter">
-            <Value int="1"/>
+            <Value int="6"/>
         </Key>
         <Key name="kills_hunter">
-            <Value int="0"/>
+            <Value int="2"/>
         </Key>
         <Key name="wins_hunter">
-            <Value int="1"/>
+            <Value int="6"/>
         </Key>
         <Key name="wins_builder">
-            <Value int="0"/>
+            <Value int="7"/>
         </Key>
     </Section>
     <Section name="version">
@@ -36,20 +36,20 @@
     </Section>
     <Section name="main">
         <Key name="vote_map">
-            <Value int="5"/>
+            <Value int="2"/>
         </Key>
         <Key name="ingame">
             <Value flag="0"/>
         </Key>
         <Key name="vote_hunter">
-            <Value int="5"/>
+            <Value int="1"/>
         </Key>
         <Key name="achievements">
-            <Value string="AZ AY AX AW AV AU AT AK "/>
+            <Value string="AZ AY AX AW AV AU AT AP AO AN AK AJ "/>
         </Key>
         <Key name="vote_builder">
-            <Value int="0"/>
+            <Value int="3"/>
         </Key>
     </Section>
-    <Signature value="F8D5B803D52DFDEE336E6EC72747D1DCB732C64B"/>
+    <Signature value="79B98FF636C302B7A807B5EA827126A97B334198"/>
 </Bank>
